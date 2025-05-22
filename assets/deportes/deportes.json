@@ -1,0 +1,70 @@
+[
+  {
+    "id": "futbol",
+    "nombre": "Fútbol",
+    "descripcion": "Ejercicios para mejorar tu rendimiento en fútbol.",
+    "imagen": "URL",
+    "icono": "URL",
+    "categorias": [
+      {
+        "nombre": "Resistencia",
+        "ejercicios": [
+          {
+            "titulo": "Carrera continua",
+            "descripcion": "Corre durante 20 minutos a ritmo moderado.",
+            "duracion": "20 min"
+          }
+        ]
+      },
+      {
+        "nombre": "Fuerza explosiva",
+        "ejercicios": [
+          {
+            "titulo": "Saltos con balón medicinal",
+            "descripcion": "Haz 3 series de 10 repeticiones.",
+            "duracion": "10 min"
+          }
+        ]
+      }
+    ],
+    "curiosidades": [
+      {
+        "emoji": "💡",
+        "texto": "El fútbol es el deporte más popular del mundo, con más de 4.000 millones de seguidores."
+      },
+      {
+        "emoji": "💡",
+        "texto": "El balón oficial del Mundial de 2014 tenía sensores para medir velocidad y rotación."
+      },
+      {
+        "emoji": "💡",
+        "texto": "Un jugador profesional corre en promedio entre 9 y 11 km por partido."
+      }
+    ]
+  },
+  {
+    "id": "basquetbol",
+    "nombre": "Básquetbol",
+    "descripcion": "Ejercicios para mejorar tu rendimiento en basquetbol.",
+    "imagen": "URL",
+    "icono": "URL",
+    "categorias": [
+      {
+        "nombre": "Resistencia",
+        "ejercicios": [
+          {
+            "titulo": "Carrera continua",
+            "descripcion": "Corre durante 20 minutos a ritmo moderado.",
+            "duracion": "20 min"
+          }
+        ]
+      }
+    ],
+    "curiosidades": [
+      {
+        "emoji": "\uD83C\uDF1F",
+        "texto": "El basquetbol..."
+      }
+    ]
+  }
+]
