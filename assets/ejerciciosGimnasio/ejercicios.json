@@ -1,0 +1,882 @@
+[
+  {
+    "titulo": "Ejercicios de Pecho",
+    "descripcion": "Rutina completa para desarrollar y fortalecer los músculos del pecho",
+    "icono": "fitness_center",
+    "ejercicios": [
+      {
+        "nombre": "Press de Banca",
+        "descripcion": "Ejercicio fundamental para el desarrollo del pecho",
+        "calorias": 150,
+        "series": 4,
+        "repeticiones": 10,
+        "musculos": ["Pectoral Mayor", "Tríceps", "Hombros"],
+        "equipamiento": ["Barra", "Banco", "Discos"],
+        "instrucciones": [
+          "Acuéstate en el banco con los pies apoyados en el suelo",
+          "Agarra la barra con un agarre ligeramente más ancho que los hombros",
+          "Baja la barra controladamente hasta el pecho",
+          "Empuja la barra hacia arriba hasta extender los brazos"
+        ],
+        "consejos": "Mantén los hombros retraídos y la espalda arqueada ligeramente",
+        "dificultad": "medio",
+        "tiempoDescanso": 90,
+        "icono": "fitness_center",
+        "imagenUrl": "https://i.pinimg.com/736x/d2/08/b9/d208b9d2af61efd98d2f349d741433b8.jpg"
+      },
+      {
+        "nombre": "Aperturas con Mancuernas",
+        "descripcion": "Ejercicio de aislamiento para el pecho",
+        "calorias": 100,
+        "series": 3,
+        "repeticiones": 12,
+        "musculos": ["Pectoral Mayor", "Pectoral Menor"],
+        "equipamiento": ["Mancuernas", "Banco"],
+        "instrucciones": [
+          "Acuéstate en el banco con las mancuernas sobre el pecho",
+          "Extiende los brazos hacia arriba",
+          "Baja las mancuernas en un arco hacia los lados",
+          "Regresa a la posición inicial"
+        ],
+        "consejos": "Mantén una ligera flexión en los codos durante todo el movimiento",
+        "dificultad": "medio",
+        "tiempoDescanso": 60,
+        "icono": "fitness_center",
+        "imagenUrl": "https://www.hogarmania.com/archivos/202306/ejercicios-para-tonificar-pecho-con-mancuerna-apertura-de-pecho-XxXx80.jpg"
+      },
+      {
+        "nombre": "Press de Banca Inclinado",
+        "descripcion": "Ejercicio para el desarrollo de la parte superior del pecho",
+        "calorias": 140,
+        "series": 4,
+        "repeticiones": 10,
+        "musculos": ["Pectoral Superior", "Hombros", "Tríceps"],
+        "equipamiento": ["Barra", "Banco Inclinado", "Discos"],
+        "instrucciones": [
+          "Ajusta el banco a 30-45 grados de inclinación",
+          "Acuéstate y agarra la barra con un agarre medio",
+          "Baja la barra controladamente hasta la parte superior del pecho",
+          "Empuja la barra hacia arriba"
+        ],
+        "consejos": "Mantén los codos ligeramente hacia adentro durante el movimiento",
+        "dificultad": "medio",
+        "tiempoDescanso": 90,
+        "icono": "fitness_center",
+        "imagenUrl": "https://previews.123rf.com/images/lioputra/lioputra2011/lioputra201100085/158979432-ejercicio-de-press-de-banca-inclinado-con-barra-ilustraci%C3%B3n-de-vector-plano-aislado-sobre-fondo-blan.jpg"
+      },
+      {
+        "nombre": "Press de Banca Declinado",
+        "descripcion": "Ejercicio para el desarrollo de la parte inferior del pecho",
+        "calorias": 130,
+        "series": 4,
+        "repeticiones": 10,
+        "musculos": ["Pectoral Inferior", "Tríceps"],
+        "equipamiento": ["Barra", "Banco Declinado", "Discos"],
+        "instrucciones": [
+          "Ajusta el banco a 30-45 grados de declinación",
+          "Acuéstate y agarra la barra con un agarre medio",
+          "Baja la barra controladamente hasta la parte inferior del pecho",
+          "Empuja la barra hacia arriba"
+        ],
+        "consejos": "Mantén los pies seguros en los soportes del banco",
+        "dificultad": "medio",
+        "tiempoDescanso": 90,
+        "icono": "fitness_center",
+        "imagenUrl": "https://static.vecteezy.com/system/resources/previews/008/573/020/original/man-doing-decline-barbell-bench-press-flat-illustration-isolated-on-white-background-vector.jpg"
+        
+      },
+      {
+        "nombre": "Pullover con Mancuerna",
+        "descripcion": "Ejercicio para el desarrollo de la parte externa del pecho",
+        "calorias": 90,
+        "series": 3,
+        "repeticiones": 12,
+        "musculos": ["Pectoral", "Dorsal Ancho", "Serrato"],
+        "equipamiento": ["Mancuerna", "Banco"],
+        "instrucciones": [
+          "Acuéstate en el banco con la mancuerna sobre el pecho",
+          "Extiende los brazos y baja la mancuerna detrás de la cabeza",
+          "Regresa a la posición inicial"
+        ],
+        "consejos": "Mantén los brazos ligeramente flexionados durante el movimiento",
+        "dificultad": "fácil",
+        "tiempoDescanso": 60,
+        "icono": "fitness_center",
+        "imagenUrl": "https://st5.depositphotos.com/80218270/66499/v/1600/depositphotos_664990638-stock-illustration-man-doing-dumbbell-pullover-exercise.jpg"
+      },
+      {
+        "nombre": "Press declinado con mancuernas",
+        "descripcion": "Ejercicio para el desarrollo de la parte inferior del pecho",
+        "calorias": 80,
+        "series": 3,
+        "repeticiones": 15,
+        "musculos": ["Pectoral Mayor", "Pectoral Menor"],
+        "equipamiento": ["Máquina de Poleas"],
+        "instrucciones": [
+          "Ajusta el banco a 30-45 grados de declinación",
+          "Acuéstate y agarra las mancuernas con un agarre medio",
+          "Baja las mancuernas controladamente hasta la parte inferior del pecho",
+          "Empuja las mancuernas hacia arriba"
+        ],
+        "consejos": "Mantén una ligera inclinación hacia adelante",
+        "dificultad": "fácil",
+        "tiempoDescanso": 60,
+        "icono": "fitness_center",
+        "imagenUrl": "https://mygreatness.com/wp-content/uploads/2021/05/press-de-banca-declinado.jpeg"
+      }
+    ]
+  },
+  {
+    "titulo": "Ejercicios de Espalda",
+    "descripcion": "Rutina para desarrollar una espalda fuerte y definida",
+    "icono": "fitness_center",
+    "ejercicios": [
+      {
+        "nombre": "Dominadas",
+        "descripcion": "Ejercicio compuesto para la espalda alta",
+        "calorias": 120,
+        "series": 4,
+        "repeticiones": 8,
+        "musculos": ["Dorsal Ancho", "Trapecio", "Romboides"],
+        "equipamiento": ["Barra de Dominadas"],
+        "instrucciones": [
+          "Agarra la barra con un agarre más ancho que los hombros",
+          "Cuelga con los brazos extendidos",
+          "Tira hacia arriba hasta que la barbilla pase la barra",
+          "Baja controladamente a la posición inicial"
+        ],
+        "consejos": "Mantén el core activo y evita balancearte",
+        "dificultad": "difícil",
+        "tiempoDescanso": 90,
+        "icono": "fitness_center",
+        "imagenUrl": "https://cdn.shopify.com/s/files/1/0619/1985/4771/files/Shutterstock_2214159037_480x480.png?v=1681224452"
+      },
+      {
+        "nombre": "Remo con Barra",
+        "descripcion": "Ejercicio fundamental para la espalda media",
+        "calorias": 130,
+        "series": 4,
+        "repeticiones": 10,
+        "musculos": ["Dorsal Ancho", "Trapecio", "Romboides"],
+        "equipamiento": ["Barra", "Discos"],
+        "instrucciones": [
+          "Flexiona las rodillas y la cadera",
+          "Agarra la barra con un agarre más ancho que los hombros",
+          "Tira de la barra hacia el abdomen",
+          "Baja controladamente"
+        ],
+        "consejos": "Mantén la espalda recta y los codos cerca del cuerpo",
+        "dificultad": "medio",
+        "tiempoDescanso": 90,
+        "icono": "fitness_center",
+        "imagenUrl": "https://static.vecteezy.com/system/resources/previews/017/423/212/non_2x/man-doing-the-pendlay-barbell-row-bent-over-barbell-rows-from-floor-flat-illustration-isolated-on-white-background-vector.jpg"
+      },
+      {
+        "nombre": "Remo en Polea Baja",
+        "descripcion": "Ejercicio de aislamiento para la espalda media",
+        "calorias": 100,
+        "series": 4,
+        "repeticiones": 12,
+        "musculos": ["Dorsal Ancho", "Trapecio", "Romboides"],
+        "equipamiento": ["Máquina de Poleas"],
+        "instrucciones": [
+          "Siéntate frente a la polea con los pies en el soporte",
+          "Agarra la barra con un agarre medio",
+          "Tira de la barra hacia el abdomen",
+          "Regresa controladamente"
+        ],
+        "consejos": "Mantén el pecho arriba y los hombros retraídos",
+        "dificultad": "medio",
+        "tiempoDescanso": 60,
+        "icono": "fitness_center",
+        "imagenUrl": "https://i.pinimg.com/736x/30/fa/24/30fa249966b54571c803c94683961560.jpg"
+      },
+      {
+        "nombre": "Pull Down en Polea Alta",
+        "descripcion": "Ejercicio para el desarrollo del dorsal ancho",
+        "calorias": 110,
+        "series": 4,
+        "repeticiones": 12,
+        "musculos": ["Dorsal Ancho", "Bíceps", "Hombros"],
+        "equipamiento": ["Máquina de Poleas"],
+        "instrucciones": [
+          "Siéntate frente a la polea alta",
+          "Agarra la barra con un agarre ancho",
+          "Tira de la barra hacia el pecho",
+          "Regresa controladamente"
+        ],
+        "consejos": "Mantén el torso recto y los codos apuntando hacia abajo",
+        "dificultad": "fácil",
+        "tiempoDescanso": 60,
+        "icono": "fitness_center",
+        "imagenUrl": "https://www.shutterstock.com/image-vector/man-doing-seated-lat-pulldowns-600w-2044848959.jpg"
+      },
+      {
+        "nombre": "Remo con Mancuerna a una Mano",
+        "descripcion": "Ejercicio unilateral para la espalda",
+        "calorias": 90,
+        "series": 3,
+        "repeticiones": 12,
+        "musculos": ["Dorsal Ancho", "Trapecio", "Romboides"],
+        "equipamiento": ["Mancuerna", "Banco"],
+        "instrucciones": [
+          "Apoya una rodilla y una mano en el banco",
+          "Agarra la mancuerna con la otra mano",
+          "Tira de la mancuerna hacia arriba",
+          "Baja controladamente"
+        ],
+        "consejos": "Mantén la espalda recta y el codo cerca del cuerpo",
+        "dificultad": "medio",
+        "tiempoDescanso": 60,
+        "icono": "fitness_center",
+        "imagenUrl": "https://www.hogarmania.com/archivos/202210/los-mejores-ejercicios-con-mancuernas-para-tonificar-brazos-en-casa-remo-una-mano-640xXx80.jpg"
+      },
+      {
+        "nombre": "Face Pull",
+        "descripcion": "Ejercicio para los músculos posteriores del hombro y la espalda alta",
+        "calorias": 70,
+        "series": 3,
+        "repeticiones": 15,
+        "musculos": ["Trapecio", "Romboides", "Deltoides Posterior"],
+        "equipamiento": ["Máquina de Poleas"],
+        "instrucciones": [
+          "Párate frente a la polea alta",
+          "Agarra la cuerda con ambas manos",
+          "Tira hacia la cara separando las manos",
+          "Regresa controladamente"
+        ],
+        "consejos": "Mantén los codos altos y apunta hacia arriba",
+        "dificultad": "fácil",
+        "tiempoDescanso": 45,
+        "icono": "fitness_center",
+        "imagenUrl": "https://www.shutterstock.com/image-vector/woman-doing-face-pull-rear-600w-2002462433.jpg"
+      }
+    ]
+  },
+  {
+    "titulo": "Ejercicios de Piernas",
+    "descripcion": "Rutina completa para desarrollar fuerza y masa muscular en las piernas",
+    "icono": "fitness_center",
+    "ejercicios": [
+      {
+        "nombre": "Sentadilla con Barra",
+        "descripcion": "Ejercicio fundamental para el desarrollo de piernas",
+        "calorias": 200,
+        "series": 4,
+        "repeticiones": 8,
+        "musculos": ["Cuádriceps", "Glúteos", "Isquiotibiales"],
+        "equipamiento": ["Barra", "Discos", "Rack de Sentadillas"],
+        "instrucciones": [
+          "Coloca la barra sobre los trapecios",
+          "Párate con los pies al ancho de los hombros",
+          "Flexiona rodillas y cadera como si te sentaras",
+          "Vuelve a la posición inicial"
+        ],
+        "consejos": "Mantén el pecho arriba y las rodillas alineadas con los pies",
+        "dificultad": "medio",
+        "tiempoDescanso": 120,
+        "icono": "fitness_center",
+        "imagenUrl": "https://static.vecteezy.com/system/resources/previews/006/417/622/non_2x/woman-doing-squat-with-barbell-exercise-flat-illustration-isolated-on-white-background-free-vector.jpg"
+      },
+      {
+        "nombre": "Peso Muerto",
+        "descripcion": "Ejercicio compuesto para toda la cadena posterior",
+        "calorias": 220,
+        "series": 4,
+        "repeticiones": 6,
+        "musculos": ["Isquiotibiales", "Glúteos", "Espalda Baja"],
+        "equipamiento": ["Barra", "Discos"],
+        "instrucciones": [
+          "Párate con los pies al ancho de los hombros",
+          "Flexiona la cadera y las rodillas",
+          "Agarra la barra con un agarre más ancho que los hombros",
+          "Levántala manteniendo la espalda recta"
+        ],
+        "consejos": "Mantén la espalda recta y la barra cerca del cuerpo",
+        "dificultad": "difícil",
+        "tiempoDescanso": 120,
+        "icono": "fitness_center",
+        "imagenUrl": "https://previews.123rf.com/images/lioputra/lioputra2206/lioputra220600189/187868693-mujer-haciendo-ejercicio-de-peso-muerto-con-barra-ilustraci%C3%B3n-vectorial-plana-aislada-sobre-fondo-bl.jpg"
+      },
+      {
+        "nombre": "Extensiones de Pierna",
+        "descripcion": "Ejercicio de aislamiento para cuádriceps",
+        "calorias": 100,
+        "series": 3,
+        "repeticiones": 15,
+        "musculos": ["Cuádriceps"],
+        "equipamiento": ["Máquina de Extensiones"],
+        "instrucciones": [
+          "Siéntate en la máquina",
+          "Ajusta el rodillo a la altura de los tobillos",
+          "Extiende las piernas completamente",
+          "Baja controladamente"
+        ],
+        "consejos": "Mantén la espalda recta y los pies apuntando hacia adelante",
+        "dificultad": "fácil",
+        "tiempoDescanso": 60,
+        "icono": "fitness_center",
+        "imagenUrl": "https://static.vecteezy.com/system/resources/previews/008/418/356/non_2x/man-doing-single-leg-extension-exercise-flat-illustration-isolated-on-white-background-vector.jpg"
+      },
+      {
+        "nombre": "Curl de Pierna",
+        "descripcion": "Ejercicio de aislamiento para isquiotibiales",
+        "calorias": 90,
+        "series": 3,
+        "repeticiones": 15,
+        "musculos": ["Isquiotibiales", "Glúteos"],
+        "equipamiento": ["Máquina de Curl de Pierna"],
+        "instrucciones": [
+          "Acuéstate boca abajo en la máquina",
+          "Ajusta el rodillo a la altura de los tobillos",
+          "Flexiona las rodillas llevando los talones hacia los glúteos",
+          "Baja controladamente"
+        ],
+        "consejos": "Mantén las caderas pegadas al banco",
+        "dificultad": "fácil",
+        "tiempoDescanso": 60,
+        "icono": "fitness_center",
+        "imagenUrl": "https://us.123rf.com/450wm/lioputra/lioputra2111/lioputra211100210/177884036-hombre-haciendo-ejercicio-de-rizos-de-pierna-acostado-ilustraci%C3%B3n-de-vector-plano-aislado-sobre-fond.jpg"
+      },
+      {
+        "nombre": "Prensa de Piernas",
+        "descripcion": "Ejercicio compuesto para piernas con máquina",
+        "calorias": 180,
+        "series": 4,
+        "repeticiones": 10,
+        "musculos": ["Cuádriceps", "Glúteos", "Isquiotibiales"],
+        "equipamiento": ["Máquina de Prensa"],
+        "instrucciones": [
+          "Siéntate en la máquina",
+          "Coloca los pies en la plataforma",
+          "Empuja la plataforma hasta extender las piernas",
+          "Baja controladamente"
+        ],
+        "consejos": "Mantén la espalda pegada al respaldo",
+        "dificultad": "medio",
+        "tiempoDescanso": 90,
+        "icono": "fitness_center",
+        "imagenUrl": "https://previews.123rf.com/images/lioputra/lioputra2206/lioputra220600163/187713651-hombre-haciendo-ejercicio-de-prensa-de-piernas-en-la-m%C3%A1quina-ilustraci%C3%B3n-vectorial-plana-aislada-sob.jpg"
+      },
+      {
+        "nombre": "Zancadas con Mancuerna",
+        "descripcion": "Ejercicio unilateral para piernas",
+        "calorias": 150,
+        "series": 3,
+        "repeticiones": 12,
+        "musculos": ["Cuádriceps", "Glúteos", "Isquiotibiales"],
+        "equipamiento": ["Mancuernas"],
+        "instrucciones": [
+          "Coloca las mancuernas sobre los trapecios",
+          "Da un paso adelante con una pierna",
+          "Baja hasta que la rodilla trasera casi toque el suelo",
+          "Empuja para volver a la posición inicial"
+        ],
+        "consejos": "Mantén el torso erguido y las rodillas alineadas",
+        "dificultad": "medio",
+        "tiempoDescanso": 60,
+        "icono": "fitness_center",
+        "imagenUrl": "https://static.vecteezy.com/system/resources/previews/006/417/771/non_2x/man-doing-dumbbell-walking-lunges-exercise-flat-illustration-isolated-on-white-background-free-vector.jpg"
+      }
+    ]
+  },
+  {
+    "titulo": "Ejercicios de Hombros",
+    "descripcion": "Rutina para desarrollar hombros fuertes y definidos",
+    "icono": "fitness_center",
+    "ejercicios": [
+      {
+        "nombre": "Press Militar",
+        "descripcion": "Ejercicio fundamental para hombros",
+        "calorias": 140,
+        "series": 4,
+        "repeticiones": 8,
+        "musculos": ["Deltoides", "Trapecio", "Tríceps"],
+        "equipamiento": ["Barra", "Discos"],
+        "instrucciones": [
+          "Párate con los pies al ancho de los hombros",
+          "Agarra la barra a la altura de los hombros",
+          "Empuja la barra hacia arriba",
+          "Baja controladamente"
+        ],
+        "consejos": "Mantén el core activo y la espalda recta",
+        "dificultad": "medio",
+        "tiempoDescanso": 90,
+        "icono": "fitness_center",
+        "imagenUrl":"https://media.istockphoto.com/id/1408276646/es/vector/hombre-haciendo-ejercicio-de-prensa-de-hombro-con-barra-de-pie-ilustraci%C3%B3n-vectorial-plana.jpg?s=612x612&w=0&k=20&c=sFTvw2dlmkwVxxh39TFrR9i2KwNoC2s2OqM2SkV1zLA="
+      },
+      {
+        "nombre": "Elevaciones Laterales",
+        "descripcion": "Ejercicio de aislamiento para deltoides laterales",
+        "calorias": 80,
+        "series": 3,
+        "repeticiones": 12,
+        "musculos": ["Deltoides Laterales", "Trapecio"],
+        "equipamiento": ["Mancuernas"],
+        "instrucciones": [
+          "Párate con los pies al ancho de los hombros",
+          "Eleva los brazos lateralmente hasta la altura de los hombros",
+          "Baja controladamente",
+          "Mantén los codos ligeramente flexionados"
+        ],
+        "consejos": "Mantén la espalda recta y los hombros relajados",
+        "dificultad": "fácil",
+        "tiempoDescanso": 60,
+        "icono": "fitness_center",
+        "imagenUrl":"https://static.vecteezy.com/system/resources/previews/006/417/678/non_2x/woman-doing-lateral-side-shoulder-dumbbell-raises-power-partials-exercise-flat-illustration-isolated-on-white-background-free-vector.jpg"
+      },
+      {
+        "nombre": "Elevaciones Frontales",
+        "descripcion": "Ejercicio para deltoides frontales",
+        "calorias": 70,
+        "series": 3,
+        "repeticiones": 12,
+        "musculos": ["Deltoides Frontales", "Pecho"],
+        "equipamiento": ["Mancuernas"],
+        "instrucciones": [
+          "Párate con los pies al ancho de los hombros",
+          "Eleva los brazos hacia adelante hasta la altura de los hombros",
+          "Baja controladamente",
+          "Mantén los codos ligeramente flexionados"
+        ],
+        "consejos": "Mantén la espalda recta y los hombros relajados",
+        "dificultad": "fácil",
+        "tiempoDescanso": 60,
+        "icono": "fitness_center",
+        "imagenUrl":"https://static.vecteezy.com/system/resources/previews/006/417/770/non_2x/man-doing-two-arm-dumbbell-front-shoulder-raises-exercise-flat-illustration-isolated-on-white-background-free-vector.jpg"
+      },
+      {
+        "nombre": "Face Pull de rodillas",
+        "descripcion": "Ejercicio para la parte posterior de los hombros",
+        "calorias": 60,
+        "series": 3,
+        "repeticiones": 15,
+        "musculos": ["Deltoides Posteriores", "Trapecio", "Romboides"],
+        "equipamiento": ["Máquina de Poleas"],
+        "instrucciones": [
+          "Párate frente a la polea alta y arrodillate",
+          "Agarra la cuerda con ambas manos",
+          "Tira hacia la cara separando las manos",
+          "Regresa controladamente"
+        ],
+        "consejos": "Mantén los codos altos y apunta hacia arriba",
+        "dificultad": "fácil",
+        "tiempoDescanso": 45,
+        "icono": "fitness_center",
+        "imagenUrl":"https://www.shutterstock.com/image-vector/man-doing-kneeling-high-pulley-260nw-2402539569.jpg"
+      },
+      {
+        "nombre": "Press Arnold",
+        "descripcion": "Variación del press militar con rotación",
+        "calorias": 120,
+        "series": 3,
+        "repeticiones": 10,
+        "musculos": ["Deltoides", "Trapecio", "Tríceps"],
+        "equipamiento": ["Mancuernas"],
+        "instrucciones": [
+          "Siéntate con la espalda recta",
+          "Sostén las mancuernas a la altura de los hombros",
+          "Rota las muñecas mientras empujas hacia arriba",
+          "Baja controladamente"
+        ],
+        "consejos": "Mantén el core activo y la espalda recta",
+        "dificultad": "medio",
+        "tiempoDescanso": 60,
+        "icono": "fitness_center",
+        "imagenUrl":"https://us.123rf.com/450wm/lioputra/lioputra2307/lioputra230700162/209737270-mujer-haciendo-press-arnold-sentado-en-una-ilustraci%C3%B3n-de-vector-plano-de-ejercicio-de-banco-aislado.jpg"
+      },
+      {
+        "nombre": "Elevaciones Posteriores",
+        "descripcion": "Ejercicio para deltoides posteriores",
+        "calorias": 70,
+        "series": 3,
+        "repeticiones": 12,
+        "musculos": ["Deltoides Posteriores", "Trapecio"],
+        "equipamiento": ["Mancuernas"],
+        "instrucciones": [
+          "Inclínate hacia adelante con la espalda recta",
+          "Eleva los brazos hacia los lados",
+          "Mantén los codos ligeramente flexionados",
+          "Baja controladamente"
+        ],
+        "consejos": "Mantén la espalda recta y el pecho arriba",
+        "dificultad": "fácil",
+        "tiempoDescanso": 45,
+        "icono": "fitness_center",
+        "imagenUrl":"https://static.vecteezy.com/system/resources/previews/017/423/199/non_2x/man-doing-dumbbell-bent-over-reverse-flyes-flat-illustration-isolated-on-white-background-vector.jpg"
+      }
+    ]
+  },
+  {
+    "titulo": "Ejercicios de Abdomen",
+    "descripcion": "Rutina completa para fortalecer y tonificar los músculos abdominales en el gimnasio",
+    "ejercicios": [
+      {
+        "nombre": "Crunch en máquina",
+        "descripcion": "Ejercicio para abdominales usando máquina específica",
+        "calorias": 110,
+        "series": 3,
+        "repeticiones": 15,
+        "musculos": ["Recto Abdominal", "Oblicuos"],
+        "equipamiento": ["Máquina de Crunch"],
+        "instrucciones": [
+          "Ajusta la máquina según tu altura",
+          "Sujeta las asas y realiza el crunch",
+          "Regresa controladamente"
+        ],
+        "consejos": "No uses impulso, controla el movimiento",
+        "dificultad": "fácil",
+        "tiempoDescanso": 45,
+        "icono": "fitness_center",
+        "imagenUrl":"https://www.shutterstock.com/image-vector/young-man-exercise-abs-muscles-600nw-2310949251.jpg"
+      },
+      {
+        "nombre": "Elevación de piernas en barra",
+        "descripcion": "Ejercicio para abdominales inferiores usando barra de dominadas",
+        "calorias": 120,
+        "series": 3,
+        "repeticiones": 12,
+        "musculos": ["Recto Abdominal Inferior"],
+        "equipamiento": ["Barra de Dominadas"],
+        "instrucciones": [
+          "Cuelga de la barra",
+          "Eleva las piernas rectas",
+          "Baja controladamente"
+        ],
+        "consejos": "No balancees el cuerpo",
+        "dificultad": "medio",
+        "tiempoDescanso": 60,
+        "icono": "fitness_center",
+        "imagenUrl":"https://static.vecteezy.com/system/resources/previews/016/137/991/non_2x/woman-doing-hanging-leg-raises-to-bar-flat-illustration-abdominals-exercise-isolated-on-white-background-vector.jpg"
+      },
+      {
+        "nombre": "Plancha",
+        "descripcion": "Plancha tradicional",
+        "calorias": 100,
+        "series": 3,
+        "repeticiones": 1,
+        "duracion": 45,
+        "musculos": ["Recto Abdominal", "Transverso Abdominal"],
+        "equipamiento": ["Disco"],
+        "instrucciones": [
+          "Colócate en posición de plancha",
+          "Mantén la posición"
+        ],
+        "consejos": "Mantén el core activo",
+        "dificultad": "medio",
+        "tiempoDescanso": 60,
+        "icono": "fitness_center",
+        "imagenUrl":"https://previews.123rf.com/images/lioputra/lioputra2304/lioputra230400124/202194928-gu%C3%ADa-de-ejercicios-de-un-hombre-que-hace-levantamientos-de-piernas-en-plancha-en-2-pasos-ilustraci%C3%B3n.jpg"
+      },
+      {
+        "nombre": "Crunch en polea alta",
+        "descripcion": "Crunch de rodillas usando polea alta",
+        "calorias": 90,
+        "series": 3,
+        "repeticiones": 15,
+        "musculos": ["Recto Abdominal"],
+        "equipamiento": ["Máquina de Poleas"],
+        "instrucciones": [
+          "Ajusta la polea alta",
+          "Sujeta la cuerda y flexiona el torso",
+          "Regresa controladamente"
+        ],
+        "consejos": "No uses peso excesivo",
+        "dificultad": "medio",
+        "tiempoDescanso": 45,
+        "icono": "fitness_center",
+        "imagenUrl":"https://www.shutterstock.com/image-vector/man-doing-kneeling-cable-crunches-600nw-1847944819.jpg"
+      },
+      {
+        "nombre": "Ab wheel rollout",
+        "descripcion": "Ejercicio avanzado para el core usando rueda abdominal",
+        "calorias": 130,
+        "series": 3,
+        "repeticiones": 10,
+        "musculos": ["Recto Abdominal", "Oblicuos"],
+        "equipamiento": ["Rueda Abdominal"],
+        "instrucciones": [
+          "Arrodíllate y sujeta la rueda",
+          "Rueda hacia adelante y regresa"
+        ],
+        "consejos": "No bajes la cadera",
+        "dificultad": "difícil",
+        "tiempoDescanso": 60,
+        "icono": "fitness_center",
+        "imagenUrl":"https://www.shutterstock.com/image-vector/man-doing-ab-roller-exercise-600nw-2072637968.jpg"
+      },
+      {
+        "nombre": "Crunch inverso en banco inclinado",
+        "descripcion": "Crunch inverso para abdominales inferiores en banco inclinado",
+        "calorias": 100,
+        "series": 3,
+        "repeticiones": 12,
+        "musculos": ["Recto Abdominal Inferior"],
+        "equipamiento": ["Banco Inclinado"],
+        "instrucciones": [
+          "Acuéstate en el banco inclinado",
+          "Eleva las piernas hacia el pecho",
+          "Baja controladamente"
+        ],
+        "consejos": "No uses impulso",
+        "dificultad": "medio",
+        "tiempoDescanso": 45,
+        "icono": "fitness_center",
+        "imagenUrl":"https://us.123rf.com/450wm/lioputra/lioputra2211/lioputra221100107/194463691-mujer-haciendo-ejercicio-de-crujido-inverso-de-declive-ilustraci%C3%B3n-vectorial-plana-aislada-sobre.jpg?ver=6"
+      }
+    ]
+  },
+  {
+    "titulo": "Ejercicios de Brazos",
+    "descripcion": "Rutina para desarrollar bíceps y tríceps fuertes",
+    "icono": "fitness_center",
+    "ejercicios": [
+      {
+        "nombre": "Curl de Bíceps con Barra",
+        "descripcion": "Ejercicio fundamental para bíceps",
+        "calorias": 100,
+        "series": 4,
+        "repeticiones": 10,
+        "musculos": ["Bíceps", "Antebrazo"],
+        "equipamiento": ["Barra", "Discos"],
+        "instrucciones": [
+          "Párate con los pies al ancho de los hombros",
+          "Agarra la barra con un agarre más ancho que los hombros",
+          "Flexiona los codos llevando la barra hacia los hombros",
+          "Baja controladamente"
+        ],
+        "consejos": "Mantén los codos cerca del cuerpo",
+        "dificultad": "fácil",
+        "tiempoDescanso": 60,
+        "icono": "fitness_center",
+        "imagenUrl": "https://previews.123rf.com/images/lioputra/lioputra2011/lioputra201100031/158565171-hombre-haciendo-ejercicio-de-rizos-con-barra-curl-de-b%C3%ADceps-de-pie-entrenamiento-de-brazos-ilustraci.jpg"
+      },
+      {
+        "nombre": "Extensiones de Tríceps en Polea",
+        "descripcion": "Ejercicio de aislamiento para tríceps",
+        "calorias": 80,
+        "series": 3,
+        "repeticiones": 12,
+        "musculos": ["Tríceps"],
+        "equipamiento": ["Máquina de Poleas"],
+        "instrucciones": [
+          "Párate frente a la polea alta",
+          "Agarra la barra con un agarre cerrado",
+          "Extiende los brazos hacia abajo",
+          "Regresa controladamente"
+        ],
+        "consejos": "Mantén los codos cerca del cuerpo",
+        "dificultad": "fácil",
+        "tiempoDescanso": 45,
+        "icono": "fitness_center",
+        "imagenUrl": "https://static.vecteezy.com/system/resources/previews/016/137/875/non_2x/woman-doing-cable-rope-tricep-pull-down-or-push-exercise-flat-illustration-isolated-on-white-background-vector.jpg"
+      },
+      {
+        "nombre": "Curl Martillo",
+        "descripcion": "Ejercicio para bíceps y antebrazos",
+        "calorias": 90,
+        "series": 3,
+        "repeticiones": 12,
+        "musculos": ["Bíceps", "Antebrazo"],
+        "equipamiento": ["Mancuernas"],
+        "instrucciones": [
+          "Párate con los pies al ancho de los hombros",
+          "Sostén las mancuernas con agarre neutro",
+          "Flexiona los codos llevando las mancuernas hacia los hombros",
+          "Baja controladamente"
+        ],
+        "consejos": "Mantén los codos cerca del cuerpo",
+        "dificultad": "fácil",
+        "tiempoDescanso": 45,
+        "icono": "fitness_center",
+        "imagenUrl": "https://i.pinimg.com/736x/2b/a0/29/2ba029a891f863c800cdfb6dfe7986e1.jpg"
+      },
+      {
+        "nombre": "Extensiones de Tríceps con Mancuerna",
+        "descripcion": "Ejercicio para tríceps con mancuerna",
+        "calorias": 70,
+        "series": 3,
+        "repeticiones": 12,
+        "musculos": ["Tríceps"],
+        "equipamiento": ["Mancuerna"],
+        "instrucciones": [
+          "Sostén la mancuerna con ambas manos",
+          "Extiende los brazos por encima de la cabeza",
+          "Flexiona los codos bajando la mancuerna",
+          "Extiende los brazos nuevamente"
+        ],
+        "consejos": "Mantén los codos apuntando hacia arriba",
+        "dificultad": "fácil",
+        "tiempoDescanso": 45,
+        "icono": "fitness_center",
+        "imagenUrl": "https://previews.123rf.com/images/lioputra/lioputra2306/lioputra230600110/206515669-hombre-haciendo-ejercicio-de-extensiones-de-tr%C3%ADceps-con-mancuernas-por-encima-de-la-cabeza-con-un-so.jpg"
+      },
+      {
+        "nombre": "Curl Inclinado",
+        "descripcion": "Ejercicio para bíceps en banco inclinado",
+        "calorias": 85,
+        "series": 3,
+        "repeticiones": 12,
+        "musculos": ["Bíceps", "Antebrazo"],
+        "equipamiento": ["Mancuernas", "Banco Inclinado"],
+        "instrucciones": [
+          "Siéntate en el banco inclinado",
+          "Sostén las mancuernas con los brazos extendidos",
+          "Flexiona los codos llevando las mancuernas hacia los hombros",
+          "Baja controladamente"
+        ],
+        "consejos": "Mantén la espalda pegada al banco",
+        "dificultad": "medio",
+        "tiempoDescanso": 45,
+        "icono": "fitness_center",
+        "imagenUrl": "https://static.vecteezy.com/system/resources/previews/008/259/253/non_2x/man-doing-incline-dumbbell-curl-flat-illustration-isolated-on-different-layers-workout-character-free-vector.jpg"
+      },
+      {
+        "nombre": "Extensiones de Tríceps en Banco",
+        "descripcion": "Ejercicio para tríceps usando el peso corporal",
+        "calorias": 75,
+        "series": 3,
+        "repeticiones": 15,
+        "musculos": ["Tríceps", "Hombros"],
+        "equipamiento": ["Banco"],
+        "instrucciones": [
+          "Apoya las manos en el banco",
+          "Extiende las piernas hacia adelante",
+          "Baja el cuerpo doblando los codos",
+          "Empuja hacia arriba"
+        ],
+        "consejos": "Mantén la espalda cerca del banco",
+        "dificultad": "fácil",
+        "tiempoDescanso": 45,
+        "icono": "fitness_center",
+        "imagenUrl": "https://static.vecteezy.com/system/resources/previews/021/943/751/non_2x/woman-doing-lying-dumbbell-tricep-extensions-exercise-flat-illustration-isolated-on-white-background-vector.jpg"
+      }
+    ]
+  },
+  {
+    "titulo": "Ejercicios para Estirar",
+    "descripcion": "Rutina de estiramientos para mejorar la flexibilidad y prevenir lesiones en el gimnasio",
+    "icono": "self_improvement",
+    "ejercicios": [
+      {
+        "nombre": "Estiramiento de Espalda con rodillo",
+        "descripcion": "Estiramiento usando la máquina de poleas",
+        "series": 2,
+        "duracion": 30,
+        "musculos": ["Espalda", "Hombros"],
+        "equipamiento": ["Máquina de Poleas"],
+        "instrucciones": [
+          "Ajusta el rodillo de espuma a la altura adecuada de la espalda",
+          "Empieza a moverte de abajo hacia arriba",
+          "Con movimientos suaves"
+        ],
+        "consejos": "No fuerces el estiramiento",
+        "dificultad": "fácil",
+        "tiempoDescanso": 30,
+        "icono": "fitness_center",
+        "imagenUrl": "https://i.pinimg.com/236x/32/00/e9/3200e902229bd9acc7a329f99682f99d.jpg"
+      },
+      {
+        "nombre": "Estiramiento de Cuádriceps en Máquina",
+        "descripcion": "Estiramiento para la parte frontal de los muslos usando la máquina de extensiones",
+        "series": 2,
+        "duracion": 30,
+        "musculos": ["Cuádriceps", "Flexores de Cadera"],
+        "equipamiento": ["Máquina de Extensiones"],
+        "instrucciones": [
+          "Siéntate en la máquina de extensiones",
+          "Ajusta el rodillo a una altura cómoda, y poco peso",
+          "Flexiona la rodilla suavemente",
+          "Mantén la posición"
+        ],
+        "consejos": "No fuerces el estiramiento y respira profundamente",
+        "dificultad": "fácil",
+        "tiempoDescanso": 30,
+        "icono": "fitness_center",
+        "imagenUrl": "https://i.pinimg.com/736x/eb/44/fa/eb44fafa7ff8bbf5ec5f31d2feb1b4d6.jpg"
+      },
+      {
+        "nombre": "Estiramiento de Isquiotibiales en Banco",
+        "descripcion": "Estiramiento para la parte posterior de los muslos usando un banco",
+        "series": 2,
+        "duracion": 30,
+        "musculos": ["Isquiotibiales", "Glúteos"],
+        "equipamiento": ["Banco"],
+        "instrucciones": [
+          "Siéntate en el banco con una pierna extendida",
+          "Inclínate suavemente hacia adelante",
+          "Mantén la espalda recta",
+          "Siente el estiramiento en la parte posterior del muslo"
+        ],
+        "consejos": "No rebotes y mantén la respiración constante",
+        "dificultad": "fácil",
+        "tiempoDescanso": 30,
+        "icono": "fitness_center",
+        "imagenUrl": "https://focusedonfit.com/s/uploads/2014/01/Lying-Leg-Curls.jpg"
+      },
+      {
+        "nombre": "Estiramiento de Hombros con Barra",
+        "descripcion": "Estiramiento para los hombros usando una barra",
+        "series": 2,
+        "duracion": 30,
+        "musculos": ["Deltoides", "Trapecio"],
+        "equipamiento": ["Barra"],
+        "instrucciones": [
+          "Sujeta la barra detrás de la espalda",
+          "Mantén los brazos rectos",
+          "Empuja suavemente hacia adelante",
+          "Siente el estiramiento en los hombros"
+        ],
+        "consejos": "Mantén la espalda recta y no fuerces el movimiento",
+        "dificultad": "fácil",
+        "tiempoDescanso": 30,
+        "icono": "fitness_center",
+        "imagenUrl": "https://previews.123rf.com/images/lioputra/lioputra2308/lioputra230800031/209875085-mujer-haciendo-ejercicio-de-estiramiento-de-poste-de-hombro-o-palo-de-escoba-ilustraci%C3%B3n-vectorial-p.jpg"
+      },
+      {
+        "nombre": "Estiramiento de Pecho en Banco",
+        "descripcion": "Estiramiento para el pecho usando un banco",
+        "series": 2,
+        "duracion": 30,
+        "musculos": ["Pectoral Mayor", "Pectoral Menor"],
+        "equipamiento": ["Banco"],
+        "instrucciones": [
+          "Acuéstate en el banco boca arriba con mancuernas de poco peso",
+          "Extiende los brazos hacia los lados",
+          "Deja que los brazos cuelguen suavemente",
+          "Siente el estiramiento en el pecho"
+        ],
+        "consejos": "Relaja los hombros y respira profundamente",
+        "dificultad": "fácil",
+        "tiempoDescanso": 30,
+        "icono": "fitness_center",
+        "imagenUrl": "https://www.hogarmania.com/archivos/202306/ejercicios-para-tonificar-pecho-con-mancuerna-apertura-de-pecho-XxXx80.jpg"
+      }
+    ]
+  },
+  {
+    "titulo": "Ejercicios de Pierna",
+    "descripcion": "Rutina completa para fortalecer y tonificar las piernas en el gimnasio",
+    "ejercicios": [
+      {
+        "nombre": "Prensa de Piernas",
+        "descripcion": "Ejercicio para piernas usando máquina de prensa",
+        "calorias": 140,
+        "series": 3,
+        "repeticiones": 12,
+        "musculos": ["Cuádriceps", "Glúteos", "Isquiotibiales"],
+        "equipamiento": ["Máquina de Prensa"],
+        "instrucciones": [
+          "Siéntate en la máquina y coloca los pies en la plataforma",
+          "Empuja la plataforma hasta extender las piernas",
+          "Regresa controladamente"
+        ],
+        "consejos": "No bloquees las rodillas",
+        "dificultad": "medio",
+        "tiempoDescanso": 60,
+        "icono": "fitness_center",
+        "imagenUrl": ""
+      }
+    ]
+  }
+] 
