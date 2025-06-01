@@ -80,6 +80,8 @@ flutter:
     - assets/deportes/deportes.json
     - assets/recetas/
     - assets/tests_fisicos/
+    - assets/ejerciciosEnCasa/ejercicios.json
+    - assets/ejerciciosGimnasio/ejercicios.json
     #- #assets/images/
     #- #assets/icons/
     #- #assets/fonts/
