@@ -1,0 +1,607 @@
+[
+  {
+    "titulo": "Pasta Frola Clásica",
+    "descripcion": "Postre tradicional argentino con base de masa dulce y relleno de dulce de membrillo o batata.",
+    "calorias": 790,
+    "proteinas": 8.7,
+    "carbohidratos": 119.5,
+    "grasas": 30.1,
+    "ingredientes": [
+      { "nombre": "Sal", "cantidad": "una cucharadita colmada, 5.5 g" },
+      { "nombre": "Azúcar Blanco", "cantidad": "1 taza, 210 g" },
+      { "nombre": "Esencia de Vainilla", "cantidad": "una cucharadita y media, 6.5 g" },
+      { "nombre": "Mantequilla", "cantidad": "1 taza, 210 g" },
+      { "nombre": "Harina", "cantidad": "3 tazas y media, 375 g" },
+      { "nombre": "Huevo - Yema", "cantidad": "1 unidad y media, 22 g" },
+      { "nombre": "Huevo", "cantidad": "1 unidad, 58 g" },
+      { "nombre": "Dulce de Batata", "cantidad": "1 porción y media, 202 g" },
+      { "nombre": "Dulce de Membrillo", "cantidad": "6 rebanadas y media, 192 g" }
+    ],
+    "instrucciones": [
+      "Deja la mantequilla a temperatura ambiente hasta que esté blanda.",
+      "Bate la mantequilla con el azúcar hasta lograr una mezcla cremosa.",
+      "Agrega el huevo, la yema, la esencia de vainilla y la sal. Mezcla bien.",
+      "Añade la harina poco a poco hasta formar una masa. Enfría durante 30 minutos en la nevera.",
+      "Corta los dulces en cubos pequeños y caliéntalos en el microondas con un poco de agua hasta que se ablanden.",
+      "Extiende la masa en el molde, reserva una parte para hacer las tiras superiores.",
+      "Rellena con el dulce ablandado y decora con las tiras cruzadas.",
+      "Hornea a 200°C durante 40 minutos hasta que esté dorada."
+    ],
+    "infoNutricional": "Alta en carbohidratos. Ideal como postre ocasional para compartir.",
+    "tiempoPreparacion": 60,
+    "imagenUrl": "https://storage.googleapis.com/fitia_public_images/recipes%2FAR-R-V-00000008_nlocj8etvh32hfdx7c08fllp_large.jpeg",
+    "dificultad": "medio",
+    "tipoComida": "snack"
+  },
+  {
+    "titulo": "Mini Bocaditos de Queso y Membrillo",
+    "descripcion": "Deliciosos bocaditos dulces y salados con combinación de queso blanco y dulce de membrillo.",
+    "calorias": 63,
+    "proteinas": 2.2,
+    "carbohidratos": 7.9,
+    "grasas": 2.5,
+    "ingredientes": [
+      { "nombre": "Queso Blanco", "cantidad": "2 rebanadas y media, 53 g" },
+      { "nombre": "Dulce de Membrillo", "cantidad": "2 rebanadas, 64 g" }
+    ],
+    "instrucciones": [
+      "Corta el queso y el dulce de membrillo en 10 porciones pequeñas y parejas.",
+      "Inserta los trozos en palillos, alternando queso y dulce.",
+      "Sirve frío o a temperatura ambiente como snack rápido y fresco."
+    ],
+    "infoNutricional": "Snack práctico, energético y balanceado. Ideal para media mañana o tarde.",
+    "tiempoPreparacion": 10,
+    "imagenUrl": "https://storage.googleapis.com/fitia_public_images/recipes%2FAR-R-V-00000021_quqiqw2qoml0vw5quq2l2irh_large.jpg",
+    "dificultad": "fácil",
+    "tipoComida": "snack"
+  },
+  {
+    "titulo": "Empanadas Rellenas de Asado",
+    "descripcion": "Receta clásica argentina con carne asada y vegetales.",
+    "calorias": 212,
+    "proteinas": 9.5,
+    "carbohidratos": 17.4,
+    "grasas": 11.5,
+    "ingredientes": [
+      { "nombre": "Asado", "cantidad": "una porción y un cuarto, 158 g" },
+      { "nombre": "Pimiento rojo", "cantidad": "1 unidad, 102 g" },
+      { "nombre": "Cebolla", "cantidad": "1 unidad y media, 125 g" },
+      { "nombre": "Cebolla china", "cantidad": "3 cucharadas y media, 17 g" },
+      { "nombre": "Ajo", "cantidad": "1 diente, 5.5 g" },
+      { "nombre": "Huevo", "cantidad": "2 unidades, 112 g" },
+      { "nombre": "Tapa de empanadas", "cantidad": "2 tapas, 62 g" },
+      { "nombre": "Aceite", "cantidad": "1 cucharada, 11 ml" },
+      { "nombre": "Salsa de tomate", "cantidad": "1 cucharada y media, 17 g" },
+      { "nombre": "Caldo", "cantidad": "un cuarto de taza, 62 ml" }
+    ],
+    "instrucciones": [
+      "Asa el pimiento y pícalo. Herví los huevos y córtalos en trozos.",
+      "En una sartén, saltea la cebolla hasta que esté transparente.",
+      "Desmenuza la carne y mezcla con la cebolla, pimiento, ajo picado, salsa, caldo y huevo.",
+      "Rellena las tapas de empanada con la mezcla y ciérralas con cuidado.",
+      "Hornea a 180°C durante 15 minutos o hasta que estén doradas."
+    ],
+    "infoNutricional": "Aporte equilibrado de proteínas y grasas. Excelente opción salada para media tarde.",
+    "tiempoPreparacion": 30,
+    "imagenUrl": "https://storage.googleapis.com/fitia_public_images/recipes%2FAR-R-V-00000011_y65y7julbnnllznwp5i4ykzm_large.jpeg",
+    "dificultad": "medio",
+    "tipoComida": "snack"
+  },
+  {
+    "titulo": "Empanadas de Chorizo y Queso Fundido",
+    "descripcion": "Empanadas rellenas de chorizo, cebolla y queso.",
+    "calorias": 295,
+    "proteinas": 11.4,
+    "carbohidratos": 17.3,
+    "grasas": 20.1,
+    "ingredientes": [
+      { "nombre": "Cebolla", "cantidad": "media unidad y un poco más, 80 g" },
+      { "nombre": "Queso Mozzarella", "cantidad": "3 rebanadas y media, 80 g" },
+      { "nombre": "Chorizo de cerdo", "cantidad": "2 unidades y media, 215 g" },
+      { "nombre": "Chimichurri", "cantidad": "1 cucharada colmada, 15 g" },
+      { "nombre": "Aceite", "cantidad": "una cucharada, 7 ml" },
+      { "nombre": "Cebolla china", "cantidad": "3 cucharadas, 16 g" },
+      { "nombre": "Pimentón", "cantidad": "una cucharadita, 3.2 g" },
+      { "nombre": "Tapa de empanadas", "cantidad": "5 unidades, 155 g" }
+    ],
+    "instrucciones": [
+      "Saltea la cebolla en aceite caliente hasta que esté bien dorada.",
+      "Cocina el chorizo en una sartén aparte, retira el exceso de grasa y pícalo en trozos pequeños.",
+      "Mezcla el chorizo con el queso, chimichurri, cebolla china y pimentón.",
+      "Rellena cada tapa de empanada con una porción de la mezcla, ciérralas bien y colócalas sobre una bandeja con papel vegetal.",
+      "Hornea a 180°C durante 20 minutos o hasta que estén doradas y crocantes."
+    ],
+    "infoNutricional": "Receta sabrosa y proteica, ideal como snack salado para media tarde o picada.",
+    "tiempoPreparacion": 30,
+    "imagenUrl": "https://storage.googleapis.com/fitia_public_images/recipes%2FAR-R-V-00000012_iqrnc3alygxsinys8m30e1mu_large.jpeg",
+    "dificultad": "medio",
+    "tipoComida": "snack"
+  },
+  {
+    "titulo": "Mini Tarta de Jamón y Queso Cremoso",
+    "descripcion": "Tarta rápida y deliciosa con jamón, huevo y queso.",
+    "calorias": 505,
+    "proteinas": 26.8,
+    "carbohidratos": 22.4,
+    "grasas": 33.5,
+    "ingredientes": [
+      { "nombre": "Jamón", "cantidad": "3 rebanadas y media, 96 g" },
+      { "nombre": "Queso Crema", "cantidad": "1 cucharada y media, 34 g" },
+      { "nombre": "Queso Blanco", "cantidad": "3 rebanadas, 78 g" },
+      { "nombre": "Maicena", "cantidad": "1 cucharada colmada, 11 g" },
+      { "nombre": "Huevo", "cantidad": "2 unidades y media, 122 g" },
+      { "nombre": "Masa de Tarta", "cantidad": "1 unidad pequeña y un cuarto (15 cm), 74 g" }
+    ],
+    "instrucciones": [
+      "Corta el jamón y el queso blanco en tiras o cubos pequeños.",
+      "En un bol, mezcla los huevos con el queso crema y la maicena hasta que quede homogéneo.",
+      "Agrega el jamón y el queso blanco a la mezcla y revuelve bien.",
+      "Coloca la masa en un molde y vierte la mezcla sobre ella.",
+      "Hornea a 180°C durante 15-20 minutos o hasta que esté dorada en la superficie.",
+      "Deja enfriar unos minutos antes de cortar y servir."
+    ],
+    "infoNutricional": "Tarta alta en proteínas, perfecta para un snack o comida ligera y rápida.",
+    "tiempoPreparacion": 25,
+    "imagenUrl": "https://storage.googleapis.com/fitia_public_images/recipes%2FAR-R-V-00000010_ha7afl3be3rlfy0c90mhyuao_large.jpeg",
+    "dificultad": "fácil",
+    "tipoComida": "snack"
+  },
+  {
+    "titulo": "Budín Salado de Choclo y Queso",
+    "descripcion": "Receta tradicional de choclo al horno, perfecta para una merienda.",
+    "calorias": 538,
+    "proteinas": 19.5,
+    "carbohidratos": 74.2,
+    "grasas": 25.1,
+    "ingredientes": [
+      { "nombre": "Choclo", "cantidad": "3 tazas y media, 520 g" },
+      { "nombre": "Cebolla", "cantidad": "1 unidad grande, 158 g" },
+      { "nombre": "Aceite de Girasol", "cantidad": "2 cucharaditas y media, 10 ml" },
+      { "nombre": "Huevo", "cantidad": "4 unidades y media, 230 g" },
+      { "nombre": "Queso Crema", "cantidad": "4 cucharadas y media, 126 g" },
+      { "nombre": "Queso Parmesano", "cantidad": "4 cucharadas colmadas, 44 g" },
+      { "nombre": "Nuez Moscada", "cantidad": "1/4 cucharadita, 0.6 g" },
+      { "nombre": "Sal", "cantidad": "media cucharadita colmada, 3.3 g" },
+      { "nombre": "Pimienta Negra", "cantidad": "1/2 cucharadita, 1.2 g" }
+    ],
+    "instrucciones": [
+      "Pica la cebolla en cubos pequeños y cocínala en una sartén con aceite durante 5 a 7 minutos hasta que esté dorada.",
+      "Licúa el choclo con los huevos, queso crema, queso parmesano, nuez moscada, sal y pimienta hasta obtener una mezcla suave.",
+      "Agrega la cebolla cocida a la mezcla y revuelve bien.",
+      "Vierte la mezcla en un recipiente apto para horno o microondas, sin que supere los 3 cm del borde.",
+      "Cocina a baño maría en horno a 180°C durante 40 minutos o en microondas durante 15 a 20 minutos.",
+      "Deja reposar unos minutos antes de servir."
+    ],
+    "infoNutricional": "Buena fuente de carbohidratos y proteínas. Ideal para una merienda saciante y sabrosa.",
+    "tiempoPreparacion": 40,
+    "imagenUrl": "https://storage.googleapis.com/fitia_public_images/recipes%2FAR-R-V-00000022_wadvyj9q3iffir17vekaomt7_large.jpg",
+    "dificultad": "medio",
+    "tipoComida": "snack"
+  },
+  {
+    "titulo": "Tarta Fría de Uvas con Crema",
+    "descripcion": "Postre frío con base de masa dulce, crema chantilly y uvas frescas.",
+    "calorias": 712,
+    "proteinas": 10.1,
+    "carbohidratos": 64.2,
+    "grasas": 45.3,
+    "ingredientes": [
+      { "nombre": "Uvas", "cantidad": "2 tazas y media, 380 g" },
+      { "nombre": "Almendras", "cantidad": "3 cucharadas colmadas, 52 g" },
+      { "nombre": "Champagne", "cantidad": "3 cucharadas, 47 ml" },
+      { "nombre": "Mantequilla", "cantidad": "6 cucharadas colmadas, 185 g" },
+      { "nombre": "Harina", "cantidad": "2 tazas y media, 310 g" },
+      { "nombre": "Huevo - Yema", "cantidad": "1 unidad y media, 18 g" },
+      { "nombre": "Crema de Leche", "cantidad": "1 taza y media, 240 ml" },
+      { "nombre": "Azúcar en Polvo", "cantidad": "2/3 taza colmada, 85 g" },
+      { "nombre": "Huevo", "cantidad": "1 unidad, 58 g" }
+    ],
+    "instrucciones": [
+      "Mezcla la harina con la mantequilla fría hasta obtener una textura arenosa.",
+      "Agrega el champagne, la yema y el huevo entero. Une hasta formar una masa suave.",
+      "Refrigera por 30 minutos, luego estira la masa y colócala en un molde.",
+      "Hornea a 180°C durante 15 minutos. Deja enfriar completamente.",
+      "Bate la crema con el azúcar hasta obtener una chantilly firme.",
+      "Rellena la base con la crema, decora con las uvas y las almendras fileteadas."
+    ],
+    "infoNutricional": "Tarta fresca con frutas y crema. Alta en grasas, ideal como postre ocasional frío.",
+    "tiempoPreparacion": 45,
+    "imagenUrl": "https://storage.googleapis.com/fitia_public_images/recipes%2FAR-R-V-00000020_m95fa3vh61pgick7xtsbp1q6_large.jpg",
+    "dificultad": "medio",
+    "tipoComida": "snack"
+  },
+  {
+    "titulo": "Helado Casero de Turrón y Vainilla",
+    "descripcion": "Cremoso helado casero con trozos de turrón de maní.",
+    "calorias": 668,
+    "proteinas": 11.1,
+    "carbohidratos": 54.9,
+    "grasas": 44.6,
+    "ingredientes": [
+      { "nombre": "Leche", "cantidad": "una taza y media, 370 ml" },
+      { "nombre": "Azúcar Blanco", "cantidad": "8 cucharadas y media, 124 g" },
+      { "nombre": "Esencia de Vainilla", "cantidad": "4 cucharaditas y media, 21 g" },
+      { "nombre": "Huevo - Yema", "cantidad": "6 unidades y media, 95 g" },
+      { "nombre": "Crema de Leche", "cantidad": "una taza y media, 350 ml" },
+      { "nombre": "Turrón de Maní Blando", "cantidad": "media unidad y un poco más, 105 g" }
+    ],
+    "instrucciones": [
+      "Bate las yemas con el azúcar y la mitad de la leche hasta obtener una mezcla cremosa.",
+      "Calienta el resto de la leche junto con la crema y la vainilla hasta que comience a hervir.",
+      "Agrega lentamente la mezcla caliente a las yemas mientras bates.",
+      "Incorpora el turrón troceado y deja que se derrita completamente.",
+      "Deja enfriar la mezcla a temperatura ambiente, luego refrigérala.",
+      "Lleva al congelador por al menos 4 horas, removiendo cada 30 minutos para evitar cristales."
+    ],
+    "infoNutricional": "Rico en grasas y azúcares, ideal como postre especial.",
+    "tiempoPreparacion": 20,
+    "imagenUrl": "https://storage.googleapis.com/fitia_public_images/recipes%2FAR-R-V-00000023_zgskwfvqei3w26krd7lxazeq_large.jpg",
+    "dificultad": "medio",
+    "tipoComida": "snack"
+  },
+  {
+    "titulo": "Bocaditos de Lentejas, Avena y Calabaza",
+    "descripcion": "Mini porciones salteadas hechas con lentejas, calabaza, avena y harina.",
+    "calorias": 91,
+    "proteinas": 3.3,
+    "carbohidratos": 15.2,
+    "grasas": 2.1,
+    "ingredientes": [
+      { "nombre": "Ajo", "cantidad": "medio diente pequeño, 2.2 g" },
+      { "nombre": "Lentejas", "cantidad": "un cuarto de taza, 52 g" },
+      { "nombre": "Avena", "cantidad": "3 cucharadas y media, 32 g" },
+      { "nombre": "Aceite", "cantidad": "una cucharada, 6 ml" },
+      { "nombre": "Calabaza", "cantidad": "media taza colmada, 85 g" },
+      { "nombre": "Harina", "cantidad": "un cuarto de taza y una cucharada, 34 g" },
+      { "nombre": "Cebolla de Verdeo", "cantidad": "una cucharada y media, 6 g" }
+    ],
+    "instrucciones": [
+      "Cocina las lentejas hasta que estén tiernas y remoja la avena por unos minutos.",
+      "Hierve la calabaza hasta que esté blanda y haz un puré.",
+      "Mezcla todos los ingredientes hasta formar una masa compacta.",
+      "Forma pequeños bocaditos y cocínalos en sartén con un poco de aceite hasta dorar.",
+      "Sirve calientes o fríos, como snack saludable."
+    ],
+    "infoNutricional": "Buena fuente vegetal de proteína y fibra. Ideal para picar entre comidas.",
+    "tiempoPreparacion": 20,
+    "imagenUrl": "https://storage.googleapis.com/fitia_public_images/recipes%2FAR-R-V-00000036_x7lj4q9pfsvkse1rqfb8dhu8_large.jpg",
+    "dificultad": "fácil",
+    "tipoComida": "snack"
+  },
+  {
+    "titulo": "Dulce Cremoso de Leche y Vainilla",
+    "descripcion": "Postre cremoso a base de leche con toque de vainilla.",
+    "calorias": 178,
+    "proteinas": 6.1,
+    "carbohidratos": 21.4,
+    "grasas": 6.5,
+    "ingredientes": [
+      { "nombre": "Leche", "cantidad": "dos tercios de taza, 165 ml" },
+      { "nombre": "Azúcar Blanco", "cantidad": "una cucharada y media, 9 g" },
+      { "nombre": "Esencia de Vainilla", "cantidad": "una cucharadita, 5.2 g" },
+      { "nombre": "Manteca", "cantidad": "una cucharadita y media, 5.5 g" },
+      { "nombre": "Harina", "cantidad": "media cucharada colmada, 4.2 g" },
+      { "nombre": "Arándanos", "cantidad": "una cucharada, 11 g" }
+    ],
+    "instrucciones": [
+      "Disuelve la harina en parte de la leche fría y reserva.",
+      "En una cacerola, calienta el resto de la leche con la manteca y el azúcar.",
+      "Agrega la harina disuelta y cocina a fuego medio revolviendo hasta que espese.",
+      "Incorpora la vainilla, mezcla bien y retira del fuego.",
+      "Vierte en moldes individuales y deja enfriar en la nevera.",
+      "Decora con arándanos antes de servir o disfruta tibio."
+    ],
+    "infoNutricional": "Postre ligero y cremoso, ideal para un snack dulce.",
+    "tiempoPreparacion": 25,
+    "imagenUrl": "https://storage.googleapis.com/fitia_public_images/recipes%2FAR-R-V-00000048_xtn8oi9i5vixfqhtrhfhhixl_large.jpg",
+    "dificultad": "fácil",
+    "tipoComida": "snack"
+  },
+  {
+    "titulo": "Torta Rogel Clásica",
+    "descripcion": "Torta típica argentina con capas crocantes, dulce de leche y cobertura de glasé.",
+    "calorias": 281,
+    "proteinas": 5.1,
+    "carbohidratos": 49.8,
+    "grasas": 7.2,
+    "ingredientes": [
+      { "nombre": "Tapas de Empanada", "cantidad": "unas 8 unidades medianas" },
+      { "nombre": "Dulce de Leche", "cantidad": "1 taza colmada, 280 g" },
+      { "nombre": "Azúcar en Polvo", "cantidad": "6 cucharadas, 90 g" },
+      { "nombre": "Zumo de Limón", "cantidad": "2 cucharaditas, 10 g" }
+    ],
+    "instrucciones": [
+      "Hornea las tapas de empanada en horno precalentado a 180°C hasta que estén doradas.",
+      "Deja enfriar completamente y arma la torta alternando capas de tapas y dulce de leche.",
+      "Prepara el glasé mezclando el azúcar en polvo con el jugo de limón hasta lograr una textura espesa.",
+      "Cubre la superficie de la torta con el glasé y decora si lo deseas.",
+      "Llévala a la heladera al menos 1 hora antes de servir fría o a temperatura ambiente."
+    ],
+    "infoNutricional": "Postre alto en carbohidratos, ideal como snack dulce y energético.",
+    "tiempoPreparacion": 20,
+    "imagenUrl": "https://storage.googleapis.com/fitia_public_images/recipes%2FAR-R-V-00000049_khfq6g35xzoiwfyvm7jbkrhx_large.jpg",
+    "dificultad": "medio",
+    "tipoComida": "snack"
+  },
+  {
+    "titulo": "Tarta Cremosa de Queso de Cabra",
+    "descripcion": "Tarta salada suave y cremosa con queso de cabra y base casera.",
+    "calorias": 422,
+    "proteinas": 15.8,
+    "carbohidratos": 24.1,
+    "grasas": 29.6,
+    "ingredientes": [
+      { "nombre": "Mantequilla", "cantidad": "una cucharada colmada, 32 g" },
+      { "nombre": "Huevo", "cantidad": "una unidad y media, 75 g" },
+      { "nombre": "Harina", "cantidad": "3 cucharadas y media, 33 g" },
+      { "nombre": "Queso de cabra", "cantidad": "55 g" },
+      { "nombre": "Crema de leche", "cantidad": "un cuarto de taza y una cucharada, 65 ml" }
+    ],
+    "instrucciones": [
+      "Mezcla la mantequilla con un huevo y una pizca de sal en un bol.",
+      "Añade la harina poco a poco y unas cucharaditas de agua fría hasta formar una masa suave.",
+      "Deja reposar 15 minutos en la heladera, estira y coloca en una tartera pequeña.",
+      "Prehornea la masa durante 7 minutos a 180°C.",
+      "Rellena con el queso de cabra desmenuzado, el resto del huevo batido y la crema de leche.",
+      "Hornea a 200°C por 15 minutos. Deja enfriar un poco antes de servir."
+    ],
+    "infoNutricional": "Tarta energética con grasas saludables y buena fuente de proteína.",
+    "tiempoPreparacion": 35,
+    "imagenUrl": "https://storage.googleapis.com/fitia_public_images/recipes%2FAR-R-V-00000056_x8sxfyj2y90s8ohac0jhu1w2_large.jpg",
+    "dificultad": "medio",
+    "tipoComida": "snack"
+  },
+  {
+    "titulo": "Helado Artesanal de Miel de Caña y Nueces",
+    "descripcion": "Helado artesanal con base de turrón de miel de caña, dulce de leche y frutos secos.",
+    "calorias": 426,
+    "proteinas": 11.2,
+    "carbohidratos": 57.1,
+    "grasas": 18.2,
+    "ingredientes": [
+      { "nombre": "Nueces", "cantidad": "4 mitades grandes, 18 g" },
+      { "nombre": "Huevo - Clara", "cantidad": "1 unidad grande, 42 g" },
+      { "nombre": "Azúcar Blanco", "cantidad": "4 cucharaditas y media, 22 g" },
+      { "nombre": "Harina", "cantidad": "un tercio de taza, 42 g" },
+      { "nombre": "Maicena", "cantidad": "una cucharadita colmada, 3.5 g" },
+      { "nombre": "Crema de Leche", "cantidad": "3 cucharadas y media, 45 ml" },
+      { "nombre": "Dulce de Leche", "cantidad": "3 cucharadas y media, 48 g" },
+      { "nombre": "Huevo", "cantidad": "una unidad y media, 60 g" },
+      { "nombre": "Miel de Caña", "cantidad": "2 cucharadas colmadas, 42 g" }
+    ],
+    "instrucciones": [
+      "Bate la clara a punto nieve y agrégale la maicena con cuidado.",
+      "Calienta la miel de caña y agrégala lentamente sobre la clara mientras sigues batiendo.",
+      "En otro bol, mezcla la yema con el azúcar y la harina hasta formar una masa, deja reposar.",
+      "Estira la masa fina, hornéala hasta dorar y luego procésala en migas.",
+      "Incorpora el merengue, el dulce de leche y las nueces picadas.",
+      "Bate la crema y mezcla todo con movimientos envolventes.",
+      "Congela la mezcla removiendo cada hora para lograr textura cremosa."
+    ],
+    "infoNutricional": "Postre calórico y sabroso con buena combinación de grasas, dulzura y textura.",
+    "tiempoPreparacion": 60,
+    "imagenUrl": "https://storage.googleapis.com/fitia_public_images/recipes%2FAR-R-V-00000058_iv4ot5vb5z4g7lh571f6wcq8_large.jpg",
+    "dificultad": "medio",
+    "tipoComida": "snack"
+  },
+  {
+    "titulo": "Alfajor Casero de Algarrobo y Naranja",
+    "descripcion": "Dulce tradicional con harina de algarrobo, relleno con dulce de leche y un toque cítrico.",
+    "calorias": 259,
+    "proteinas": 2.1,
+    "carbohidratos": 36.7,
+    "grasas": 12.2,
+    "ingredientes": [
+      { "nombre": "Esencia de Vainilla", "cantidad": "una cucharadita y media, 5.5 g" },
+      { "nombre": "Manteca", "cantidad": "7 cucharadas y media, 102 g" },
+      { "nombre": "Maicena", "cantidad": "una taza colmada, 128 g" },
+      { "nombre": "Polvo de Hornear", "cantidad": "2 cucharaditas y un poco más, 6.5 g" },
+      { "nombre": "Huevo - Yema", "cantidad": "2 unidades y media, 34 g" },
+      { "nombre": "Bicarbonato de Sodio", "cantidad": "media cucharadita, 3.2 g" },
+      { "nombre": "Dulce de Leche", "cantidad": "8 cucharadas y media, 125 g" },
+      { "nombre": "Azúcar en Polvo", "cantidad": "5 cucharadas colmadas, 78 g" },
+      { "nombre": "Piel de Naranja", "cantidad": "media cucharada colmada, 3.5 g" },
+      { "nombre": "Harina de Algarrobo", "cantidad": "un cuarto de taza y una cucharada, 27 g" }
+    ],
+    "instrucciones": [
+      "Bate la manteca con el azúcar en polvo hasta que quede bien integrado.",
+      "Agrega la esencia de vainilla, la piel de naranja rallada y las yemas. Mezcla bien.",
+      "Incorpora los ingredientes secos previamente tamizados y mezcla hasta formar una masa homogénea.",
+      "Lleva la masa a refrigerar por una hora.",
+      "Estira y corta tapas del tamaño deseado. Hornea durante 7 minutos a 180°C.",
+      "Una vez frías, rellena con el dulce de leche y arma los alfajores."
+    ],
+    "infoNutricional": "Dulce artesanal con predominancia de carbohidratos y grasas saludables.",
+    "tiempoPreparacion": 35,
+    "imagenUrl": "https://storage.googleapis.com/fitia_public_images/recipes%2FAR-R-V-00000057_ug8sde9qj4ecgwtvrt5u9g88_large.jpg",
+    "dificultad": "medio",
+    "tipoComida": "snack"
+  },
+  {
+    "titulo": "Chimichurri Misionero con Toque de Cítricos",
+    "descripcion": "Salsa criolla con vegetales frescos y jugo de naranja, ideal para carnes y platos típicos.",
+    "calorias": 17,
+    "proteinas": 0.3,
+    "carbohidratos": 1.8,
+    "grasas": 1.1,
+    "ingredientes": [
+      { "nombre": "Cebolla", "cantidad": "un cuarto de unidad, 40 g" },
+      { "nombre": "Pimiento Rojo", "cantidad": "un cuarto de unidad mediana, 32 g" },
+      { "nombre": "Ajo", "cantidad": "un diente pequeño, 3.2 g" },
+      { "nombre": "Choclo", "cantidad": "una octava parte, 32 g" },
+      { "nombre": "Jugo de Naranja", "cantidad": "una cucharada y media, 16 g" },
+      { "nombre": "Aceite", "cantidad": "una cucharada rasa, 9 ml" },
+      { "nombre": "Tomate", "cantidad": "un cuarto de unidad, 35 g" }
+    ],
+    "instrucciones": [
+      "Pica finamente todos los vegetales: cebolla, pimiento, ajo, tomate y choclo cocido.",
+      "Mezcla en un recipiente con el jugo de naranja y el aceite.",
+      "Agrega sal y pimienta al gusto, remueve bien y deja reposar unos minutos antes de servir.",
+      "Ideal para acompañar carnes asadas o como aderezo para platos típicos."
+    ],
+    "infoNutricional": "Salsa fresca y baja en calorías, perfecta como complemento.",
+    "tiempoPreparacion": 10,
+    "imagenUrl": "https://storage.googleapis.com/fitia_public_images/recipes%2FAR-R-V-00000059_gbrzw56islf10xgrfnkkmhf8_large.jpg",
+    "dificultad": "fácil",
+    "tipoComida": "snack"
+  },
+  {
+    "titulo": "Pan Rellena (Aceitunas)",
+    "descripcion": "Una receta sencilla y sabrosa, perfecta como snack o acompañamiento.",
+    "calorias": 362,
+    "proteinas": 8.2,
+    "carbohidratos": 52.8,
+    "grasas": 13.8,
+    "ingredientes": [
+      { "nombre": "Aceitunas", "cantidad": "1/4 de taza 35 g" },
+      { "nombre": "Harina", "cantidad": "1 taza y un cuarto 150 g" },
+      { "nombre": "Agua", "cantidad": "2 cucharadas y media 37 ml" },
+      { "nombre": "Levadura", "cantidad": "1 cucharada 14 g" },
+      { "nombre": "Sal", "cantidad": "1 cucharadita" },
+      { "nombre": "Azúcar", "cantidad": "1 cucharadita y media 7 g" },
+      { "nombre": "Aceite", "cantidad": "1 cucharada y media 15 ml" }
+    ],
+    "instrucciones": [
+      "Reserva aproximadamente 1 hora para el reposo de la masa antes de hornear.",
+      "Mezcla la levadura con el azúcar en un poco de agua tibia y deja reposar hasta que espume.",
+      "En un bol grande, añade la harina, una pizca de sal, la mantequilla blanda y el aceite. Mezcla con las manos hasta formar migas.",
+      "Incorpora el agua con la levadura y amasa hasta obtener una masa suave y homogénea. Ajusta con más agua o harina si es necesario.",
+      "Cubre la masa con un paño limpio y deja reposar en un lugar cálido hasta que duplique su volumen.",
+      "Mientras esperas, rebana las aceitunas y resérvalas para el relleno.",
+      "Divide la masa en partes iguales, extiende con rodillo y coloca las aceitunas en el centro.",
+      "Enrolla formando un pan relleno y sella bien los extremos.",
+      "Deja levar por 30 minutos adicionales.",
+      "Hornea en horno precalentado a 220 °C durante 20 minutos o hasta dorar."
+    ],
+    "infoNutricional": "Buena fuente de energía con carbohidratos complejos y grasas saludables.",
+    "tiempoPreparacion": 90,
+    "imagenUrl": "https://storage.googleapis.com/fitia_public_images/recipes%2FAR-R-V-00000072_o7p3t7hrtwf8u9vzhruyz5w8_large.jpg",
+    "dificultad": "medio",
+    "tipoComida": "snack"
+  },
+  {
+    "titulo": "Pan Casero Relleno de Tomate y Queso Fundido",
+    "descripcion": "Pan suave al horno con relleno de tomate jugoso y queso derretido. Ideal como snack o acompañamiento.",
+    "calorias": 432,
+    "proteinas": 11.4,
+    "carbohidratos": 53.1,
+    "grasas": 18.9,
+    "ingredientes": [
+      { "nombre": "Azúcar Blanco", "cantidad": "1 cucharadita y media, 7 g" },
+      { "nombre": "Mantequilla", "cantidad": "1 cucharadita rasa, 6 g" },
+      { "nombre": "Aceite", "cantidad": "1 cucharada, 10 ml" },
+      { "nombre": "Queso Amarillo", "cantidad": "1 rebanada delgada, 25 g" },
+      { "nombre": "Harina", "cantidad": "2/3 taza, 70 g" },
+      { "nombre": "Levadura", "cantidad": "1 cucharadita, 4 g" },
+      { "nombre": "Tomate", "cantidad": "3 rodajas medianas, 30 g" }
+    ],
+    "instrucciones": [
+      "Mezcla la levadura con el azúcar en un poco de agua tibia y deja reposar hasta que comience a burbujear.",
+      "En un bol, combina la harina, la mantequilla blanda, el aceite y una pizca de sal. Agrega la levadura activada.",
+      "Amasa hasta obtener una masa suave. Si está muy seca o pegajosa, ajusta con agua o harina.",
+      "Tapa el bol y deja reposar por 1 hora en un lugar tibio.",
+      "Corta el tomate y el queso en cubitos pequeños.",
+      "Toma porciones de masa, forma bollos, haz un hueco y coloca el relleno. Cierra bien.",
+      "Deja reposar otros 30 minutos.",
+      "Hornea a 220 °C por 20 minutos o hasta que estén dorados."
+    ],
+    "infoNutricional": "Snack equilibrado y saciante. Buena combinación de carbohidratos, grasas y un toque de proteína.",
+    "tiempoPreparacion": 90,
+    "imagenUrl": "https://storage.googleapis.com/fitia_public_images/recipes%2FAR-R-V-00000073_j9fpfabsdb5b5yejfe3sv2i6_large.jpg",
+    "dificultad": "medio",
+    "tipoComida": "snack"
+  },
+  {
+    "titulo": "Salteñas Bolivianas Horneadas con Jugo",
+    "descripcion": "Empanadas tradicionales con masa dorada y relleno jugoso de carne, verduras y especias. Perfectas como snack o almuerzo práctico.",
+    "calorias": 361,
+    "proteinas": 52.7,
+    "carbohidratos": 11.2,
+    "grasas": 30.8,
+    "ingredientes": [
+      { "nombre": "Cebolla", "cantidad": "1 unidad, 150 g" },
+      { "nombre": "Papa", "cantidad": "1 unidad y media, 270 g" },
+      { "nombre": "Arvejas", "cantidad": "1/4 taza, 50 g" },
+      { "nombre": "Carne", "cantidad": "150 g" },
+      { "nombre": "Comino", "cantidad": "1 pizca, 1 g" },
+      { "nombre": "Azúcar Blanco", "cantidad": "4 cucharadas, 60 g" },
+      { "nombre": "Orégano", "cantidad": "1/4 cucharada, 1 g" },
+      { "nombre": "Perejil", "cantidad": "2 cucharadas, 8 g" },
+      { "nombre": "Manteca", "cantidad": "3 cucharadas, 42 g" },
+      { "nombre": "Harina", "cantidad": "2 tazas, 240 g" },
+      { "nombre": "Hojas de Laurel", "cantidad": "1 hoja, 1 g" },
+      { "nombre": "Achiote Molido", "cantidad": "1 cucharadita, 2 g" },
+      { "nombre": "Huevo", "cantidad": "2 unidades, 110 g" },
+      { "nombre": "Grenetina sin preparar", "cantidad": "1 cucharadita, 3 g" }
+    ],
+    "instrucciones": [
+      "Mezcla la harina con sal, azúcar y manteca derretida con achiote. Agrega agua tibia poco a poco hasta formar una masa suave. Deja reposar 30 minutos.",
+      "Sofríe la cebolla en un poco de aceite, agrega la carne, papa en cubos, arvejas y especias. Cubre con agua o caldo y cocina por 10 minutos.",
+      "Disuelve la grenetina en agua caliente y agrégala al relleno. Deja enfriar completamente.",
+      "Hierve los huevos durante 8 minutos, enfría y corta en tercios.",
+      "Forma discos con la masa, rellena con el guiso frío y un trozo de huevo. Cierra y repulga.",
+      "Hornea a 210 °C por 14 minutos o hasta que estén doradas. También puedes cocinarlas en freidora de aire."
+    ],
+    "infoNutricional": "Empanadas ricas en proteínas y con relleno jugoso. Perfectas para llevar o compartir.",
+    "tiempoPreparacion": 60,
+    "imagenUrl": "/svg/logo/gr.svg",
+    "dificultad": "medio",
+    "tipoComida": "snack"
+  },
+  {
+    "titulo": "P’esque de Quinua con Queso Fresco y Ají",
+    "descripcion": "Preparación andina cremosa a base de quinua cocida, cebolla y ají mirasol, con queso fresco desmenuzado. Nutritiva y reconfortante.",
+    "calorias": 314,
+    "proteinas": 13.5,
+    "carbohidratos": 32.7,
+    "grasas": 13.8,
+    "ingredientes": [
+      { "nombre": "Cebolla", "cantidad": "3 aros finos, 15 g" },
+      { "nombre": "Quinua", "cantidad": "1/4 taza cruda, 48 g" },
+      { "nombre": "Aceite", "cantidad": "1 cucharadita y media, 4 ml" },
+      { "nombre": "Queso Fresco", "cantidad": "1 rebanada grande y media, 38 g" },
+      { "nombre": "Ají Mirasol", "cantidad": "2 g secos, remojados previamente" }
+    ],
+    "instrucciones": [
+      "Remoja el ají mirasol en agua caliente durante unos minutos y licúalo con un chorrito de agua hasta formar una pasta.",
+      "Lava bien la quinua bajo el chorro de agua frotándola con las manos. Escurre completamente.",
+      "En una sartén, calienta el aceite y saltea la cebolla picada por 10 minutos a fuego bajo.",
+      "Agrega la pasta de ají a la cebolla, mezcla bien y cocina hasta que comience a hervir. Añade 1/4 taza de agua y sal al gusto.",
+      "Cocina la quinua en una olla con 3/4 taza de agua hasta que se haya absorbido el líquido (unos 20 minutos).",
+      "Sirve caliente la quinua cocida, cúbrela con la salsa de ají y cebolla y espolvorea el queso fresco por encima."
+    ],
+    "infoNutricional": "Plato vegetariano alto en proteína vegetal y fibra. Bajo en azúcar, ideal para un snack o cena ligera.",
+    "tiempoPreparacion": 35,
+    "imagenUrl": "https://storage.googleapis.com/fitia_public_images/recipes%2FBO-R-V-00000004_vlczllagr88kp89qtn7v38cd_large.jpeg",
+    "dificultad": "fácil",
+    "tipoComida": "snack"
+  },
+  {
+    "titulo": "Brigadeiros de Chocolate con Cacao y Grageas",
+    "descripcion": "Bocaditos dulces brasileños, hechos con leche condensada, cacao y cubiertos de grageas. Perfectos para meriendas o celebraciones.",
+    "calorias": 80,
+    "proteinas": 1.6,
+    "carbohidratos": 13.0,
+    "grasas": 2.8,
+    "ingredientes": [
+      { "nombre": "Mantequilla", "cantidad": "1 cucharada y media, 35 g" },
+      { "nombre": "Cacao en Polvo", "cantidad": "1 cucharada y un cuarto, 18 g" },
+      { "nombre": "Leche Condensada", "cantidad": "1 lata mediana, 400 g" },
+      { "nombre": "Grageas", "cantidad": "2 cucharadas, 40 g" }
+    ],
+    "instrucciones": [
+      "Coloca la leche condensada, el cacao y la mantequilla en una olla pequeña.",
+      "Cocina a fuego medio-bajo, revolviendo constantemente con cuchara de madera, hasta que la mezcla espese y se despegue del fondo (aprox. 10-12 minutos).",
+      "Vierte la mezcla en un recipiente engrasado y deja enfriar completamente en la heladera (1 hora aprox).",
+      "Con las manos ligeramente untadas de mantequilla, forma bolitas pequeñas del tamaño de una nuez.",
+      "Pasa cada una por grageas hasta cubrir por completo.",
+      "Guárdalas en la heladera hasta que estén firmes. Sirve frías o a temperatura ambiente."
+    ],
+    "infoNutricional": "Dulce energético ideal para media tarde o celebraciones. Puedes usar grageas sin azúcar si prefieres una versión más ligera.",
+    "tiempoPreparacion": 40,
+    "imagenUrl": "https://storage.googleapis.com/fitia_public_images/recipes%2FBR-R-V-00000002_vwi9wyaw5i182e91uw2nle9x_large.jpeg",
+    "dificultad": "medio",
+    "tipoComida": "snack"
+  }
+
+]

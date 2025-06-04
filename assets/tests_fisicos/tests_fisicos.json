@@ -1,0 +1,85 @@
+{
+  "tests": [
+    {
+      "id": "test_cooper_001",
+      "nombre": "Test de Cooper",
+      "objetivo": "Evaluar la resistencia aeróbica del individuo mediante la distancia recorrida en 12 minutos",
+      "dificultad": ["intermedio", "avanzado"],
+      "categorias": ["resistencia", "deportivos"],
+      "como_realizar": [
+        "Realiza un calentamiento de 5-10 minutos",
+        "Marca un punto de inicio y fin en una pista o terreno plano",
+        "Corre la mayor distancia posible durante 12 minutos",
+        "Registra la distancia recorrida en metros"
+      ],
+      "equipamiento_necesario": [
+        "Cronómetro",
+        "Pista o terreno plano",
+        "Marcadores de distancia"
+      ],
+      "duracion": "12 minutos",
+      "precauciones": [
+        "Consulta con tu médico antes de realizar el test",
+        "No realices el test si tienes alguna lesión",
+        "Mantente hidratado durante el ejercicio"
+      ],
+      "consejos": [
+        "Realiza un calentamiento adecuado",
+        "Mantén un ritmo constante",
+        "Respira de manera controlada"
+      ],
+      "video_url": "https://ejemplo.com/videos/test_cooper.mp4",
+      "formulas": [
+        {
+          "nombre": "VO2 Máximo",
+          "descripcion": "Fórmula para calcular el consumo máximo de oxígeno (VO2 máx)",
+          "formula": "VO2 máx = (D - 504.9) / 44.73",
+          "variables": {
+            "D": "Distancia recorrida en metros",
+            "VO2 máx": "Consumo máximo de oxígeno en ml/kg/min"
+          }
+        }
+      ]
+    },
+    {
+      "id": "test_rockport_002",
+      "nombre": "Test de Rockport",
+      "objetivo": "Evaluar la condición aeróbica mediante una caminata de 1.6 km",
+      "dificultad": ["principiante", "intermedio"],
+      "categorias": ["resistencia", "deportivos"],
+      "como_realizar": [
+        "Realiza un calentamiento suave de 5 minutos",
+        "Camina 1.6 km lo más rápido posible",
+        "Registra el tiempo empleado y tu frecuencia cardíaca final"
+      ],
+      "equipamiento_necesario": [
+        "Cronómetro",
+        "Pista o terreno plano",
+        "Monitor de frecuencia cardíaca (opcional)"
+      ],
+      "duracion": "15-20 minutos",
+      "precauciones": [
+        "Asegúrate de estar bien hidratado",
+        "No realices el test si tienes problemas articulares",
+        "Detente si sientes malestar"
+      ],
+      "consejos": [
+        "Mantén un paso constante",
+        "Respira de manera regular",
+        "Usa calzado cómodo"
+      ],
+      "video_url": "https://ejemplo.com/videos/test_rockport.mp4",
+      "formulas": [
+        {
+          "nombre": "VO2 Máximo",
+          "descripcion": "Fórmula para calcular el consumo máximo de oxígeno (VO2 máx)",
+          "formula": "VO2 máx = (D - 504.9) / 44.73",
+          "variables": {
+            "D": "Distancia recorrida en metros",
+            "VO2 máx": "Consumo máximo de oxígeno en ml/kg/min"
+          }
+        }
+      ]
+    }
+  ]
+} 

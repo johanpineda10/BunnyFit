@@ -1,0 +1,1289 @@
+[
+  {
+    "titulo": "Empanadas Mendocinas Caseras",
+    "descripcion": "Empanadas tradicionales con carne, cebolla y especias. Muy populares en Argentina.",
+    "calorias": 141,
+    "proteinas": 5.0,
+    "carbohidratos": 14.6,
+    "grasas": 6.3,
+    "ingredientes": [
+      { "nombre": "Aceitunas", "cantidad": "8 unidades y media, 42 g" },
+      { "nombre": "Cebolla", "cantidad": "4 unidades grandes, 610 g" },
+      { "nombre": "Ají Colorado Molido", "cantidad": "una cucharadita colmada, 5.5 g" },
+      { "nombre": "Orégano", "cantidad": "3 cucharadas y media, 13 g" },
+      { "nombre": "Aceite", "cantidad": "10 cucharadas colmadas, 105 ml" },
+      { "nombre": "Carne Molida", "cantidad": "500 g" },
+      { "nombre": "Harina", "cantidad": "3 tazas y media, 510 g" },
+      { "nombre": "Pimentón", "cantidad": "1 cucharada colmada, 9 g" },
+      { "nombre": "Huevo", "cantidad": "2 unidades y media, 118 g" }
+    ],
+    "instrucciones": [
+      "Pica la cebolla en cubos pequeños. Calienta la mitad del aceite en una sartén grande y saltéala hasta que esté transparente.",
+      "Agrega el orégano, pimentón, ají molido y la carne. Cocina hasta que la carne esté completamente cocida. Añade sal al gusto y reserva.",
+      "Para la masa: mezcla la harina con el resto del aceite y agua tibia suficiente hasta formar una masa suave. Amasa por 10 minutos.",
+      "Cubre la masa con un paño y deja reposar 10 minutos.",
+      "Hierve los huevos durante 10 minutos, enfría con agua, pélalos y pícalos.",
+      "Divide la masa en 30 bollitos y estira cada uno en forma de disco.",
+      "Coloca una porción de relleno en cada disco, agrega un trozo de huevo y una aceituna.",
+      "Cierra con repulgue y, si deseas, barniza con huevo batido.",
+      "Hornea a 180°C durante 15 minutos o hasta que estén doradas."
+    ],
+    "infoNutricional": "Empanadas equilibradas en proteínas y carbohidratos. Ideales para compartir.",
+    "tiempoPreparacion": 45,
+    "imagenUrl": "https://storage.googleapis.com/fitia_public_images/recipes%2FAR-R-V-00000002_kkimd5i176upl9z8k0rmawcb_large.jpeg",
+    "dificultad": "medio",
+    "tipoComida": "almuerzo"
+  },
+  {
+    "titulo": "Puchero Criollo Argentino",
+    "descripcion": "Guiso tradicional con carne y vegetales, ideal para días fríos.",
+    "calorias": 578,
+    "proteinas": 42.3,
+    "carbohidratos": 76.5,
+    "grasas": 14.6,
+    "ingredientes": [
+      { "nombre": "Zapallo", "cantidad": "media taza y una cucharada, 85 g" },
+      { "nombre": "Zanahoria", "cantidad": "una mediana, 62 g" },
+      { "nombre": "Apio", "cantidad": "1 tallo grande, 42 g" },
+      { "nombre": "Cebolla", "cantidad": "media unidad grande, 78 g" },
+      { "nombre": "Papa", "cantidad": "media unidad mediana, 92 g" },
+      { "nombre": "Choclo", "cantidad": "media unidad, 130 g" },
+      { "nombre": "Puerro", "cantidad": "media taza colmada, 52 g" },
+      { "nombre": "Falda de Res", "cantidad": "1 porción y un poco más, 158 g" }
+    ],
+    "instrucciones": [
+      "Corta todas las verduras en trozos grandes y parejos.",
+      "En una olla grande con 2/3 de agua, agrega la falda, cebolla, puerro y apio. Añade sal y pimienta. Cocina a fuego bajo durante 45 minutos retirando la espuma.",
+      "Agrega la zanahoria y cocina 7 minutos. Luego, añade la papa y tras 5 minutos el zapallo.",
+      "Finalmente, incorpora el choclo y cocina otros 7 minutos.",
+      "Rectifica sal y sirve bien caliente."
+    ],
+    "infoNutricional": "Plato completo y reconfortante. Alto en proteínas y carbohidratos.",
+    "tiempoPreparacion": 60,
+    "imagenUrl": "https://storage.googleapis.com/fitia_public_images/recipes%2FAR-R-V-00000003_d22mcpfxmv27zuheoenvt0py_large.jpeg",
+    "dificultad": "medio",
+    "tipoComida": "almuerzo"
+  },
+  {
+    "titulo": "Choripán Argentino Clásico",
+    "descripcion": "Clásico sándwich argentino con chorizo y chimichurri. Ideal para asados o almuerzos rápidos.",
+    "calorias": 486,
+    "proteinas": 21.1,
+    "carbohidratos": 34.9,
+    "grasas": 29.5,
+    "ingredientes": [
+      { "nombre": "Pan Francés", "cantidad": "una unidad, 62 g" },
+      { "nombre": "Chorizo de Cerdo", "cantidad": "una unidad y media, 108 g" },
+      { "nombre": "Mostaza", "cantidad": "una cucharadita y media, 6 g" },
+      { "nombre": "Chimichurri", "cantidad": "una cucharadita colmada, 6 g" }
+    ],
+    "instrucciones": [
+      "Corta el chorizo por la mitad (opcional) y cocínalo a la parrilla o sartén hasta que esté bien dorado.",
+      "Abre el pan y tuéstalo ligeramente para que esté crujiente.",
+      "Unta mostaza en una de las caras del pan, agrega el chorizo caliente y termina con una cucharada de chimichurri.",
+      "Sirve de inmediato. Puedes acompañar con papas o ensalada."
+    ],
+    "infoNutricional": "Receta alta en grasas y proteínas. Ideal para comidas ocasionales o al aire libre.",
+    "tiempoPreparacion": 15,
+    "imagenUrl": "https://storage.googleapis.com/fitia_public_images/recipes%2FAR-R-V-00000001_i4zfkmdzu98wrkgrfuioyozz_large.jpeg",
+    "dificultad": "fácil",
+    "tipoComida": "almuerzo"
+  },
+  {
+    "titulo": "Milanesa de Pollo Rellena con Jamón y Queso",
+    "descripcion": "Filete de pollo empanizado y relleno con jamón y queso, crujiente por fuera y jugoso por dentro.",
+    "calorias": 667,
+    "proteinas": 58.2,
+    "carbohidratos": 32.6,
+    "grasas": 31.4,
+    "ingredientes": [
+      { "nombre": "Ajo", "cantidad": "medio diente, 2.2 g" },
+      { "nombre": "Pechuga de Pollo", "cantidad": "una porción mediana, 155 g" },
+      { "nombre": "Jamón", "cantidad": "una rebanada y media, 32 g" },
+      { "nombre": "Queso Amarillo", "cantidad": "una rebanada, 26 g" },
+      { "nombre": "Perejil", "cantidad": "una cucharada colmada, 4.5 g" },
+      { "nombre": "Aceite", "cantidad": "una cucharada colmada, 11 ml" },
+      { "nombre": "Pan Rallado", "cantidad": "3 cucharadas colmadas, 44 g" },
+      { "nombre": "Huevo", "cantidad": "una unidad grande, 58 g" }
+    ],
+    "instrucciones": [
+      "Corta la pechuga de pollo en filete delgado y extiéndela.",
+      "En un bol, bate el huevo con ajo, perejil, sal y pimienta.",
+      "Remoja el filete en la mezcla y deja reposar unos minutos.",
+      "Coloca una rebanada de jamón y queso en el centro del pollo, dóblalo y ciérralo bien.",
+      "Pásalo nuevamente por huevo y luego por pan rallado hasta cubrirlo completamente.",
+      "Fríe en aceite caliente hasta que esté dorado por ambos lados. Escurre sobre papel y sirve caliente."
+    ],
+    "infoNutricional": "Muy alta en proteínas. Ideal como comida principal para deportistas o quienes buscan volumen.",
+    "tiempoPreparacion": 25,
+    "imagenUrl": "https://storage.googleapis.com/fitia_public_images/recipes%2FAR-R-V-00000005_dikn0o8gqlpnjuxbdovicrhg_large.jpeg",
+    "dificultad": "medio",
+    "tipoComida": "almuerzo"
+  },
+  {
+    "titulo": "Milanesa Horneada con Jamón y Queso Blanco",
+    "descripcion": "Versión al horno o en freidora de milanesa de pollo cubierta con jamón y queso blanco.",
+    "calorias": 560,
+    "proteinas": 59.1,
+    "carbohidratos": 31.8,
+    "grasas": 20.1,
+    "ingredientes": [
+      { "nombre": "Ajo", "cantidad": "medio diente pequeño, 2 g" },
+      { "nombre": "Pechuga de Pollo", "cantidad": "una porción, 152 g" },
+      { "nombre": "Jamón", "cantidad": "una rebanada y media, 32 g" },
+      { "nombre": "Queso Blanco", "cantidad": "una rebanada grande, 26 g" },
+      { "nombre": "Perejil", "cantidad": "una cucharada colmada, 4.5 g" },
+      { "nombre": "Pan Rallado", "cantidad": "3 cucharadas colmadas, 44 g" },
+      { "nombre": "Huevo", "cantidad": "una unidad, 56 g" }
+    ],
+    "instrucciones": [
+      "Bate el huevo con ajo picado, perejil, sal y pimienta.",
+      "Pasa el filete de pollo por la mezcla y luego por pan rallado.",
+      "Colócalo en una bandeja y hornea a 180°C o usa freidora de aire hasta que esté dorado.",
+      "Agrega una rebanada de jamón y queso blanco encima y hornea unos minutos más hasta que se derrita.",
+      "Sirve caliente con vegetales o puré si deseas."
+    ],
+    "infoNutricional": "Alta en proteínas, baja en grasa si se hornea. Ideal para una dieta equilibrada.",
+    "tiempoPreparacion": 30,
+    "imagenUrl": "https://storage.googleapis.com/fitia_public_images/recipes%2FAR-R-V-00000006_rdjtgh9uy18o5wasxtich0a6_large.jpeg",
+    "dificultad": "medio",
+    "tipoComida": "almuerzo"
+  },
+  {
+    "titulo": "Milanesa Napolitana al Horno",
+    "descripcion": "Clásica milanesa argentina con salsa de tomate, jamón y queso, cocinada al horno.",
+    "calorias": 665,
+    "proteinas": 52.3,
+    "carbohidratos": 26.1,
+    "grasas": 39.1,
+    "ingredientes": [
+      { "nombre": "Ajo", "cantidad": "1/2 diente, 2.5 g" },
+      { "nombre": "Perejil", "cantidad": "1 cucharada colmada, 5 g" },
+      { "nombre": "Aceite", "cantidad": "1 cucharada y media, 15 ml" },
+      { "nombre": "Carne de Res", "cantidad": "1 porción grande, 165 g" },
+      { "nombre": "Huevo", "cantidad": "1 unidad, 58 g" },
+      { "nombre": "Jamón", "cantidad": "2 rebanadas, 44 g" },
+      { "nombre": "Pan Rallado", "cantidad": "3 cucharadas, 42 g" },
+      { "nombre": "Queso Mozzarella", "cantidad": "2 rebanadas delgadas, 44 g" },
+      { "nombre": "Salsa de Tomate", "cantidad": "2 cucharadas, 30 g" }
+    ],
+    "instrucciones": [
+      "Bate el huevo con ajo y perejil picado. Sazona con sal y pimienta al gusto.",
+      "Pasa la carne por la mezcla de huevo y luego por pan rallado, presionando bien.",
+      "Coloca en una fuente con un poco de aceite y hornea a 180°C por 10 minutos de cada lado.",
+      "Cubre con salsa de tomate, una rebanada de jamón y queso. Lleva al horno por 5 minutos más hasta gratinar.",
+      "Sirve caliente con puré, papas al horno o ensalada."
+    ],
+    "infoNutricional": "Rica en proteínas y grasas. Ideal como comida completa y reconfortante.",
+    "tiempoPreparacion": 30,
+    "imagenUrl": "https://storage.googleapis.com/fitia_public_images/recipes%2FAR-R-V-00000004_r1qeh4s6s1gu4os4s8rbioao_large.jpg",
+    "dificultad": "medio",
+    "tipoComida": "almuerzo"
+  },
+  {
+    "titulo": "Tarta de Atún con Verduras",
+    "descripcion": "Tarta salada con atún, vegetales y masa casera. Fácil y sabrosa.",
+    "calorias": 332,
+    "proteinas": 20.4,
+    "carbohidratos": 22.1,
+    "grasas": 17.8,
+    "ingredientes": [
+      { "nombre": "Cebolla", "cantidad": "1/2 unidad mediana, 70 g" },
+      { "nombre": "Pimiento Rojo", "cantidad": "1/2 unidad pequeña, 40 g" },
+      { "nombre": "Huevo", "cantidad": "2 unidades, 110 g" },
+      { "nombre": "Aceite", "cantidad": "1 cucharada, 10 ml" },
+      { "nombre": "Atún en Agua", "cantidad": "1 lata mediana, 120 g" },
+      { "nombre": "Masa para Tarta", "cantidad": "1 unidad pequeña, 70 g" }
+    ],
+    "instrucciones": [
+      "Pica la cebolla y el pimiento en cubitos pequeños y saltéalos en una sartén con aceite hasta que estén tiernos.",
+      "En un bol, mezcla el atún escurrido con las verduras salteadas y los huevos batidos.",
+      "Coloca la masa en una tartera y vierte el relleno dentro.",
+      "Hornea a 180°C durante 25-30 minutos o hasta que esté firme y dorada.",
+      "Deja reposar unos minutos antes de cortar y servir."
+    ],
+    "infoNutricional": "Buena fuente de proteínas. Ideal para un almuerzo rápido y nutritivo.",
+    "tiempoPreparacion": 35,
+    "imagenUrl": "https://storage.googleapis.com/fitia_public_images/recipes%2FAR-R-V-00000007_ksv4gdh87g99ak7bi6v1dl1p_large.jpeg",
+    "dificultad": "medio",
+    "tipoComida": "almuerzo"
+  },
+  {
+    "titulo": "Pascualina de Espinaca y Huevo",
+    "descripcion": "Tarta clásica de espinaca, cebolla y huevo. Rica en hierro y proteínas.",
+    "calorias": 345,
+    "proteinas": 13.0,
+    "carbohidratos": 27.5,
+    "grasas": 21.1,
+    "ingredientes": [
+      { "nombre": "Espinaca", "cantidad": "2 tazas, 180 g" },
+      { "nombre": "Cebolla", "cantidad": "1 unidad mediana, 130 g" },
+      { "nombre": "Huevo", "cantidad": "2 unidades, 110 g" },
+      { "nombre": "Queso Rallado", "cantidad": "2 cucharadas colmadas, 24 g" },
+      { "nombre": "Aceite", "cantidad": "1 cucharada, 10 ml" },
+      { "nombre": "Masa de Tarta", "cantidad": "2 tapas, 140 g" }
+    ],
+    "instrucciones": [
+      "Saltea la cebolla picada en aceite hasta que esté blanda.",
+      "Agrega la espinaca picada y cocina hasta que reduzca su volumen.",
+      "Mezcla con los huevos batidos y el queso rallado.",
+      "Coloca una tapa de tarta en una tartera, añade la mezcla y cubre con la segunda tapa.",
+      "Haz un pequeño corte en el centro, hornea a 180°C por 35 minutos y sirve."
+    ],
+    "infoNutricional": "Ideal como plato principal o cena. Equilibrada en proteínas y grasas saludables.",
+    "tiempoPreparacion": 35,
+    "imagenUrl": "https://storage.googleapis.com/fitia_public_images/recipes%2FAR-R-V-00000008_l21wzbdj4by9kge1m3op5rx0_large.jpeg",
+    "dificultad": "medio",
+    "tipoComida": "almuerzo"
+  },
+  {
+    "titulo": "Empanadas Cuyanas de Carne",
+    "descripcion": "Empanadas típicas argentinas con carne, huevo, aceitunas y condimentos.",
+    "calorias": 195,
+    "proteinas": 7.3,
+    "carbohidratos": 18.1,
+    "grasas": 10.5,
+    "ingredientes": [
+      { "nombre": "Aceitunas", "cantidad": "10 unidades, 45 g" },
+      { "nombre": "Cebolla", "cantidad": "1 unidad mediana, 140 g" },
+      { "nombre": "Carne Molida", "cantidad": "150 g" },
+      { "nombre": "Huevo", "cantidad": "2 unidades, 110 g" },
+      { "nombre": "Pimentón", "cantidad": "1 cucharadita, 3 g" },
+      { "nombre": "Ají Molido", "cantidad": "1 cucharadita, 2 g" },
+      { "nombre": "Aceite", "cantidad": "1 cucharada, 10 ml" },
+      { "nombre": "Masa para Empanadas", "cantidad": "6 tapas, 180 g" }
+    ],
+    "instrucciones": [
+      "Hierve los huevos, pélalos y pícalos.",
+      "Saltea la cebolla picada en aceite hasta que esté blanda, luego agrega la carne y condimenta con sal, ají y pimentón.",
+      "Deja enfriar un poco, incorpora los huevos picados y las aceitunas en rodajas.",
+      "Rellena las tapas con una cucharada de mezcla, cierra con repulgue y hornea a 180°C por 15 minutos."
+    ],
+    "infoNutricional": "Empanadas saladas y sabrosas. Buen balance entre proteína y grasa.",
+    "tiempoPreparacion": 50,
+    "imagenUrl": "https://storage.googleapis.com/fitia_public_images/recipes%2FAR-R-V-00000009_x6egv1f6nlcrhj0h0wsxmsf1_large.jpeg",
+    "dificultad": "medio",
+    "tipoComida": "almuerzo"
+  },
+  {
+    "titulo": "Pan Casero Relleno de Jamón y Queso",
+    "descripcion": "Pan suave, dorado y relleno con jamón y queso derretido. Ideal para almuerzo o merienda.",
+    "calorias": 475,
+    "proteinas": 20.0,
+    "carbohidratos": 54.1,
+    "grasas": 20.2,
+    "ingredientes": [
+      { "nombre": "Harina", "cantidad": "2 tazas y media, 300 g" },
+      { "nombre": "Levadura Seca", "cantidad": "1 cucharada, 10 g" },
+      { "nombre": "Azúcar", "cantidad": "1 cucharada, 12 g" },
+      { "nombre": "Agua Tibia", "cantidad": "1 taza, 240 ml" },
+      { "nombre": "Aceite", "cantidad": "2 cucharadas, 20 ml" },
+      { "nombre": "Jamón", "cantidad": "2 rebanadas y media, 70 g" },
+      { "nombre": "Queso", "cantidad": "2 rebanadas grandes, 60 g" }
+    ],
+    "instrucciones": [
+      "Disuelve la levadura y el azúcar en el agua tibia. Deja reposar 10 minutos.",
+      "Agrega la harina y el aceite, amasa hasta que la masa esté suave y elástica.",
+      "Tapa y deja leudar 1 hora. Luego, estira en forma rectangular.",
+      "Coloca el jamón y el queso en el centro y enrolla como un pionono.",
+      "Coloca en una bandeja, deja levar 15 minutos más y hornea a 180°C por 25-30 minutos.",
+      "Sirve tibio, ideal para compartir."
+    ],
+    "infoNutricional": "Receta casera con buen balance de nutrientes. Rica y fácil de preparar.",
+    "tiempoPreparacion": 60,
+    "imagenUrl": "https://storage.googleapis.com/fitia_public_images/recipes%2FAR-R-V-00000010_nnpb3wpyv7s6vfb0rvmxr7ts_large.jpeg",
+    "dificultad": "medio",
+    "tipoComida": "almuerzo"
+  },
+  {
+    "titulo": "Locro Criollo Argentino",
+    "descripcion": "Guiso tradicional con maíz, zapallo, carnes y legumbres. Ideal para días fríos.",
+    "calorias": 395,
+    "proteinas": 25.2,
+    "carbohidratos": 40.2,
+    "grasas": 15.6,
+    "ingredientes": [
+      { "nombre": "Chorizo", "cantidad": "1 unidad pequeña, 92 g" },
+      { "nombre": "Zapallo", "cantidad": "1 taza, 180 g" },
+      { "nombre": "Cebolla", "cantidad": "1 unidad mediana, 130 g" },
+      { "nombre": "Pimiento Rojo", "cantidad": "1/2 unidad, 45 g" },
+      { "nombre": "Maíz Blanco Cocido", "cantidad": "3/4 taza, 135 g" },
+      { "nombre": "Poroto Cocido", "cantidad": "1/2 taza, 90 g" },
+      { "nombre": "Falda de Res", "cantidad": "1 porción, 130 g" },
+      { "nombre": "Agua", "cantidad": "2 tazas, 480 ml" }
+    ],
+    "instrucciones": [
+      "Pica la cebolla, el pimiento y el zapallo en cubos pequeños.",
+      "En una olla grande, rehoga la cebolla y el pimiento en un poco de aceite.",
+      "Agrega el chorizo en rodajas, la carne y los porotos. Cocina unos minutos removiendo.",
+      "Incorpora el maíz, el zapallo y el agua. Cocina a fuego lento por 40 minutos removiendo de vez en cuando.",
+      "Rectifica sal y sirve caliente."
+    ],
+    "infoNutricional": "Guiso alto en proteína y carbohidratos. Ideal para comidas abundantes y energéticas.",
+    "tiempoPreparacion": 60,
+    "imagenUrl": "https://storage.googleapis.com/fitia_public_images/recipes%2FAR-R-V-00000011_w2fhd0cmn1mp8qzqtf7y13z0_large.jpeg",
+    "dificultad": "medio",
+    "tipoComida": "almuerzo"
+  },
+  {
+    "titulo": "Tomates Rellenos de Carne y Arroz",
+    "descripcion": "Tomates horneados con relleno de carne, arroz y vegetales. Livianos y sabrosos.",
+    "calorias": 243,
+    "proteinas": 13.8,
+    "carbohidratos": 21.2,
+    "grasas": 11.7,
+    "ingredientes": [
+      { "nombre": "Cebolla", "cantidad": "1/4 unidad, 40 g" },
+      { "nombre": "Carne Molida", "cantidad": "100 g" },
+      { "nombre": "Tomate", "cantidad": "2 unidades grandes, 290 g" },
+      { "nombre": "Huevo", "cantidad": "1 unidad, 55 g" },
+      { "nombre": "Aceite", "cantidad": "1 cucharada, 10 ml" },
+      { "nombre": "Arroz Cocido", "cantidad": "1/2 taza, 75 g" }
+    ],
+    "instrucciones": [
+      "Corta la parte superior de los tomates y vacía su interior con cuidado. Reserva la pulpa.",
+      "Pica la cebolla y saltéala con la carne en una sartén con aceite.",
+      "Agrega el arroz cocido, el huevo batido y la pulpa de tomate picada. Mezcla bien.",
+      "Rellena los tomates con esta preparación y colócalos en una bandeja.",
+      "Hornea a 180°C durante 20 minutos. Sirve calientes o tibios."
+    ],
+    "infoNutricional": "Receta equilibrada en macros. Ideal para un almuerzo liviano y nutritivo.",
+    "tiempoPreparacion": 30,
+    "imagenUrl": "https://storage.googleapis.com/fitia_public_images/recipes%2FAR-R-V-00000012_kt8alr3kq9r12zkv0re5qazb_large.jpeg",
+    "dificultad": "fácil",
+    "tipoComida": "almuerzo"
+  },
+  {
+    "titulo": "Lentejas Cremosas con Salsa Blanca",
+    "descripcion": "Lentejas con una salsa blanca suave y especiada. Comida vegetariana rica en proteínas.",
+    "calorias": 582,
+    "proteinas": 33.1,
+    "carbohidratos": 54.3,
+    "grasas": 28.1,
+    "ingredientes": [
+      { "nombre": "Ajo", "cantidad": "1/2 diente, 2 g" },
+      { "nombre": "Leche", "cantidad": "1 taza, 240 ml" },
+      { "nombre": "Maicena", "cantidad": "1 cucharada, 10 g" },
+      { "nombre": "Lentejas Cocidas", "cantidad": "1 taza, 190 g" },
+      { "nombre": "Queso Rallado", "cantidad": "2 cucharadas, 20 g" },
+      { "nombre": "Aceite de Oliva", "cantidad": "1 cucharada, 10 ml" }
+    ],
+    "instrucciones": [
+      "Disuelve la maicena en un poco de leche fría y reserva.",
+      "Calienta el resto de la leche con el ajo picado. Al hervir, agrega la maicena y revuelve hasta espesar.",
+      "Incorpora el queso rallado y mezcla bien.",
+      "Agrega las lentejas cocidas, mezcla todo y cocina 2 minutos más.",
+      "Sirve caliente con un chorrito de aceite de oliva por encima."
+    ],
+    "infoNutricional": "Buena fuente de proteína vegetal con sabor cremoso y reconfortante.",
+    "tiempoPreparacion": 30,
+    "imagenUrl": "https://storage.googleapis.com/fitia_public_images/recipes%2FAR-R-V-00000013_jk7tzmy0jj9v0o5qlkd85v4d_large.jpeg",
+    "dificultad": "medio",
+    "tipoComida": "almuerzo"
+  },
+  {
+    "titulo": "Polenta Cremosa con Berenjena Salteada",
+    "descripcion": "Plato vegetariano de polenta acompañado con berenjena salteada y condimentos.",
+    "calorias": 428,
+    "proteinas": 5.3,
+    "carbohidratos": 85.6,
+    "grasas": 9.3,
+    "ingredientes": [
+      { "nombre": "Polenta", "cantidad": "3/4 taza, 105 g" },
+      { "nombre": "Berenjenas", "cantidad": "1/2 taza, 55 g" },
+      { "nombre": "Aceite", "cantidad": "1 cucharada, 10 ml" },
+      { "nombre": "Sal", "cantidad": "1 cucharadita rasa, 4 g" },
+      { "nombre": "Pimienta", "cantidad": "1/4 cucharadita, 1 g" }
+    ],
+    "instrucciones": [
+      "Hierve 2 tazas de agua con sal. Agrega la polenta en forma de lluvia y revuelve hasta que espese.",
+      "Mientras tanto, corta la berenjena en cubos pequeños y saltéalos en una sartén con aceite.",
+      "Agrega sal y pimienta al gusto.",
+      "Sirve la polenta caliente en un plato hondo y coloca la berenjena por encima."
+    ],
+    "infoNutricional": "Fuente de energía vegetal con bajo contenido en grasas. Ideal como almuerzo ligero.",
+    "tiempoPreparacion": 25,
+    "imagenUrl": "https://storage.googleapis.com/fitia_public_images/recipes%2FAR-R-V-00000014_c7aa3ek1hdwcrk7rns3j2yk3_large.jpeg",
+    "dificultad": "fácil",
+    "tipoComida": "almuerzo"
+  },
+  {
+    "titulo": "Ensalada de Fideos con Huevo y Vegetales",
+    "descripcion": "Ensalada fresca de fideos con vegetales cocidos, huevo y aderezo.",
+    "calorias": 576,
+    "proteinas": 23.1,
+    "carbohidratos": 79.1,
+    "grasas": 18.1,
+    "ingredientes": [
+      { "nombre": "Pasta Cocida", "cantidad": "1 taza y 1/4, 150 g" },
+      { "nombre": "Zanahoria", "cantidad": "1/2 unidad mediana, 40 g" },
+      { "nombre": "Arvejas Cocidas", "cantidad": "1/3 taza, 50 g" },
+      { "nombre": "Huevo", "cantidad": "1 unidad grande, 58 g" },
+      { "nombre": "Aceite de Oliva", "cantidad": "1 cucharada, 10 ml" },
+      { "nombre": "Vinagre", "cantidad": "1 cucharadita, 5 ml" }
+    ],
+    "instrucciones": [
+      "Cocina la pasta al dente en agua con sal. Escúrrela y deja enfriar.",
+      "Hierve la zanahoria y el huevo. Corta la zanahoria en cubos pequeños y el huevo en rodajas o trozos.",
+      "En un bol, mezcla la pasta, las arvejas, la zanahoria y el huevo.",
+      "Añade aceite, vinagre, sal y pimienta. Mezcla bien y sirve fría."
+    ],
+    "infoNutricional": "Alto en proteínas y carbohidratos. Ideal como almuerzo completo y fresco.",
+    "tiempoPreparacion": 25,
+    "imagenUrl": "https://storage.googleapis.com/fitia_public_images/recipes%2FAR-R-V-00000015_gm0kbm7xu1qqfuw44fsnxibf_large.jpeg",
+    "dificultad": "fácil",
+    "tipoComida": "almuerzo"
+  },
+  {
+    "titulo": "Ñoquis de Espinaca y Cereal Livianos",
+    "descripcion": "Una alternativa saludable a los ñoquis tradicionales, con vegetales y cereales.",
+    "calorias": 458,
+    "proteinas": 15.6,
+    "carbohidratos": 61.2,
+    "grasas": 18.3,
+    "ingredientes": [
+      { "nombre": "Espinaca", "cantidad": "2 tazas y un cuarto, 185 g" },
+      { "nombre": "Avena Instantánea", "cantidad": "3 cucharadas colmadas, 35 g" },
+      { "nombre": "Queso Rallado", "cantidad": "2 cucharadas, 20 g" },
+      { "nombre": "Huevo", "cantidad": "1 unidad, 55 g" },
+      { "nombre": "Harina de Trigo", "cantidad": "5 cucharadas, 60 g" },
+      { "nombre": "Salsa de Tomate", "cantidad": "4 cucharadas, 60 g" }
+    ],
+    "instrucciones": [
+      "Hierve la espinaca por 1 minuto, escurre bien y pica finamente.",
+      "Mezcla con el huevo, avena, queso y harina. Amasa ligeramente hasta obtener una mezcla suave.",
+      "Forma tiras, corta los ñoquis y cocínalos en agua hirviendo con sal hasta que floten.",
+      "Sirve con salsa de tomate caliente por encima."
+    ],
+    "infoNutricional": "Receta equilibrada con buen aporte de fibra y vegetales.",
+    "tiempoPreparacion": 35,
+    "imagenUrl": "https://storage.googleapis.com/fitia_public_images/recipes%2FAR-R-V-00000016_k17lbh9e8ef0elbt0r5zv5eq_large.jpeg",
+    "dificultad": "medio",
+    "tipoComida": "almuerzo"
+  },
+  {
+    "titulo": "Pan de Arroz Sin Gluten",
+    "descripcion": "Pan sin gluten a base de arroz cocido. Ideal para acompañar comidas o como snack.",
+    "calorias": 232,
+    "proteinas": 7.2,
+    "carbohidratos": 35.1,
+    "grasas": 7.2,
+    "ingredientes": [
+      { "nombre": "Arroz Cocido", "cantidad": "1 taza colmada, 205 g" },
+      { "nombre": "Huevo", "cantidad": "2 unidades pequeñas, 102 g" },
+      { "nombre": "Polvo de Hornear", "cantidad": "1 cucharadita, 4 g" },
+      { "nombre": "Aceite", "cantidad": "1 cucharada, 10 ml" },
+      { "nombre": "Sal", "cantidad": "1/2 cucharadita, 2 g" }
+    ],
+    "instrucciones": [
+      "Precalienta el horno a 180°C. Tritura el arroz cocido con los huevos, aceite, sal y polvo de hornear hasta obtener una mezcla homogénea.",
+      "Vierte la mezcla en un molde ligeramente aceitado.",
+      "Hornea durante 30-35 minutos o hasta que esté dorado y firme.",
+      "Deja enfriar antes de cortar. Puedes conservarlo en la heladera."
+    ],
+    "infoNutricional": "Pan ligero, sin gluten y con buen equilibrio de macronutrientes.",
+    "tiempoPreparacion": 40,
+    "imagenUrl": "https://storage.googleapis.com/fitia_public_images/recipes%2FAR-R-V-00000017_hzzd3fxn3ajz41zkrx62uxkx_large.jpeg",
+    "dificultad": "fácil",
+    "tipoComida": "almuerzo"
+  },
+  {
+    "titulo": "Hígado Salteado con Papas Doradas",
+    "descripcion": "Hígado con cebolla y papas al horno. Rico en hierro y proteínas.",
+    "calorias": 556,
+    "proteinas": 49.2,
+    "carbohidratos": 48.3,
+    "grasas": 17.5,
+    "ingredientes": [
+      { "nombre": "Hígado de Res", "cantidad": "1 porción, 150 g" },
+      { "nombre": "Cebolla", "cantidad": "1 unidad mediana, 120 g" },
+      { "nombre": "Papa", "cantidad": "1 unidad, 180 g" },
+      { "nombre": "Aceite", "cantidad": "1 cucharada y media, 15 ml" },
+      { "nombre": "Sal y Pimienta", "cantidad": "a gusto" }
+    ],
+    "instrucciones": [
+      "Pela y corta las papas en rodajas finas. Cocínalas al horno con aceite y sal hasta dorar.",
+      "En una sartén con aceite, saltea la cebolla cortada en pluma.",
+      "Agrega el hígado en tiras, condimenta y cocina 5-7 minutos hasta que esté tierno.",
+      "Sirve el hígado con las papas doradas al costado."
+    ],
+    "infoNutricional": "Rico en hierro y proteínas. Ideal para una comida nutritiva y completa.",
+    "tiempoPreparacion": 25,
+    "imagenUrl": "https://storage.googleapis.com/fitia_public_images/recipes%2FAR-R-V-00000018_kn5mt1rhuw71o47e8mcm26i9_large.jpeg",
+    "dificultad": "medio",
+    "tipoComida": "almuerzo"
+  },
+  {
+    "titulo": "Rollitos de Acelga Rellenos (Niños Envueltos)",
+    "descripcion": "Rollos de acelga con arroz, carne y verduras, cocinados en salsa. Receta nutritiva.",
+    "calorias": 155,
+    "proteinas": 8.4,
+    "carbohidratos": 15.2,
+    "grasas": 7.0,
+    "ingredientes": [
+      { "nombre": "Acelga", "cantidad": "6 hojas grandes, 130 g" },
+      { "nombre": "Cebolla", "cantidad": "1/2 unidad, 38 g" },
+      { "nombre": "Carne Molida", "cantidad": "100 g" },
+      { "nombre": "Arroz Cocido", "cantidad": "1/2 taza, 75 g" },
+      { "nombre": "Tomate", "cantidad": "1 unidad, 100 g" },
+      { "nombre": "Aceite", "cantidad": "1 cucharada, 10 ml" }
+    ],
+    "instrucciones": [
+      "Blanquea las hojas de acelga en agua caliente y escúrrelas bien.",
+      "Prepara el relleno salteando la cebolla, luego añade la carne, arroz y condimentos.",
+      "Coloca una porción del relleno en cada hoja y enrolla como si fuera un niño envuelto.",
+      "Colócalos en una fuente con salsa de tomate y cocina al horno durante 15 minutos a 180°C."
+    ],
+    "infoNutricional": "Aporta vegetales, proteínas y fibra. Ideal como plato principal liviano.",
+    "tiempoPreparacion": 35,
+    "imagenUrl": "https://storage.googleapis.com/fitia_public_images/recipes%2FAR-R-V-00000019_bf29p5gfk9fxx0kqz7xz7jld_large.jpeg",
+    "dificultad": "medio",
+    "tipoComida": "almuerzo"
+  },
+  {
+    "titulo": "Torre de Vegetales con Carne y Salsa Blanca",
+    "descripcion": "Capas de vegetales cocidos con carne y salsa bechamel. Ideal para servir porciones individuales.",
+    "calorias": 770,
+    "proteinas": 26.3,
+    "carbohidratos": 59.5,
+    "grasas": 50.3,
+    "ingredientes": [
+      { "nombre": "Carne Molida", "cantidad": "150 g" },
+      { "nombre": "Zapallito", "cantidad": "1 unidad mediana, 90 g" },
+      { "nombre": "Zanahoria", "cantidad": "1 unidad, 80 g" },
+      { "nombre": "Papa", "cantidad": "1 unidad, 160 g" },
+      { "nombre": "Cebolla", "cantidad": "1 unidad pequeña, 90 g" },
+      { "nombre": "Leche", "cantidad": "1 taza, 240 ml" },
+      { "nombre": "Harina", "cantidad": "1 cucharada colmada, 15 g" },
+      { "nombre": "Mantequilla", "cantidad": "1 cucharada, 10 g" }
+    ],
+    "instrucciones": [
+      "Cocina las verduras al vapor o hervidas. Reserva.",
+      "En una sartén, cocina la carne con cebolla picada hasta que se dore.",
+      "Prepara la salsa blanca derritiendo manteca, añadiendo harina y luego leche caliente hasta espesar.",
+      "En una fuente, arma capas de vegetales, carne y salsa. Repite hasta terminar.",
+      "Lleva al horno a 180°C durante 15 minutos y sirve caliente."
+    ],
+    "infoNutricional": "Receta rica en grasas y carbohidratos, con buena cantidad de vegetales.",
+    "tiempoPreparacion": 40,
+    "imagenUrl": "https://storage.googleapis.com/fitia_public_images/recipes%2FAR-R-V-00000020_azj2bd46f3iwle4nl9cc70fh_large.jpeg",
+    "dificultad": "medio",
+    "tipoComida": "almuerzo"
+  },
+  {
+    "titulo": "Rollitos de Repollo Rellenos",
+    "descripcion": "Hojas de repollo rellenas de carne y arroz, cocidas en salsa de tomate.",
+    "calorias": 152,
+    "proteinas": 7.8,
+    "carbohidratos": 14.6,
+    "grasas": 6.8,
+    "ingredientes": [
+      { "nombre": "Cebolla", "cantidad": "1/4 unidad, 35 g" },
+      { "nombre": "Ajo", "cantidad": "1/2 diente, 2 g" },
+      { "nombre": "Tomate", "cantidad": "1 unidad mediana, 100 g" },
+      { "nombre": "Aceite", "cantidad": "1 cucharada, 10 ml" },
+      { "nombre": "Carne Molida", "cantidad": "100 g" },
+      { "nombre": "Arroz Cocido", "cantidad": "1/2 taza, 75 g" },
+      { "nombre": "Hojas de Repollo", "cantidad": "6 grandes, 130 g" }
+    ],
+    "instrucciones": [
+      "Blanquea las hojas de repollo en agua hirviendo y escúrrelas con cuidado.",
+      "Pica la cebolla, el ajo y el tomate. Sofríe en una sartén con aceite y añade la carne molida.",
+      "Una vez cocida, mezcla con el arroz cocido. Rellena cada hoja con esta mezcla y forma rollitos.",
+      "Coloca en una fuente con salsa de tomate, tapa y hornea a 180°C durante 15-20 minutos.",
+      "Sirve caliente."
+    ],
+    "infoNutricional": "Aporte equilibrado de proteínas, carbohidratos y fibra vegetal.",
+    "tiempoPreparacion": 35,
+    "imagenUrl": "https://storage.googleapis.com/fitia_public_images/recipes%2FAR-R-V-00000021_mk0v7p5zt7k9tv2i99uex7nl_large.jpeg",
+    "dificultad": "medio",
+    "tipoComida": "almuerzo"
+  },
+  {
+    "titulo": "Pollo en Escabeche Casero",
+    "descripcion": "Trozos de pollo marinados con vegetales y vinagre. Ideal para comer frío o caliente.",
+    "calorias": 409,
+    "proteinas": 47.2,
+    "carbohidratos": 10.5,
+    "grasas": 16.1,
+    "ingredientes": [
+      { "nombre": "Zanahoria", "cantidad": "1/2 mediana, 45 g" },
+      { "nombre": "Cebolla", "cantidad": "1 unidad, 130 g" },
+      { "nombre": "Pechuga de Pollo", "cantidad": "1 porción grande, 170 g" },
+      { "nombre": "Laurel", "cantidad": "1 hoja pequeña" },
+      { "nombre": "Pimienta en Granos", "cantidad": "1/2 cucharadita, 2 g" },
+      { "nombre": "Aceite", "cantidad": "1 cucharada, 10 ml" },
+      { "nombre": "Vinagre", "cantidad": "1/3 taza, 80 ml" }
+    ],
+    "instrucciones": [
+      "Corta la cebolla en pluma y la zanahoria en rodajas. Cocínalas en una sartén con el aceite por 5 minutos.",
+      "Agrega el pollo cortado en cubos grandes, el laurel, los granos de pimienta y el vinagre.",
+      "Tapa la olla y cocina a fuego bajo por 20 minutos hasta que el pollo esté tierno.",
+      "Deja enfriar. Puedes conservarlo en heladera hasta 3 días."
+    ],
+    "infoNutricional": "Buena fuente de proteínas y grasas saludables. Se puede consumir frío o caliente.",
+    "tiempoPreparacion": 25,
+    "imagenUrl": "https://storage.googleapis.com/fitia_public_images/recipes%2FAR-R-V-00000022_dzfhfh7r5nyc55fv20os3phf_large.jpeg",
+    "dificultad": "medio",
+    "tipoComida": "almuerzo"
+  },
+  {
+    "titulo": "Pan de Carne con Zapallitos al Horno",
+    "descripcion": "Rollo de carne al horno con zapallitos y cebolla. Versátil y nutritivo.",
+    "calorias": 495,
+    "proteinas": 35.8,
+    "carbohidratos": 15.2,
+    "grasas": 34.0,
+    "ingredientes": [
+      { "nombre": "Cebolla", "cantidad": "1 unidad, 120 g" },
+      { "nombre": "Zapallitos", "cantidad": "1 unidad y media, 105 g" },
+      { "nombre": "Carne Molida", "cantidad": "250 g" },
+      { "nombre": "Huevo", "cantidad": "1 unidad y media, 80 g" },
+      { "nombre": "Pan Rallado", "cantidad": "3 cucharadas, 45 g" },
+      { "nombre": "Aceite", "cantidad": "1 cucharada, 10 ml" }
+    ],
+    "instrucciones": [
+      "Pica la cebolla y corta los zapallitos en cubos pequeños. Sofríe todo con el aceite hasta que estén tiernos.",
+      "En un bol, mezcla con la carne molida, el huevo y el pan rallado.",
+      "Forma un pan y colócalo en una fuente con un poco de aceite.",
+      "Hornea a 180°C durante 30 minutos. Puedes cubrir con queso si deseas gratinar."
+    ],
+    "infoNutricional": "Buena fuente de proteína animal. Ideal como plato principal al horno.",
+    "tiempoPreparacion": 45,
+    "imagenUrl": "https://storage.googleapis.com/fitia_public_images/recipes%2FAR-R-V-00000023_zyv5z1rlv3a5j98ypqrxsmg2_large.jpeg",
+    "dificultad": "medio",
+    "tipoComida": "almuerzo"
+  },
+  {
+    "titulo": "Guiso de Lentejas con Carne",
+    "descripcion": "Guiso sustancioso con lentejas, carne y vegetales. Muy completo y saciante.",
+    "calorias": 615,
+    "proteinas": 47.3,
+    "carbohidratos": 68.5,
+    "grasas": 22.1,
+    "ingredientes": [
+      { "nombre": "Cebolla", "cantidad": "1/2 unidad mediana, 70 g" },
+      { "nombre": "Zanahoria", "cantidad": "1/2 unidad mediana, 45 g" },
+      { "nombre": "Lentejas Cocidas", "cantidad": "3/4 taza, 140 g" },
+      { "nombre": "Carne Picada", "cantidad": "150 g" },
+      { "nombre": "Aceite", "cantidad": "1 cucharada, 10 ml" },
+      { "nombre": "Caldo de Verdura", "cantidad": "1 taza, 240 ml" }
+    ],
+    "instrucciones": [
+      "Pica las verduras y saltéalas en una olla con aceite.",
+      "Agrega la carne picada y cocina hasta que se dore.",
+      "Añade las lentejas y el caldo caliente. Cocina a fuego bajo por 20 minutos.",
+      "Rectifica sal y sirve caliente."
+    ],
+    "infoNutricional": "Alto en proteína y fibra. Perfecto para una comida abundante y saludable.",
+    "tiempoPreparacion": 30,
+    "imagenUrl": "https://storage.googleapis.com/fitia_public_images/recipes%2FAR-R-V-00000024_v4nqazqvcmv2h39rtnat3fiy_large.jpeg",
+    "dificultad": "medio",
+    "tipoComida": "almuerzo"
+  },
+  {
+    "titulo": "Empanadas de Carne a Cuchillo",
+    "descripcion": "Empanadas jugosas con carne cortada a cuchillo, huevo y cebolla. Muy sabrosas.",
+    "calorias": 335,
+    "proteinas": 22.1,
+    "carbohidratos": 21.4,
+    "grasas": 18.2,
+    "ingredientes": [
+      { "nombre": "Cebolla", "cantidad": "1/4 unidad, 35 g" },
+      { "nombre": "Carne Cortada a Cuchillo", "cantidad": "150 g" },
+      { "nombre": "Huevo", "cantidad": "1 unidad, 56 g" },
+      { "nombre": "Pimentón", "cantidad": "1/2 cucharadita, 2 g" },
+      { "nombre": "Ají Molido", "cantidad": "1/2 cucharadita, 1.5 g" },
+      { "nombre": "Aceite", "cantidad": "1 cucharada, 10 ml" },
+      { "nombre": "Masa para Empanadas", "cantidad": "2 unidades grandes, 60 g" }
+    ],
+    "instrucciones": [
+      "Hierve el huevo, pélalo y pícalo en cubos pequeños.",
+      "Pica la cebolla y saltéala en aceite junto con los condimentos.",
+      "Agrega la carne cortada a cuchillo, cocina por unos minutos y retira del fuego.",
+      "Incorpora el huevo picado, mezcla bien y rellena las tapas de empanada.",
+      "Cierra con repulgue y hornea a 180°C por 15 minutos o hasta dorar."
+    ],
+    "infoNutricional": "Receta tradicional con textura única. Buen aporte de proteína y sabor.",
+    "tiempoPreparacion": 30,
+    "imagenUrl": "https://storage.googleapis.com/fitia_public_images/recipes%2FAR-R-V-00000025_elyldhpt2n6v77rb74o10cmm_large.jpeg",
+    "dificultad": "medio",
+    "tipoComida": "almuerzo"
+  },
+  {
+    "titulo": "Pescado con Habas y Huevo Poché",
+    "descripcion": "Receta rica en proteína, acompañada de habas tiernas y huevo pochado.",
+    "calorias": 594,
+    "proteinas": 59.2,
+    "carbohidratos": 36.1,
+    "grasas": 26.3,
+    "ingredientes": [
+      { "nombre": "Pescado", "cantidad": "una porción y media, 210 g" },
+      { "nombre": "Habas Cocidas", "cantidad": "3/4 taza, 120 g" },
+      { "nombre": "Huevo", "cantidad": "1 unidad, 55 g" },
+      { "nombre": "Zumo de Limón", "cantidad": "1 cucharada y media, 20 ml" },
+      { "nombre": "Aceite de Oliva", "cantidad": "1 cucharada, 10 ml" }
+    ],
+    "instrucciones": [
+      "Marina el pescado con el zumo de limón, sal y pimienta por 10 minutos.",
+      "Cocina el pescado a la plancha o al horno hasta que esté dorado y tierno.",
+      "Para el huevo poché, hierve agua con un chorrito de vinagre, crea un remolino y cocina el huevo durante 3 minutos.",
+      "Sirve el pescado acompañado con habas cocidas y el huevo poché encima. Rocía con aceite de oliva al final."
+    ],
+    "infoNutricional": "Fuente alta de proteína y grasas saludables. Ideal para un almuerzo balanceado.",
+    "tiempoPreparacion": 30,
+    "imagenUrl": "https://storage.googleapis.com/fitia_public_images/recipes%2FAR-R-V-00000026_yt2wyzxdqxt4a1i1i4gcdpeo_large.jpeg",
+    "dificultad": "medio",
+    "tipoComida": "almuerzo"
+  },
+  {
+    "titulo": "Humita Cremosa en Olla",
+    "descripcion": "Plato tradicional con choclo, zapallo, cebolla y queso. Cremoso y reconfortante.",
+    "calorias": 603,
+    "proteinas": 23.5,
+    "carbohidratos": 88.3,
+    "grasas": 26.1,
+    "ingredientes": [
+      { "nombre": "Zapallo", "cantidad": "3/4 taza, 135 g" },
+      { "nombre": "Cebolla", "cantidad": "1 unidad mediana, 130 g" },
+      { "nombre": "Choclo Desgranado", "cantidad": "1 taza y media, 250 g" },
+      { "nombre": "Queso Fresco", "cantidad": "2 rebanadas, 60 g" },
+      { "nombre": "Aceite", "cantidad": "1 cucharada, 10 ml" }
+    ],
+    "instrucciones": [
+      "Ralla el choclo y el zapallo. Pica la cebolla y saltéala en una olla con el aceite.",
+      "Agrega el zapallo rallado y cocina hasta que se ablande.",
+      "Incorpora el choclo y cocina a fuego bajo por 15-20 minutos, revolviendo constantemente.",
+      "Al final, añade el queso cortado en cubos y mezcla hasta que se derrita. Sirve caliente."
+    ],
+    "infoNutricional": "Alto en carbohidratos, moderado en proteína y grasas. Ideal como plato reconfortante.",
+    "tiempoPreparacion": 35,
+    "imagenUrl": "https://storage.googleapis.com/fitia_public_images/recipes%2FAR-R-V-00000027_f9xop8v7h4nkjuf93k7gvv5m_large.jpeg",
+    "dificultad": "medio",
+    "tipoComida": "almuerzo"
+  },
+  {
+    "titulo": "Guiso de Charqui Tradicional",
+    "descripcion": "Plato típico preparado con carne seca, papas, verduras y condimentos.",
+    "calorias": 574,
+    "proteinas": 66.1,
+    "carbohidratos": 56.2,
+    "grasas": 10.2,
+    "ingredientes": [
+      { "nombre": "Zanahoria", "cantidad": "1/2 unidad mediana, 45 g" },
+      { "nombre": "Cebolla", "cantidad": "1/2 unidad mediana, 70 g" },
+      { "nombre": "Papa", "cantidad": "1 unidad, 160 g" },
+      { "nombre": "Tomate", "cantidad": "1 unidad mediana, 100 g" },
+      { "nombre": "Charqui (Carne Seca)", "cantidad": "150 g" },
+      { "nombre": "Aceite", "cantidad": "1 cucharada, 10 ml" }
+    ],
+    "instrucciones": [
+      "Rehidrata el charqui en agua caliente si está muy seco. Luego pícalo en trozos pequeños.",
+      "Sofríe la cebolla, zanahoria y tomate picados en aceite caliente. Agrega el charqui y saltea unos minutos.",
+      "Incorpora la papa en cubos y cubre con agua. Cocina a fuego medio durante 25 minutos o hasta que esté todo tierno.",
+      "Sirve caliente, con un poco de perejil fresco si deseas."
+    ],
+    "infoNutricional": "Plato alto en proteína con moderado aporte de grasas y energía.",
+    "tiempoPreparacion": 40,
+    "imagenUrl": "https://storage.googleapis.com/fitia_public_images/recipes%2FAR-R-V-00000028_af1xf11mzzpcqg5pk7n7ey2s_large.jpeg",
+    "dificultad": "medio",
+    "tipoComida": "almuerzo"
+  },
+  {
+    "titulo": "Chanfainita con Mote y Menudencias",
+    "descripcion": "Receta tradicional con menudencias, cebolla y morrón, acompañada de mote.",
+    "calorias": 488,
+    "proteinas": 29.4,
+    "carbohidratos": 21.8,
+    "grasas": 29.6,
+    "ingredientes": [
+      { "nombre": "Cebolla", "cantidad": "1/2 unidad, 70 g" },
+      { "nombre": "Morrón Rojo", "cantidad": "1/2 unidad, 50 g" },
+      { "nombre": "Menudencias de Res", "cantidad": "180 g" },
+      { "nombre": "Aceite", "cantidad": "1 cucharada, 10 ml" },
+      { "nombre": "Papas Cocidas", "cantidad": "1 unidad mediana, 160 g" },
+      { "nombre": "Mote Cocido", "cantidad": "1/2 taza, 90 g" }
+    ],
+    "instrucciones": [
+      "Corta las menudencias en cubos pequeños. Sofríe la cebolla y el morrón con aceite hasta que estén blandos.",
+      "Agrega las menudencias y cocina por 10 minutos.",
+      "Incorpora las papas en cubos y el mote cocido. Cocina todo junto por 10 minutos más.",
+      "Condimenta con sal, pimienta y sirve caliente."
+    ],
+    "infoNutricional": "Receta rica en proteínas y grasas, con aporte de carbohidratos complejos.",
+    "tiempoPreparacion": 30,
+    "imagenUrl": "https://storage.googleapis.com/fitia_public_images/recipes%2FAR-R-V-00000029_ly1mv3uy3wq2a7u2bjfugpn3_large.jpeg",
+    "dificultad": "medio",
+    "tipoComida": "almuerzo"
+  },
+  {
+    "titulo": "Picante de Pollo con Perejil",
+    "descripcion": "Receta de pollo salteado con cebolla, tomate, ají y perejil fresco. Liviano y picante.",
+    "calorias": 285,
+    "proteinas": 36.1,
+    "carbohidratos": 8.6,
+    "grasas": 11.2,
+    "ingredientes": [
+      { "nombre": "Cebolla", "cantidad": "1/4 unidad, 40 g" },
+      { "nombre": "Tomate", "cantidad": "1 unidad, 100 g" },
+      { "nombre": "Ají Molido", "cantidad": "1/2 cucharadita, 1.5 g" },
+      { "nombre": "Perejil", "cantidad": "2 cucharadas, 6 g" },
+      { "nombre": "Pechuga de Pollo", "cantidad": "1 porción grande, 165 g" },
+      { "nombre": "Aceite", "cantidad": "1 cucharada, 10 ml" }
+    ],
+    "instrucciones": [
+      "Corta el pollo en tiras. Pica la cebolla y el tomate en cubos pequeños.",
+      "En una sartén con aceite, saltea la cebolla con el ají molido.",
+      "Agrega el pollo y cocina hasta que esté dorado. Incorpora el tomate y cocina 5 minutos más.",
+      "Apaga el fuego y mezcla con perejil fresco picado. Sirve caliente."
+    ],
+    "infoNutricional": "Alta en proteínas y baja en carbohidratos. Ideal para almuerzos livianos.",
+    "tiempoPreparacion": 25,
+    "imagenUrl": "https://storage.googleapis.com/fitia_public_images/recipes%2FAR-R-V-00000030_ojv8abpccvszkk0q9whmjklt_large.jpeg",
+    "dificultad": "fácil",
+    "tipoComida": "almuerzo"
+  },
+  {
+    "titulo": "Guiso Cremoso de Pollo y Maíz",
+    "descripcion": "Guiso espeso y reconfortante hecho con harina de maíz, pollo y vegetales.",
+    "calorias": 798,
+    "proteinas": 46.2,
+    "carbohidratos": 97.5,
+    "grasas": 22.3,
+    "ingredientes": [
+      { "nombre": "Cebolla", "cantidad": "1/4 unidad mediana, 35 g" },
+      { "nombre": "Zanahoria", "cantidad": "1/2 unidad pequeña, 40 g" },
+      { "nombre": "Pimiento Rojo", "cantidad": "1/2 unidad, 45 g" },
+      { "nombre": "Pechuga de Pollo", "cantidad": "1 porción grande, 160 g" },
+      { "nombre": "Harina de Maíz", "cantidad": "3/4 taza, 90 g" },
+      { "nombre": "Queso Cremoso", "cantidad": "2 rebanadas, 60 g" },
+      { "nombre": "Aceite", "cantidad": "1 cucharada, 10 ml" }
+    ],
+    "instrucciones": [
+      "Pica la cebolla, el pimiento y la zanahoria. Saltéalos en una olla con aceite hasta que estén blandos.",
+      "Agrega el pollo en cubos y dora ligeramente.",
+      "Vierte 2 tazas de agua caliente y cocina a fuego medio por 15 minutos.",
+      "Incorpora la harina de maíz en forma de lluvia, revolviendo constantemente para evitar grumos.",
+      "Agrega el queso al final y cocina 5 minutos más hasta que se funda. Sirve caliente."
+    ],
+    "infoNutricional": "Alto en proteínas y carbohidratos. Ideal para días fríos o como plato único.",
+    "tiempoPreparacion": 40,
+    "imagenUrl": "https://storage.googleapis.com/fitia_public_images/recipes%2FAR-R-V-00000031_cusks7cf7rpn1hyvdm1dpzli_large.jpeg",
+    "dificultad": "medio",
+    "tipoComida": "almuerzo"
+  },
+  {
+    "titulo": "Guiso Cremoso de Pollo y Harina de Maíz con Queso Blanco",
+    "descripcion": "Un plato típico y reconfortante, con pollo, vegetales, harina de maíz y un toque cremoso de queso. Ideal para un almuerzo completo.",
+    "calorias": 795,
+    "proteinas": 46.1,
+    "carbohidratos": 98.3,
+    "grasas": 22.2,
+    "ingredientes": [
+      { "nombre": "Cebolla", "cantidad": "1/4 unidad mediana, 38 g" },
+      { "nombre": "Pimiento Rojo", "cantidad": "1/4 unidad, 30 g" },
+      { "nombre": "Ajo", "cantidad": "1 diente pequeño, 2.5 g" },
+      { "nombre": "Pollo", "cantidad": "una porción mediana, 155 g" },
+      { "nombre": "Queso Blanco", "cantidad": "1 rebanada y media, 28 g" },
+      { "nombre": "Comino", "cantidad": "una pizca generosa, 1.2 g" },
+      { "nombre": "Orégano", "cantidad": "media cucharada colmada, 2.2 g" },
+      { "nombre": "Perejil", "cantidad": "1 cucharada colmada, 4.5 g" },
+      { "nombre": "Agua", "cantidad": "tres cuartos de vaso, 190 ml" },
+      { "nombre": "Aceite", "cantidad": "1 cucharada, 10 ml" },
+      { "nombre": "Harina de Maíz", "cantidad": "1 taza colmada, 122 g" },
+      { "nombre": "Cebolla de Verdeo", "cantidad": "1 cucharada colmada, 6 g" }
+    ],
+    "instrucciones": [
+      "En un bol, hidrata la harina de maíz con el agua y déjala reposar unos minutos.",
+      "Mientras tanto, pica finamente la cebolla, el pimiento, el ajo, la cebolla de verdeo y el perejil.",
+      "En una olla grande, calienta el aceite a fuego medio y sofríe los vegetales con una pizca de sal durante unos 5 minutos, hasta que estén fragantes y suaves.",
+      "Agrega el pollo cortado en cubos pequeños y cocínalo hasta que esté levemente dorado.",
+      "Suma el comino y el orégano, mezcla bien, tapa la olla y deja cocinar a fuego bajo por 15 minutos.",
+      "Incorpora la harina de maíz hidratada. Si es necesario, añade un poco más de agua o caldo. Remueve constantemente para evitar que se pegue al fondo.",
+      "Cuando la mezcla esté bien espesa y cocida, agrega el queso blanco rallado y mezcla hasta que se derrita completamente.",
+      "Sirve caliente y decora con cebolla de verdeo y perejil fresco por encima."
+    ],
+    "infoNutricional": "Plato completo y reconfortante, con buen aporte de proteínas y energía para el mediodía.",
+    "tiempoPreparacion": 40,
+    "imagenUrl": "https://storage.googleapis.com/fitia_public_images/recipes%2FAR-R-V-00000062_g574l9tylhnfowowk98sxhg2_large.jpg",
+    "dificultad": "medio",
+    "tipoComida": "almuerzo"
+  },
+  {
+    "titulo": "Pan Casero Napolitano Relleno de Queso y Tomate",
+    "descripcion": "Un pan tierno y dorado con relleno de queso derretido, tomate fresco y ajo. Perfecto como almuerzo liviano o snack salado.",
+    "calorias": 438,
+    "proteinas": 13.5,
+    "carbohidratos": 55.4,
+    "grasas": 17.2,
+    "ingredientes": [
+      { "nombre": "Ajo", "cantidad": "medio diente pequeño, 2 g" },
+      { "nombre": "Queso Blanco", "cantidad": "1 rebanada fina, 24 g" },
+      { "nombre": "Azúcar Blanco", "cantidad": "1 cucharadita y media, 5 g" },
+      { "nombre": "Mantequilla", "cantidad": "1 cucharadita colmada, 8 g" },
+      { "nombre": "Aceite", "cantidad": "media cucharada, 5 ml" },
+      { "nombre": "Harina", "cantidad": "media taza colmada, 62 g" },
+      { "nombre": "Levadura", "cantidad": "1 cucharadita, 4 g" },
+      { "nombre": "Tomate", "cantidad": "3 rodajas medianas, 30 g" }
+    ],
+    "instrucciones": [
+      "Disuelve la levadura y el azúcar en 2 cucharadas de agua tibia. Deja reposar 10 minutos hasta que espume.",
+      "En un bol, mezcla la harina con una pizca de sal. Agrega la mantequilla a temperatura ambiente y el aceite. Mezcla con las manos.",
+      "Añade el líquido con levadura y forma una masa suave y ligeramente pegajosa. Si hace falta, ajusta con una cucharada extra de agua o harina.",
+      "Tapa y deja reposar la masa en un lugar tibio hasta que duplique su tamaño (aproximadamente 45 minutos).",
+      "Mientras tanto, pica el ajo muy fino y corta el tomate en cubos pequeños. Trocea también el queso.",
+      "Toma la masa levada, haz una bolita, aplánala y coloca el relleno en el centro. Cierra bien, dando forma de pan redondo.",
+      "Deja reposar otros 25-30 minutos para que leve por segunda vez.",
+      "Hornea en horno precalentado a 220 °C durante 20 minutos, hasta que esté dorado por fuera y bien cocido por dentro.",
+      "Sirve caliente o tibio. Ideal para acompañar con ensalada o sopa."
+    ],
+    "infoNutricional": "Buena fuente de energía, con aporte de proteína y grasas saludables. Ideal para un almuerzo rápido.",
+    "tiempoPreparacion": 90,
+    "imagenUrl": "https://storage.googleapis.com/fitia_public_images/recipes%2FAR-R-V-00000068_spwxr0e3zlyupnzq83o74pgt_large.jpg",
+    "dificultad": "medio",
+    "tipoComida": "almuerzo"
+  },
+  {
+    "titulo": "Pan Casero Estilo Fugazzeta con Cebolla y Queso",
+    "descripcion": "Pan tierno y sabroso relleno con queso fundido, cebolla cocida y orégano. Ideal para un almuerzo compartido o como entrada.",
+    "calorias": 440,
+    "proteinas": 13.3,
+    "carbohidratos": 56.8,
+    "grasas": 17.4,
+    "ingredientes": [
+      { "nombre": "Cebolla", "cantidad": "5 aros delgados, 26 g" },
+      { "nombre": "Queso Blanco", "cantidad": "1 rebanada delgada, 25 g" },
+      { "nombre": "Azúcar Blanco", "cantidad": "1 cucharadita rasa, 4.5 g" },
+      { "nombre": "Orégano", "cantidad": "1 cucharadita, 1 g" },
+      { "nombre": "Mantequilla", "cantidad": "1 cucharadita colmada, 8 g" },
+      { "nombre": "Aceite", "cantidad": "media cucharada, 5 ml" },
+      { "nombre": "Harina", "cantidad": "poco más de media taza colmada, 62 g" },
+      { "nombre": "Levadura", "cantidad": "1 cucharadita, 4 g" }
+    ],
+    "instrucciones": [
+      "Disuelve la levadura y el azúcar en 2 cucharadas de agua tibia y deja reposar hasta que forme espuma.",
+      "En un bol grande, mezcla la harina con una pizca de sal, la mantequilla y el aceite. Une con las manos.",
+      "Agrega la levadura activada y mezcla hasta obtener una masa suave. Ajusta con agua o harina si es necesario.",
+      "Cubre con un paño y deja reposar en un lugar cálido hasta que duplique su volumen (unos 45 minutos).",
+      "Mientras tanto, corta la cebolla en tiras y cocínala en una sartén con un chorrito de agua hasta que quede tierna.",
+      "Desgasifica la masa, forma una bola y haz un hueco en el centro. Rellena con la cebolla cocida, el queso en cubitos y el orégano.",
+      "Cierra bien y deja levar tapado otros 30 minutos.",
+      "Hornea a 220 °C durante 20 minutos o hasta que esté bien dorado por fuera.",
+      "Sirve caliente o tibio. Ideal acompañado de una ensalada verde o como plato principal."
+    ],
+    "infoNutricional": "Buen aporte de carbohidratos y grasas, con una capa de sabor gracias al queso y la cebolla. Excelente opción para compartir.",
+    "tiempoPreparacion": 90,
+    "imagenUrl": "https://storage.googleapis.com/fitia_public_images/recipes%2FAR-R-V-00000069_uhrxkdktfleu2qejd78uiahi_large.jpg",
+    "dificultad": "medio",
+    "tipoComida": "almuerzo"
+  },
+  {
+    "titulo": "Sándwich Calentito de Molleja Dorada al Limón",
+    "descripcion": "Un sándwich crocante con mollejas doradas y jugosas, aromatizadas con limón. Perfecto para un almuerzo diferente y lleno de sabor.",
+    "calorias": 262,
+    "proteinas": 19.2,
+    "carbohidratos": 28.1,
+    "grasas": 8.5,
+    "ingredientes": [
+      { "nombre": "Pan", "cantidad": "1 unidad tipo francés o casero, 60 g" },
+      { "nombre": "Mollejas", "cantidad": "media taza cocida, 90 g" },
+      { "nombre": "Aceite", "cantidad": "1 cucharada y media, 5 ml" },
+      { "nombre": "Zumo de Limón", "cantidad": "1 cucharada y media, 15 ml" }
+    ],
+    "instrucciones": [
+      "Lava las mollejas bajo el grifo y hiérvelas durante 10 minutos. Luego escúrrelas y corta en trozos medianos.",
+      "En una sartén con aceite caliente, saltea las mollejas a fuego medio-alto hasta que estén doradas y crujientes.",
+      "Agrega el zumo de limón sobre las mollejas y cocina 2 minutos más para que absorban todo el sabor.",
+      "Tuesta el pan por ambos lados en una sartén o tostadora. Puedes untarlo con mayonesa, mostaza o chimichurri si deseas.",
+      "Rellena el pan con las mollejas calientes. Si quieres, añade cebolla salteada o unas hojas de lechuga fresca para complementar."
+    ],
+    "infoNutricional": "Fuente alta de proteínas con un perfil bajo en grasa. Ideal como almuerzo rápido y sabroso.",
+    "tiempoPreparacion": 40,
+    "imagenUrl": "/svg/logo/gr.svg",
+    "dificultad": "medio",
+    "tipoComida": "almuerzo"
+  },
+  {
+    "titulo": "Sopa de Maní con Carne y Verduras",
+    "descripcion": "Una sopa espesa y nutritiva con carne, maní y vegetales, con un sabor reconfortante y especiado. Ideal para almuerzos abundantes.",
+    "calorias": 775,
+    "proteinas": 46.8,
+    "carbohidratos": 69.4,
+    "grasas": 35.7,
+    "ingredientes": [
+      { "nombre": "Zanahoria", "cantidad": "1 zanahoria pequeña, 35 g" },
+      { "nombre": "Cebolla", "cantidad": "1/4 unidad pequeña, 35 g" },
+      { "nombre": "Pimiento Verde", "cantidad": "1/4 unidad mediana, 28 g" },
+      { "nombre": "Ajo", "cantidad": "1 diente pequeño, 2 g" },
+      { "nombre": "Papa", "cantidad": "1 unidad pequeña y un cuarto, 95 g" },
+      { "nombre": "Arvejas", "cantidad": "1/4 taza y 1 cucharada, 55 g" },
+      { "nombre": "Maní", "cantidad": "2 cucharadas y media, 32 g" },
+      { "nombre": "Carne", "cantidad": "1 porción mediana, 160 g" },
+      { "nombre": "Pasta", "cantidad": "1/4 taza, 40 g" },
+      { "nombre": "Comino", "cantidad": "1 pizca, 1 g" },
+      { "nombre": "Cúrcuma", "cantidad": "1/2 cucharadita, 1 g" },
+      { "nombre": "Orégano", "cantidad": "1/2 cucharada, 2 g" },
+      { "nombre": "Perejil", "cantidad": "1 cucharada, 4 g" },
+      { "nombre": "Aceite", "cantidad": "1 cucharada, 10 ml" },
+      { "nombre": "Tomate", "cantidad": "1/4 unidad mediana, 33 g" }
+    ],
+    "instrucciones": [
+      "Licúa el maní con un chorrito de agua hasta obtener una crema. Reserva.",
+      "Cocina la carne en una olla con agua y sal hasta que esté tierna. Conserva el caldo.",
+      "En otra olla, sofríe con la mitad del aceite la cebolla y el ajo picados por 5 minutos.",
+      "Agrega el tomate, zanahoria, pimiento, papa, arvejas, orégano, cúrcuma, comino y la crema de maní.",
+      "Incorpora el caldo y cocina a fuego medio durante 20 minutos hasta que los vegetales estén tiernos.",
+      "Fríe tiras finas de papa con el aceite restante hasta que estén doradas.",
+      "Sirve caliente con papas crocantes por encima y perejil fresco para decorar."
+    ],
+    "infoNutricional": "Plato alto en proteínas y grasas buenas. El maní aporta sabor y textura. Ideal para días fríos.",
+    "tiempoPreparacion": 35,
+    "imagenUrl": "https://storage.googleapis.com/fitia_public_images/recipes%2FBO-R-V-00000001_zlu939w7jaayz74xckorkown_large.jpeg",
+    "dificultad": "medio",
+    "tipoComida": "almuerzo"
+  },
+  {
+    "titulo": "Ensalada Fría de Atún, Papa y Huevo",
+    "descripcion": "Ensalada cremosa con atún, huevo y vegetales frescos. Ideal como almuerzo liviano o acompañamiento en días calurosos.",
+    "calorias": 453,
+    "proteinas": 23.2,
+    "carbohidratos": 24.4,
+    "grasas": 29.9,
+    "ingredientes": [
+      { "nombre": "Aceitunas", "cantidad": "5 unidades medianas, 25 g" },
+      { "nombre": "Cebolla", "cantidad": "5 aros finos, 25 g" },
+      { "nombre": "Papa", "cantidad": "1 unidad pequeña, 85 g" },
+      { "nombre": "Atún en Agua", "cantidad": "2/3 de lata, 65 g" },
+      { "nombre": "Aceite de Oliva", "cantidad": "1 cucharadita y media, 7 ml" },
+      { "nombre": "Mayonesa", "cantidad": "1 cucharada y media, 22 g" },
+      { "nombre": "Mostaza", "cantidad": "1/2 cucharada, 7 g" },
+      { "nombre": "Zumo de Limón", "cantidad": "1 cucharada, 15 ml" },
+      { "nombre": "Huevo", "cantidad": "1 unidad, 55 g" },
+      { "nombre": "Tomate", "cantidad": "1/2 unidad mediana, 65 g" }
+    ],
+    "instrucciones": [
+      "Hierve el huevo durante 8 minutos. Enfría y pela.",
+      "Corta la papa en cubos y cocina en agua con sal por 10 minutos. Deja enfriar.",
+      "Pica el tomate, las aceitunas, la cebolla y el huevo.",
+      "Opcional: remoja la cebolla en agua con sal para suavizar su sabor.",
+      "En un bol, mezcla el atún escurrido, las papas, vegetales, mayonesa, mostaza, jugo de limón y aceite.",
+      "Revuelve suavemente hasta integrar todo. Sirve frío acompañado de pan o galletas saladas."
+    ],
+    "infoNutricional": "Buena fuente de proteína, ideal como plato principal en verano. Puedes reducir calorías usando mayonesa light.",
+    "tiempoPreparacion": 20,
+    "imagenUrl": "https://storage.googleapis.com/fitia_public_images/recipes%2FAR-R-V-00000084_b53rposiry0crm88k4enoq4u_large.jpg",
+    "dificultad": "fácil",
+    "tipoComida": "almuerzo"
+  },
+  {
+    "titulo": "Mondongo Boliviano con Papa y Mote",
+    "descripcion": "Guiso tradicional de Chuquisaca con mondongo, cerdo, ají colorado y acompañamientos típicos. Ideal para un almuerzo abundante y lleno de sabor.",
+    "calorias": 658,
+    "proteinas": 77.9,
+    "carbohidratos": 23.9,
+    "grasas": 33.5,
+    "ingredientes": [
+      { "nombre": "Cebolla", "cantidad": "media unidad mediana, 75 g" },
+      { "nombre": "Ajo", "cantidad": "1 diente, 2 g" },
+      { "nombre": "Papa", "cantidad": "1 unidad mediana, 180 g" },
+      { "nombre": "Costillas de Cerdo", "cantidad": "100 g" },
+      { "nombre": "Maíz Amarillo (mote)", "cantidad": "media unidad cocida, 125 g" },
+      { "nombre": "Ají Colorado Molido", "cantidad": "1 cucharada y media, 21 g" },
+      { "nombre": "Comino", "cantidad": "1 pizca, 1 g" },
+      { "nombre": "Cúrcuma", "cantidad": "1/4 cucharadita, 1 g" },
+      { "nombre": "Aceite", "cantidad": "media cucharada, 5 ml" },
+      { "nombre": "Mondongo", "cantidad": "1 taza cocida, 140 g" }
+    ],
+    "instrucciones": [
+      "Asegúrate de tener el mondongo ya limpio y cocido antes de comenzar.",
+      "Pica la cebolla, el ajo y corta el cerdo en trozos. Pela la papa y corta el choclo en rodajas.",
+      "En una olla, calienta el aceite y sofríe la cebolla por 7 minutos. Agrega ajo, comino, sal y pimienta.",
+      "Incorpora el ají colorado y media taza de agua o caldo del mondongo. Cocina 15 minutos.",
+      "Agrega el cerdo y el mondongo. Cocina 20 minutos más, añadiendo líquido si es necesario.",
+      "Aparte, hierve la papa en agua con sal por 20 minutos y el choclo con cúrcuma por 15 minutos. Escurre ambos.",
+      "Sirve caliente con la salsa, papa cocida y mote como guarnición. Puedes decorar con perejil picado si deseas."
+    ],
+    "infoNutricional": "Guiso alto en proteínas y sabor. Puedes usar carne magra o reducir el aceite para aligerar la receta.",
+    "tiempoPreparacion": 60,
+    "imagenUrl": "/svg/logo/gr.svg",
+    "dificultad": "medio",
+    "tipoComida": "almuerzo"
+  },
+  {
+    "titulo": "Majadito Crujiente de Arroz con Charqui y Plátano",
+    "descripcion": "Receta boliviana tradicional con arroz dorado, carne deshidratada, plátano frito y huevo. Una comida completa y llena de sabor.",
+    "calorias": 998,
+    "proteinas": 72.7,
+    "carbohidratos": 131.8,
+    "grasas": 19.2,
+    "ingredientes": [
+      { "nombre": "Cebolla", "cantidad": "1/2 unidad mediana, 75 g" },
+      { "nombre": "Ajo", "cantidad": "1 diente pequeño, 3 g" },
+      { "nombre": "Ají Colorado Molido", "cantidad": "1/2 cucharada colmada, 6 g" },
+      { "nombre": "Arroz", "cantidad": "1/2 taza cruda, 95 g" },
+      { "nombre": "Aceite", "cantidad": "1 cucharada y media, 15 ml" },
+      { "nombre": "Charqui", "cantidad": "1/2 taza desmenuzada, 95 g" },
+      { "nombre": "Pimiento", "cantidad": "1/4 unidad mediana, 30 g" },
+      { "nombre": "Plátano Macho", "cantidad": "1 unidad mediana, 160 g" },
+      { "nombre": "Huevo", "cantidad": "1 unidad mediana, 55 g" },
+      { "nombre": "Tomate", "cantidad": "1/4 unidad mediana, 33 g" }
+    ],
+    "instrucciones": [
+      "Remoja el charqui en 1 taza y media de agua caliente por 20 minutos.",
+      "Lava el arroz varias veces y escúrrelo bien. Saltéalo en una olla con 1 cucharada de aceite hasta dorarlo ligeramente.",
+      "Agrega 1 taza del agua del remojo del charqui. Cocina a fuego bajo por 20 minutos hasta que se evapore.",
+      "En una sartén, sofríe la cebolla con 1/2 cucharada de aceite por 10 minutos. Agrega el ajo picado, el pimiento, el charqui, el ají colorado, sal y pimienta.",
+      "Añade el tomate picado y 1/4 de taza del agua del charqui. Cocina 10 minutos más.",
+      "Incorpora el sofrito al arroz cocido, tapa y cocina 5 minutos a fuego bajo. Revuelve suavemente al final.",
+      "Corta el plátano en dos mitades a lo largo y fríelo en una sartén hasta que esté dorado.",
+      "Fríe el huevo a tu gusto.",
+      "Sirve el majadito caliente con el plátano y el huevo encima."
+    ],
+    "infoNutricional": "Receta rica en proteínas y energía. El plátano aporta fibra y un toque dulce natural. Puedes usar arroz integral o menos aceite si prefieres aligerarlo.",
+    "tiempoPreparacion": 45,
+    "imagenUrl": "https://storage.googleapis.com/fitia_public_images/recipes%2FBO-R-V-00000005_zo1y1dmj8btrjdez8w02skiu_large.jpeg",
+    "dificultad": "medio",
+    "tipoComida": "almuerzo"
+  },
+  {
+    "titulo": "Sopa de Arvejas con Tocino y Verduras",
+    "descripcion": "Sopa espesa y reconfortante, con arvejas partidas, verduras salteadas y un toque ahumado de tocino. Perfecta para un almuerzo cálido.",
+    "calorias": 426,
+    "proteinas": 19.4,
+    "carbohidratos": 40.1,
+    "grasas": 21.7,
+    "ingredientes": [
+      { "nombre": "Zanahoria", "cantidad": "1/2 unidad mediana, 30 g" },
+      { "nombre": "Apio", "cantidad": "1/2 tallo, 20 g" },
+      { "nombre": "Cebolla", "cantidad": "1/4 unidad, 38 g" },
+      { "nombre": "Ajo", "cantidad": "1 diente pequeño, 3 g" },
+      { "nombre": "Tocino", "cantidad": "1 tira y media, 45 g" },
+      { "nombre": "Aceite de Oliva", "cantidad": "1 cucharadita, 5 ml" },
+      { "nombre": "Caldo de Verduras", "cantidad": "1 taza, 240 ml" },
+      { "nombre": "Arvejas Partidas", "cantidad": "1/4 taza, 50 g" }
+    ],
+    "instrucciones": [
+      "Enjuaga las arvejas partidas bajo el grifo y escúrrelas.",
+      "En una olla, calienta el aceite de oliva y saltea la cebolla, el ajo, el apio y la zanahoria picados finamente por unos 5 minutos.",
+      "Agrega el tocino en cubos pequeños y cocínalo hasta que se dore ligeramente.",
+      "Incorpora las arvejas y el caldo caliente. Lleva a hervor, luego reduce el fuego, tapa y cocina por 35 a 40 minutos hasta que estén tiernas.",
+      "Condimenta con sal y pimienta. Puedes triturar ligeramente si prefieres una textura más suave.",
+      "Sirve caliente con pan tostado, crutones o perejil picado por encima."
+    ],
+    "infoNutricional": "Fuente de proteína vegetal con un toque ahumado. Aporta fibra y grasas saludables. Ideal para días fríos.",
+    "tiempoPreparacion": 45,
+    "imagenUrl": "https://storage.googleapis.com/fitia_public_images/recipes%2FCA-R-V-00000002_vbscf9avuu0rn3bnjiekjhnz_large.jpg",
+    "dificultad": "fácil",
+    "tipoComida": "almuerzo"
+  },
+  {
+    "titulo": "Pastel de Choclo con Relleno Mixto de Carne y Pollo",
+    "descripcion": "Versión casera del clásico pastel de choclo con una capa suave de puré de maíz y relleno jugoso de carne, pollo, pasas y huevo. Ideal para un almuerzo sabroso y reconfortante.",
+    "calorias": 225,
+    "proteinas": 16.9,
+    "carbohidratos": 23.0,
+    "grasas": 9.2,
+    "ingredientes": [
+      { "nombre": "Aceitunas", "cantidad": "6 unidades pequeñas, 30 g" },
+      { "nombre": "Cebolla", "cantidad": "1 unidad mediana, 140 g" },
+      { "nombre": "Pollo cocido", "cantidad": "1 taza y 1/4 desmenuzado, 110 g" },
+      { "nombre": "Leche", "cantidad": "1 taza y 1/4, 75 ml" },
+      { "nombre": "Choclo", "cantidad": "4 unidades medianas, 980 g" },
+      { "nombre": "Azúcar Blanco", "cantidad": "1 cucharada y media, 18 g" },
+      { "nombre": "Mantequilla", "cantidad": "1 cucharada colmada, 35 g" },
+      { "nombre": "Pasas", "cantidad": "1 taza pequeña, 45 g" },
+      { "nombre": "Aceite", "cantidad": "1 cucharada, 9 ml" },
+      { "nombre": "Carne Molida", "cantidad": "1 taza y media, 480 g" },
+      { "nombre": "Huevos sancochados", "cantidad": "5 unidades medianas, 275 g" }
+    ],
+    "instrucciones": [
+      "Licúa los granos de choclo con la leche y los huevos crudos hasta obtener una mezcla espesa. Para una textura más fina, puedes colar la mitad y volver a unir.",
+      "Derrite la mantequilla y mézclala con el puré de choclo. Reserva.",
+      "Precalienta el horno a 200 °C. Engrasa una fuente y vierte la mitad del puré. Hornea 10 minutos hasta que tome firmeza.",
+      "Mientras tanto, saltea la cebolla picada en el aceite hasta dorarla. Agrega la carne molida, el pollo desmenuzado, sal y pimienta al gusto. Cocina hasta que esté jugoso.",
+      "Retira la base del horno, agrega el relleno. Encima, distribuye los huevos sancochados picados, las pasas y las aceitunas.",
+      "Cubre con el resto del puré de choclo y espolvorea el azúcar sobre la superficie.",
+      "Hornea por 35 minutos más, o hasta que esté dorado y firme. Deja reposar 5 minutos antes de servir."
+    ],
+    "infoNutricional": "Plato balanceado y rico en proteínas, con un toque dulce tradicional. Ideal para almuerzos familiares.",
+    "tiempoPreparacion": 60,
+    "imagenUrl": "/svg/logo/gr.svg",
+    "dificultad": "medio",
+    "tipoComida": "almuerzo"
+  },
+  {
+    "titulo": "Ajiaco Casero Chileno con Huevo Pochado",
+    "descripcion": "Plato tradicional chileno con carne desmenuzada, papas y vegetales en caldo especiado. Se sirve caliente y coronado con un huevo pochado.",
+    "calorias": 622,
+    "proteinas": 44.2,
+    "carbohidratos": 52.3,
+    "grasas": 25.8,
+    "ingredientes": [
+      { "nombre": "Zanahoria", "cantidad": "1 unidad pequeña, 35 g" },
+      { "nombre": "Cebolla", "cantidad": "2/3 unidad mediana, 100 g" },
+      { "nombre": "Pimiento Rojo", "cantidad": "1/4 unidad mediana, 30 g" },
+      { "nombre": "Ajo", "cantidad": "1 cucharadita y media, 4 g" },
+      { "nombre": "Papa", "cantidad": "1 unidad mediana, 180 g" },
+      { "nombre": "Carne cocida", "cantidad": "100 g, desmenuzada" },
+      { "nombre": "Aceite de Oliva", "cantidad": "1 cucharada y media, 7 ml" },
+      { "nombre": "Comino", "cantidad": "1 pizca generosa, 1 g" },
+      { "nombre": "Orégano", "cantidad": "1 cucharada colmada, 2 g" },
+      { "nombre": "Hojas de Laurel", "cantidad": "1 hoja, 1 g" },
+      { "nombre": "Merkén", "cantidad": "1 cucharadita y media, 4 g" },
+      { "nombre": "Ají de Color", "cantidad": "1 cucharadita, 1.5 g" },
+      { "nombre": "Caldo de Carne", "cantidad": "2 tazas y media, 500 ml" },
+      { "nombre": "Cilantro fresco", "cantidad": "1 cucharada y media picada, 4 g" },
+      { "nombre": "Huevo", "cantidad": "1 unidad, 55 g" }
+    ],
+    "instrucciones": [
+      "Desmenuza la carne cocida y resérvala.",
+      "En una olla grande, calienta el aceite y sofríe la cebolla y el ajo durante 3 minutos. Luego agrega el pimiento y la zanahoria.",
+      "Incorpora el comino, ají de color, orégano, laurel y merkén. Cocina por 5 minutos más.",
+      "Agrega las papas cortadas en cubos y saltéalas unos minutos para que tomen color.",
+      "Vierte el caldo caliente, añade la carne desmenuzada y cocina a fuego bajo durante 20 minutos, hasta que las papas estén tiernas.",
+      "Para el huevo pochado, hierve agua, baja el fuego y añade el huevo sin cáscara con cuidado. Cocina por 3 minutos y retíralo.",
+      "Sirve el ajiaco en platos hondos con el huevo encima y espolvorea con cilantro y un toque extra de merkén si lo deseas."
+    ],
+    "infoNutricional": "Ideal como plato único. Aporta proteínas, vegetales y un sabor especiado reconfortante. El huevo pochado le da un toque extra de cremosidad.",
+    "tiempoPreparacion": 45,
+    "imagenUrl": "/svg/logo/gr.svg",
+    "dificultad": "medio",
+    "tipoComida": "almuerzo"
+  },
+  {
+    "titulo": "Cazuela Casera de Osobuco con Verduras",
+    "descripcion": "Una cazuela reconfortante con osobuco tierno, verduras frescas y un caldo lleno de sabor. Ideal para un almuerzo completo y nutritivo.",
+    "calorias": 450,
+    "proteinas": 28.1,
+    "carbohidratos": 64.8,
+    "grasas": 11.0,
+    "ingredientes": [
+      { "nombre": "Zapallo", "cantidad": "1 taza chica bien picado (aproximadamente 85 g)" },
+      { "nombre": "Zanahoria", "cantidad": "1/2 zanahoria mediana (unos 45 g)" },
+      { "nombre": "Cebolla", "cantidad": "1 cebolla pequeña (55 g aprox.)" },
+      { "nombre": "Ajo", "cantidad": "1 cucharadita colmada (4 g)" },
+      { "nombre": "Papa", "cantidad": "1 papa mediana (alrededor de 170 g)" },
+      { "nombre": "Choclo", "cantidad": "1/3 unidad (aproximadamente 60 g)" },
+      { "nombre": "Orégano", "cantidad": "1 cucharadita y media (1.5 g)" },
+      { "nombre": "Perejil", "cantidad": "1 cucharada colmada (3 g)" },
+      { "nombre": "Aceite", "cantidad": "1 cucharada (6 ml)" },
+      { "nombre": "Osobuco", "cantidad": "1 trozo mediano (110 g)" },
+      { "nombre": "Ají de Color", "cantidad": "1 pizca generosa (1.2 g)" },
+      { "nombre": "Caldo de Carne", "cantidad": "algo más de 1/2 taza (130 ml aprox.)" },
+      { "nombre": "Cilantro", "cantidad": "1 cucharada rasa (2 g)" }
+    ],
+    "instrucciones": [
+      "En una olla grande, calienta el aceite y sofríe la cebolla picada junto con el ajo y el orégano hasta que estén fragantes.",
+      "Agrega el osobuco y séllalo por todos los lados hasta que esté dorado. Añade el ají de color y mezcla bien.",
+      "Incorpora el caldo caliente y revuelve. Agrega el choclo en trozos, la zanahoria en rodajas y, si deseas, un poco más de cebolla para intensificar el sabor.",
+      "Tapa y cocina por 20 minutos a fuego medio.",
+      "Agrega las papas cortadas en cubos y cocina 10 minutos más. Luego incorpora el zapallo y cocina otros 15 minutos, hasta que todas las verduras estén bien tiernas.",
+      "Sirve la cazuela caliente con un poco de perejil y cilantro fresco por encima. Puedes acompañar con arroz blanco o una rebanada de pan si lo deseas."
+    ],
+    "infoNutricional": "Plato completo con proteína animal, vegetales ricos en fibra y carbohidratos saludables. Ideal para almuerzos abundantes.",
+    "tiempoPreparacion": 60,
+    "imagenUrl": "/svg/logo/gr.svg",
+    "dificultad": "medio",
+    "tipoComida": "almuerzo"
+  }
+]

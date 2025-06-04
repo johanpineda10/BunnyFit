@@ -1,0 +1,28 @@
+[
+  {
+  "titulo": "Batido Frío y Cremoso de Dulce de Leche",
+  "descripcion": "Bebida dulce y espesa con helado y crema, perfecta como postre o merienda en días calurosos.",
+  "calorias": 698,
+  "proteinas": 15.7,
+  "carbohidratos": 88.9,
+  "grasas": 33.8,
+  "ingredientes": [
+    { "nombre": "Leche", "cantidad": "media taza y un chorrito, 130 ml" },
+    { "nombre": "Dulce de Leche", "cantidad": "3 cucharadas colmadas, 50 g" },
+    { "nombre": "Crema Chantilly", "cantidad": "2 cucharadas, 28 g" },
+    { "nombre": "Helado de Dulce de Leche", "cantidad": "3 bolas grandes, 180 g" }
+  ],
+  "instrucciones": [
+    "Agrega a la licuadora la leche, el dulce de leche y el helado.",
+    "Licúa hasta obtener una mezcla homogénea y cremosa.",
+    "Si el batido queda muy espeso, añade un chorrito extra de leche o agua.",
+    "Sirve en un vaso alto y decora con crema chantilly por encima.",
+    "Opcional: agrega un toque de canela o chips de chocolate para decorar."
+  ],
+  "infoNutricional": "Bebida energética ideal para ocasiones especiales. Puedes usar opciones reducidas en azúcar para una versión más liviana.",
+  "tiempoPreparacion": 10,
+  "imagenUrl": "https://storage.googleapis.com/fitia_public_images/recipes%2FAR-R-V-00000083_lli2kgeoxaubbq25jp230daa_large.jpg",
+  "dificultad": "fácil",
+  "tipoComida": "bebida"
+  }
+]

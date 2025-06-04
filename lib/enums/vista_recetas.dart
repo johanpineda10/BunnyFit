@@ -1,0 +1,4 @@
+enum VistaRecetas {
+  swipe,
+  scroll,
+} 

@@ -1,0 +1,192 @@
+[
+  {
+    "nombre": "Huevo",
+    "calorias": 155,
+    "proteinas": 13,
+    "carbohidratos": 1.1,
+    "grasas": 11.3,
+    "porcion_estandar": "100g",
+    "unidad_medida": "g",
+    "categoria": "proteina"
+  },
+  {
+    "nombre": "Arroz blanco",
+    "calorias": 130,
+    "proteinas": 2.7,
+    "carbohidratos": 28,
+    "grasas": 0.3,
+    "porcion_estandar": "100g",
+    "unidad_medida": "g",
+    "categoria": "cereales"
+  },
+  {
+    "nombre": "Leche entera",
+    "calorias": 61,
+    "proteinas": 3.2,
+    "carbohidratos": 4.8,
+    "grasas": 3.3,
+    "porcion_estandar": "100ml",
+    "unidad_medida": "ml",
+    "categoria": "lacteos"
+  },
+  {
+    "nombre": "Pechuga de pollo",
+    "calorias": 165,
+    "proteinas": 31,
+    "carbohidratos": 0,
+    "grasas": 3.6,
+    "porcion_estandar": "100g",
+    "unidad_medida": "g",
+    "categoria": "proteina"
+  },
+  {
+    "nombre": "Pan integral",
+    "calorias": 247,
+    "proteinas": 13,
+    "carbohidratos": 41,
+    "grasas": 3.4,
+    "porcion_estandar": "100g",
+    "unidad_medida": "g",
+    "categoria": "cereales"
+  },
+  {
+    "nombre": "Prueba frutas",
+    "calorias": 247,
+    "proteinas": 13,
+    "carbohidratos": 41,
+    "grasas": 3.4,
+    "porcion_estandar": "100g",
+    "unidad_medida": "g",
+    "categoria": "frutas"
+  },
+  {
+    "nombre": "Prueba verduras",
+    "calorias": 247,
+    "proteinas": 13,
+    "carbohidratos": 41,
+    "grasas": 3.4,
+    "porcion_estandar": "100g",
+    "unidad_medida": "g",
+    "categoria": "verduras"
+  },
+  {
+    "nombre": "Prueba proteínas 2",
+    "calorias": 247,
+    "proteinas": 13,
+    "carbohidratos": 41,
+    "grasas": 3.4,
+    "porcion_estandar": "100g",
+    "unidad_medida": "g",
+    "categoria": "proteinas"
+  },
+  {
+    "nombre": "Prueba carnes",
+    "calorias": 247,
+    "proteinas": 13,
+    "carbohidratos": 41,
+    "grasas": 3.4,
+    "porcion_estandar": "100g",
+    "unidad_medida": "g",
+    "categoria": "carnes"
+  },
+  {
+    "nombre": "Prueba pescados",
+    "calorias": 247,
+    "proteinas": 13,
+    "carbohidratos": 41,
+    "grasas": 3.4,
+    "porcion_estandar": "100g",
+    "unidad_medida": "g",
+    "categoria": "pescados"
+  },
+  {
+    "nombre": "Prueba huevos",
+    "calorias": 247,
+    "proteinas": 13,
+    "carbohidratos": 41,
+    "grasas": 3.4,
+    "porcion_estandar": "100g",
+    "unidad_medida": "g",
+    "categoria": "huevos"
+  },
+  {
+    "nombre": "Prueba legumbres",
+    "calorias": 247,
+    "proteinas": 13,
+    "carbohidratos": 41,
+    "grasas": 3.4,
+    "porcion_estandar": "100g",
+    "unidad_medida": "g",
+    "categoria": "legumbres"
+  },
+  {
+    "nombre": "Prueba aceites",
+    "calorias": 247,
+    "proteinas": 13,
+    "carbohidratos": 41,
+    "grasas": 3.4,
+    "porcion_estandar": "100g",
+    "unidad_medida": "g",
+    "categoria": "aceites"
+  },
+  {
+    "nombre": "Prueba bebidas",
+    "calorias": 247,
+    "proteinas": 13,
+    "carbohidratos": 41,
+    "grasas": 3.4,
+    "porcion_estandar": "100g",
+    "unidad_medida": "g",
+    "categoria": "bebidas"
+  },
+  {
+    "nombre": "Prueba snacks",
+    "calorias": 247,
+    "proteinas": 13,
+    "carbohidratos": 41,
+    "grasas": 3.4,
+    "porcion_estandar": "100g",
+    "unidad_medida": "g",
+    "categoria": "snacks"
+  },
+  {
+    "nombre": "Prueba postres",
+    "calorias": 247,
+    "proteinas": 13,
+    "carbohidratos": 41,
+    "grasas": 3.4,
+    "porcion_estandar": "100g",
+    "unidad_medida": "g",
+    "categoria": "postres"
+  },
+  {
+    "nombre": "Prueba salsas",
+    "calorias": 247,
+    "proteinas": 13,
+    "carbohidratos": 41,
+    "grasas": 3.4,
+    "porcion_estandar": "100g",
+    "unidad_medida": "g",
+    "categoria": "salsas"
+  },
+  {
+    "nombre": "Prueba condimentos",
+    "calorias": 247,
+    "proteinas": 13,
+    "carbohidratos": 41,
+    "grasas": 3.4,
+    "porcion_estandar": "100g",
+    "unidad_medida": "g",
+    "categoria": "condimentos"
+  },
+  {
+    "nombre": "Prueba panaderia",
+    "calorias": 247,
+    "proteinas": 13,
+    "carbohidratos": 41,
+    "grasas": 3.4,
+    "porcion_estandar": "100g",
+    "unidad_medida": "g",
+    "categoria": "panaderia"
+  }
+]

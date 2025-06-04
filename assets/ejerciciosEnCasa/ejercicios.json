@@ -1,0 +1,771 @@
+[
+  {
+    "titulo": "Ejercicios de Abdomen",
+    "descripcion": "Rutina completa para fortalecer y tonificar los músculos abdominales",
+    "icono": "home",
+    "ejercicios": [
+      {
+        "nombre": "Crunch Básico",
+        "descripcion": "Ejercicio fundamental para trabajar los abdominales superiores",
+        "calorias": 100,
+        "series": 3,
+        "repeticiones": 15,
+        "musculos": ["Recto Abdominal", "Oblicuos"],
+        "equipamiento": ["Ninguno"],
+        "instrucciones": [
+          "Acuéstate boca arriba con las rodillas flexionadas",
+          "Coloca las manos detrás de la cabeza",
+          "Eleva el torso hacia las rodillas",
+          "Baja controladamente a la posición inicial"
+        ],
+        "consejos": "Mantén el cuello relajado y no tires de la cabeza con las manos",
+        "dificultad": "fácil",
+        "tiempoDescanso": 45,
+        "icono": "home",
+        "imagenUrl": "https://www.shutterstock.com/image-vector/man-doing-crunches-abdominals-exercise-600nw-1842272014.jpg"
+      },
+      {
+        "nombre": "Plancha Lateral",
+        "descripcion": "Ejercicio isométrico para trabajar los oblicuos y mejorar la estabilidad",
+        "calorias": 80,
+        "series": 3,
+        "repeticiones": 1,
+        "duracion": 30,
+        "musculos": ["Oblicuos", "Transverso Abdominal"],
+        "equipamiento": ["Ninguno"],
+        "instrucciones": [
+          "Apoya el antebrazo en el suelo",
+          "Eleva la cadera formando una línea recta",
+          "Mantén el abdomen contraído",
+          "Aguanta la posición el tiempo indicado"
+        ],
+        "consejos": "Mantén la respiración constante y el cuerpo alineado",
+        "dificultad": "medio",
+        "tiempoDescanso": 45,
+        "icono": "home",
+        "imagenUrl": "https://www.shutterstock.com/image-vector/man-doing-side-plank-hip-260nw-2388958631.jpg"
+      },
+      {
+        "nombre": "Crunch Bicicleta",
+        "descripcion": "Ejercicio dinámico que trabaja todo el core y mejora la coordinación",
+        "calorias": 120,
+        "series": 3,
+        "repeticiones": 20,
+        "musculos": ["Recto Abdominal", "Oblicuos", "Transverso Abdominal"],
+        "equipamiento": ["Ninguno"],
+        "instrucciones": [
+          "Acuéstate boca arriba con las manos detrás de la cabeza",
+          "Eleva las rodillas a 90 grados",
+          "Alterna tocando el codo derecho con la rodilla izquierda y viceversa",
+          "Mantén el movimiento fluido y controlado"
+        ],
+        "consejos": "Mantén el cuello relajado y el core activo durante todo el movimiento",
+        "dificultad": "medio",
+        "tiempoDescanso": 60,
+        "icono": "home",
+        "imagenUrl": "https://www.shutterstock.com/shutterstock/photos/1092027824/display_1500/stock-vector-woman-doing-abdominal-workout-with-bicycle-crunch-illustration-about-exercise-guide-1092027824.jpg"
+      },
+      {
+        "nombre": "Plancha con Elevación de Pierna",
+        "descripcion": "Variación avanzada de la plancha que aumenta la intensidad",
+        "calorias": 100,
+        "series": 3,
+        "repeticiones": 12,
+        "musculos": ["Recto Abdominal", "Transverso Abdominal", "Glúteos"],
+        "equipamiento": ["Ninguno"],
+        "instrucciones": [
+          "Colócate en posición de plancha",
+          "Mantén el cuerpo recto y el core activo",
+          "Eleva una pierna manteniendo la rodilla recta",
+          "Baja la pierna y repite con la otra"
+        ],
+        "consejos": "Mantén la cadera estable y evita que se mueva durante el ejercicio",
+        "dificultad": "medio",
+        "tiempoDescanso": 45,
+        "icono": "home",
+        "imagenUrl": "https://previews.123rf.com/images/lioputra/lioputra2304/lioputra230400124/202194928-gu%C3%ADa-de-ejercicios-de-un-hombre-que-hace-levantamientos-de-piernas-en-plancha-en-2-pasos-ilustraci%C3%B3n.jpg"
+      },
+      {
+        "nombre": "Russian Twist",
+        "descripcion": "Ejercicio efectivo para trabajar los oblicuos y mejorar la rotación del torso",
+        "calorias": 90,
+        "series": 3,
+        "repeticiones": 16,
+        "musculos": ["Oblicuos", "Recto Abdominal", "Transverso Abdominal"],
+        "equipamiento": ["Ninguno"],
+        "instrucciones": [
+          "Siéntate en el suelo con las rodillas flexionadas",
+          "Inclina el torso hacia atrás formando un ángulo de 45 grados",
+          "Gira el torso de lado a lado",
+          "Mantén los brazos extendidos frente al pecho"
+        ],
+        "consejos": "Mantén el core activo y la espalda recta durante todo el movimiento",
+        "dificultad": "medio",
+        "tiempoDescanso": 45,
+        "icono": "home",
+        "imagenUrl": "https://as1.ftcdn.net/jpg/02/62/56/32/1000_F_262563217_g9mMmboutrGTcQK1VF7KSRke3opDq39M.jpg"
+      },
+      {
+        "nombre": "Elevación de Piernas",
+        "descripcion": "Ejercicio para fortalecer la parte inferior del abdomen",
+        "calorias": 110,
+        "series": 3,
+        "repeticiones": 12,
+        "musculos": ["Recto Abdominal Inferior", "Transverso Abdominal"],
+        "equipamiento": ["Ninguno"],
+        "instrucciones": [
+          "Acuéstate boca arriba con las piernas extendidas",
+          "Coloca las manos debajo de los glúteos",
+          "Eleva las piernas hasta formar un ángulo de 90 grados",
+          "Baja controladamente sin tocar el suelo"
+        ],
+        "consejos": "Mantén la espalda baja pegada al suelo y el core activo",
+        "dificultad": "medio",
+        "tiempoDescanso": 60,
+        "icono": "home",
+        "imagenUrl": "https://thumbs.dreamstime.com/z/hombre-haciendo-ejercicio-de-elevaci%C3%B3n-piernas-abdominal-el-peso-corporal-eleva-la-ilustraci%C3%B3n-vectorial-plana-201076249.jpg"
+      }
+    ]
+  },
+  {
+    "titulo": "Ejercicios de Brazos",
+    "descripcion": "Rutina para fortalecer bíceps, tríceps y antebrazos",
+    "icono": "home",
+    "ejercicios": [
+      {
+        "nombre": "Flexiones Diamante",
+        "descripcion": "Variación de flexiones que enfatiza el trabajo de tríceps",
+        "calorias": 120,
+        "series": 3,
+        "repeticiones": 12,
+        "musculos": ["Tríceps", "Pecho", "Hombros"],
+        "equipamiento": ["Ninguno"],
+        "instrucciones": [
+          "Colócate en posición de plancha",
+          "Junta las manos formando un diamante con los pulgares e índices",
+          "Baja el cuerpo manteniendo los codos cerca del cuerpo",
+          "Empuja hacia arriba hasta extender los brazos"
+        ],
+        "consejos": "Mantén el cuerpo recto y los codos apuntando hacia atrás",
+        "dificultad": "medio",
+        "tiempoDescanso": 60,
+        "icono": "home",
+        "imagenUrl": "https://previews.123rf.com/images/lioputra/lioputra2112/lioputra211200257/178823850-hombre-haciendo-ejercicio-de-empuje-de-diamante-para-ilustraci%C3%B3n-de-icono-plano-de-tr%C3%ADceps-y-pecho.jpg"
+      },
+      {
+        "nombre": "Fondos en Silla",
+        "descripcion": "Ejercicio efectivo para tríceps usando una silla",
+        "calorias": 90,
+        "series": 3,
+        "repeticiones": 15,
+        "musculos": ["Tríceps", "Hombros"],
+        "equipamiento": ["Silla"],
+        "instrucciones": [
+          "Apoya las manos en el borde de una silla",
+          "Extiende las piernas hacia adelante",
+          "Baja el cuerpo doblando los codos",
+          "Empuja hacia arriba hasta extender los brazos"
+        ],
+        "consejos": "Mantén la espalda cerca de la silla y los codos apuntando hacia atrás",
+        "dificultad": "fácil",
+        "tiempoDescanso": 45,
+        "icono": "home",
+        "imagenUrl": "https://previews.123rf.com/images/lioputra/lioputra2106/lioputra210600184/170993845-hombre-haciendo-silla-ejercicio-de-fondos-de-tr%C3%ADceps-en-banco-ilustraci%C3%B3n-de-vector-plano-aislado-so.jpg"
+      },
+      {
+        "nombre": "Flexiones Inclinadas",
+        "descripcion": "Variación más fácil de las flexiones tradicionales",
+        "calorias": 100,
+        "series": 3,
+        "repeticiones": 12,
+        "musculos": ["Pecho", "Tríceps", "Hombros"],
+        "equipamiento": ["Silla o superficie elevada"],
+        "instrucciones": [
+          "Coloca las manos en una superficie elevada",
+          "Extiende las piernas hacia atrás",
+          "Baja el cuerpo manteniendo la espalda recta",
+          "Empuja hacia arriba hasta extender los brazos"
+        ],
+        "consejos": "Mantén el core activo y los codos cerca del cuerpo",
+        "dificultad": "fácil",
+        "tiempoDescanso": 45,
+        "icono": "home",
+        "imagenUrl": "https://static.vecteezy.com/system/resources/previews/008/635/617/non_2x/woman-doing-incline-push-ups-exercise-flat-illustration-isolated-on-white-background-vector.jpg"
+      },
+      {
+        "nombre": "Flexiones con Palmada",
+        "descripcion": "Variación avanzada de flexiones que mejora la potencia",
+        "calorias": 130,
+        "series": 3,
+        "repeticiones": 8,
+        "musculos": ["Pecho", "Tríceps", "Hombros"],
+        "equipamiento": ["Ninguno"],
+        "instrucciones": [
+          "Colócate en posición de plancha",
+          "Baja el cuerpo controladamente",
+          "Empuja con fuerza para despegar las manos del suelo",
+          "Aplaude y regresa a la posición inicial"
+        ],
+        "consejos": "Asegúrate de tener suficiente fuerza antes de intentar este ejercicio",
+        "dificultad": "difícil",
+        "tiempoDescanso": 60,
+        "icono": "home",
+        "imagenUrl": "https://st5.depositphotos.com/80218270/66269/v/450/depositphotos_662692580-stock-illustration-sport-woman-doing-exercise-clapping.jpg"
+      },
+      {
+        "nombre": "Flexiones con Rotación",
+        "descripcion": "Variación que trabaja el core y mejora la estabilidad",
+        "calorias": 110,
+        "series": 3,
+        "repeticiones": 10,
+        "musculos": ["Pecho", "Tríceps", "Core", "Hombros"],
+        "equipamiento": ["Ninguno"],
+        "instrucciones": [
+          "Realiza una flexión normal",
+          "Al subir, rota el cuerpo hacia un lado",
+          "Extiende el brazo hacia arriba",
+          "Regresa a la posición inicial"
+        ],
+        "consejos": "Mantén el core activo durante la rotación",
+        "dificultad": "medio",
+        "tiempoDescanso": 45,
+        "icono": "fitness_center",
+        "imagenUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDzotQWCCNVh3u5_C1GAV5czLbPoYol1MEnt9OtFQwqDYtUSyJn_aHTGw9DalcOSB87A121Ewn1REbSu58s1T-UIeT3uJJta24mNp6xCrSEEEhCKVuP5-Gr1fZvzmpxGEh4zI5q_ajPk8/s1600/FLEXION+CON+ROTACION.jpg"
+      }
+    ]
+  },
+  {
+    "titulo": "Ejercicios de Espalda",
+    "descripcion": "Rutina para fortalecer y mejorar la postura de la espalda",
+    "icono": "home",
+    "ejercicios": [
+      {
+        "nombre": "Superman",
+        "descripcion": "Ejercicio para fortalecer la zona lumbar y mejorar la postura",
+        "calorias": 70,
+        "series": 3,
+        "repeticiones": 12,
+        "musculos": ["Lumbares", "Glúteos", "Trapecio"],
+        "equipamiento": ["Ninguno"],
+        "instrucciones": [
+          "Acuéstate boca abajo con los brazos extendidos",
+          "Eleva simultáneamente brazos y piernas",
+          "Mantén la posición por 2 segundos",
+          "Baja controladamente"
+        ],
+        "consejos": "Mantén el cuello neutral y respira constantemente",
+        "dificultad": "fácil",
+        "tiempoDescanso": 45,
+        "icono": "home",
+        "imagenUrl": "https://quierocuidarme.dkv.es/sites/default/files/styles/article_teaser_big_630x360/public/2023-05/plancha%20superman.jpg?itok=uhqZ_VOs"
+      },
+      {
+        "nombre": "Remo Invertido",
+        "descripcion": "Ejercicio para fortalecer la espalda alta y media",
+        "calorias": 100,
+        "series": 3,
+        "repeticiones": 12,
+        "musculos": ["Dorsal Ancho", "Trapecio", "Romboides"],
+        "equipamiento": ["Mesa o superficie elevada"],
+        "instrucciones": [
+          "Acuéstate debajo de una mesa",
+          "Agarra el borde de la mesa",
+          "Tira del cuerpo hacia arriba",
+          "Baja controladamente"
+        ],
+        "consejos": "Mantén el cuerpo recto y los codos cerca del cuerpo",
+        "dificultad": "medio",
+        "tiempoDescanso": 60,
+        "icono": "home",
+        "imagenUrl": "https://jeronimomilo.com.ar/wp-content/uploads/2022/10/Progresiones-regresiones-remos-renegados-horizontal.webp"
+      },
+      {
+        "nombre": "Puente de Glúteos",
+        "descripcion": "Ejercicio para fortalecer la espalda baja y glúteos",
+        "calorias": 80,
+        "series": 3,
+        "repeticiones": 15,
+        "musculos": ["Glúteos", "Lumbares", "Isquiotibiales"],
+        "equipamiento": ["Ninguno"],
+        "instrucciones": [
+          "Acuéstate boca arriba con las rodillas flexionadas",
+          "Eleva la cadera hacia arriba",
+          "Mantén la posición por 2 segundos",
+          "Baja controladamente"
+        ],
+        "consejos": "Aprieta los glúteos al subir y mantén el core activo",
+        "dificultad": "fácil",
+        "tiempoDescanso": 45,
+        "icono": "home",
+        "imagenUrl": "https://us.123rf.com/450wm/lioputra/lioputra2112/lioputra211200415/179013533-hombre-haciendo-ejercicio-de-huelga-de-isquiotibiales-ilustraci%C3%B3n-de-vector-plano-aislado-sobre.jpg?ver=6"
+      },
+      {
+        "nombre": "Extensión de Espalda",
+        "descripcion": "Ejercicio para fortalecer los músculos de la espalda",
+        "calorias": 90,
+        "series": 3,
+        "repeticiones": 12,
+        "musculos": ["Erector Espinal", "Glúteos", "Lumbares"],
+        "equipamiento": ["Ninguno"],
+        "instrucciones": [
+          "Acuéstate boca abajo con los brazos extendidos",
+          "Eleva el pecho y las piernas del suelo",
+          "Mantén la posición por 2 segundos",
+          "Baja controladamente"
+        ],
+        "consejos": "Mantén el cuello neutral y respira constantemente",
+        "dificultad": "medio",
+        "tiempoDescanso": 45,
+        "icono": "home",
+        "imagenUrl": "https://static.vecteezy.com/system/resources/previews/027/439/563/non_2x/woman-doing-back-extensions-exercise-flat-illustration-isolated-on-white-background-vector.jpg"
+      },
+      {
+        "nombre": "Remo con maleta",
+        "descripcion": "Ejercicio para la espalda usando una toalla",
+        "calorias": 85,
+        "series": 3,
+        "repeticiones": 12,
+        "musculos": ["Dorsal Ancho", "Trapecio", "Romboides"],
+        "equipamiento": ["Maleta"],
+        "instrucciones": [
+          "Coloca una rodilla en una silla o mesa baja",
+          "Apoya la mano del mismo sentido del pie apoyado",
+          "Con el brazo libre, carga un objeto de un peso moderado",
+          "Y levantalo, contrayendo siempre la parte lateral de la espalda",
+          "luego vuelves abajo y repite"
+        ],
+        "consejos": "Mantén los codos cerca del cuerpo y la espalda recta",
+        "dificultad": "fácil",
+        "tiempoDescanso": 45,
+        "icono": "home",
+        "imagenUrl": "https://media.istockphoto.com/id/1407962419/es/vector/hombre-haciendo-ejercicio-de-un-solo-brazo-doblado-sobre-la-fila-ilustraci%C3%B3n-vectorial-plana.jpg?s=612x612&w=0&k=20&c=jPGLAN06cRcZRWmEOQ2unqp4MrQ94mGbJTvm4AeaOLs="
+      }
+    ]
+  },
+  {
+    "titulo": "Ejercicios para Estirar",
+    "descripcion": "Rutina de estiramientos para mejorar la flexibilidad y prevenir lesiones",
+    "icono": "home",
+    "ejercicios": [
+      {
+        "nombre": "Estiramiento de Isquiotibiales",
+        "descripcion": "Estiramiento para la parte posterior de las piernas",
+        "duracion": 30,
+        "series": 2,
+        "musculos": ["Isquiotibiales", "Pantorrillas"],
+        "equipamiento": ["Ninguno"],
+        "instrucciones": [
+          "Siéntate en el suelo con las piernas extendidas",
+          "Inclínate hacia adelante desde la cadera",
+          "Intenta tocar los dedos de los pies",
+          "Mantén la posición sin rebotar"
+        ],
+        "consejos": "Respira profundamente y no fuerces el estiramiento",
+        "dificultad": "fácil",
+        "tiempoDescanso": 30,
+        "icono": "self_improvement",
+        "imagenUrl": "https://previews.123rf.com/images/lioputra/lioputra2112/lioputra211200643/179516753-mujer-haciendo-ejercicio-de-estiramiento-de-isquiotibiales-activo-ilustraci%C3%B3n-de-vector-plano-aislad.jpg"
+      },
+      {
+        "nombre": "Estiramiento de Hombros",
+        "descripcion": "Estiramiento para mejorar la movilidad de los hombros",
+        "duracion": 30,
+        "series": 2,
+        "musculos": ["Hombros", "Pecho"],
+        "equipamiento": ["Ninguno"],
+        "instrucciones": [
+          "Coloca un brazo frente al pecho",
+          "Con el otro brazo, tira suavemente del codo",
+          "Mantén la posición",
+          "Repite con el otro brazo"
+        ],
+        "consejos": "No fuerces el estiramiento y mantén la respiración constante",
+        "dificultad": "fácil",
+        "tiempoDescanso": 30,
+        "icono": "self_improvement",
+        "imagenUrl": "https://media.istockphoto.com/id/1459531729/es/vector/hombre-estirando-su-cuello-brazos-y-hombros-mano-ilustraci%C3%B3n-vectorial-plana-aislada-sobre.jpg?s=612x612&w=0&k=20&c=-CbuKhmvvItjVZwHhQvRrgFzFJDCLo8VeLSdYdhMSXQ="
+      },
+      {
+        "nombre": "Estiramiento de Cuádriceps",
+        "descripcion": "Estiramiento para la parte frontal de los muslos",
+        "duracion": 30,
+        "series": 2,
+        "musculos": ["Cuádriceps", "Flexores de Cadera"],
+        "equipamiento": ["Ninguno"],
+        "instrucciones": [
+          "Párate sobre una pierna",
+          "Dobla la otra pierna hacia atrás",
+          "Agarra el pie con la mano",
+          "Mantén la posición"
+        ],
+        "consejos": "Mantén la rodilla alineada y no arquees la espalda",
+        "dificultad": "fácil",
+        "tiempoDescanso": 30,
+        "icono": "self_improvement",
+        "imagenUrl": "https://static.vecteezy.com/system/resources/previews/018/746/790/non_2x/man-doing-quadriceps-stretch-cool-down-exercise-balance-pose-flexibility-improvement-flat-illustration-isolated-on-white-background-vector.jpg"
+      },
+      {
+        "nombre": "Estiramiento de Espalda",
+        "descripcion": "Estiramiento para la columna vertebral",
+        "duracion": 30,
+        "series": 2,
+        "musculos": ["Erector Espinal", "Lumbares"],
+        "equipamiento": ["Ninguno"],
+        "instrucciones": [
+          "Arrodíllate en el suelo",
+          "Inclina el torso hacia adelante",
+          "Extiende los brazos hacia adelante",
+          "Mantén la posición"
+        ],
+        "consejos": "Relaja los hombros y respira profundamente",
+        "dificultad": "fácil",
+        "tiempoDescanso": 30,
+        "icono": "self_improvement",
+        "imagenUrl": "https://es.integrativenutrition.com/hs-fs/hubfs/Imported_Blog_Media/canva-photo-editor_-_2021-09-03t151902_304-Oct-30-2023-08-43-30-9394-PM.png?width=759&height=507&name=canva-photo-editor_-_2021-09-03t151902_304-Oct-30-2023-08-43-30-9394-PM.png"
+      },
+      {
+        "nombre": "Estiramiento de Pantorrillas",
+        "descripcion": "Estiramiento para la parte posterior de las piernas",
+        "duracion": 30,
+        "series": 2,
+        "musculos": ["Pantorrillas", "Tendón de Aquiles"],
+        "equipamiento": ["Ninguno"],
+        "instrucciones": [
+          "Párate frente a una pared",
+          "Apoya las manos en la pared",
+          "Da un paso atrás con una pierna",
+          "Mantén la rodilla trasera recta"
+        ],
+        "consejos": "Mantén el talón en el suelo y la espalda recta",
+        "dificultad": "fácil",
+        "tiempoDescanso": 30,
+        "icono": "self_improvement",
+        "imagenUrl": "https://previews.123rf.com/images/lioputra/lioputra2011/lioputra201100047/158621607-hombre-haciendo-ejercicio-de-estiramiento-de-pantorrilla-de-pierna-recta-ilustraci%C3%B3n-de-vector-plano.jpg"
+      }
+    ]
+  },
+  {
+    "titulo": "Ejercicios de Hombro",
+    "descripcion": "Rutina para fortalecer y estabilizar los hombros",
+    "icono": "home",
+    "ejercicios": [
+      {
+        "nombre": "Elevaciones Laterales",
+        "descripcion": "Ejercicio para fortalecer los deltoides laterales",
+        "calorias": 80,
+        "series": 3,
+        "repeticiones": 12,
+        "musculos": ["Deltoides Laterales", "Trapecio"],
+        "equipamiento": ["Ninguno"],
+        "instrucciones": [
+          "Párate con los pies al ancho de los hombros",
+          "Eleva los brazos lateralmente hasta la altura de los hombros",
+          "Baja controladamente",
+          "Mantén los codos ligeramente flexionados"
+        ],
+        "consejos": "Mantén la espalda recta y los hombros relajados",
+        "dificultad": "fácil",
+        "tiempoDescanso": 45,
+        "icono": "home",
+        "imagenUrl": "https://previews.123rf.com/images/lioputra/lioputra2306/lioputra230600138/209079288-mujer-haciendo-elevaciones-laterales-o-laterales-de-doble-brazo-para-ejercicios-de-extensi%C3%B3n-por-enc.jpg"
+      },
+      {
+        "nombre": "Flexiones Pike",
+        "descripcion": "Variación de flexiones que enfatiza los hombros",
+        "calorias": 100,
+        "series": 3,
+        "repeticiones": 10,
+        "musculos": ["Hombros", "Tríceps", "Core"],
+        "equipamiento": ["Ninguno"],
+        "instrucciones": [
+          "Colócate en posición de plancha invertida",
+          "Forma un ángulo de 90 grados con la cadera",
+          "Baja la cabeza hacia el suelo",
+          "Empuja hacia arriba"
+        ],
+        "consejos": "Mantén el core activo y la espalda recta",
+        "dificultad": "medio",
+        "tiempoDescanso": 60,
+        "icono": "home",
+        "imagenUrl": "https://pau.ninja/wp-content/uploads/2022/05/pica-elevada-en-caja.jpeg"
+      },
+      {
+        "nombre": "Elevaciones Frontales",
+        "descripcion": "Ejercicio para los deltoides frontales",
+        "calorias": 70,
+        "series": 3,
+        "repeticiones": 12,
+        "musculos": ["Deltoides Frontales", "Pecho"],
+        "equipamiento": ["Ninguno"],
+        "instrucciones": [
+          "Párate con los pies al ancho de los hombros",
+          "Eleva los brazos hacia adelante hasta la altura de los hombros",
+          "Baja controladamente",
+          "Mantén los codos ligeramente flexionados"
+        ],
+        "consejos": "Mantén la espalda recta y los hombros relajados",
+        "dificultad": "fácil",
+        "tiempoDescanso": 45,
+        "icono": "home",
+        "imagenUrl": "https://previews.123rf.com/images/lioputra/lioputra2209/lioputra220900128/191680322-mujer-haciendo-ejercicio-de-elevaciones-frontales-de-doble-brazo-ilustraci%C3%B3n-vectorial-plana-aislada.jpg"
+      },
+      {
+        "nombre": "Flexiones con toque al hombro",
+        "descripcion": "Variación avanzada que trabaja los hombros y la estabilidad",
+        "calorias": 120,
+        "series": 3,
+        "repeticiones": 8,
+        "musculos": ["Hombros", "Pecho", "Tríceps"],
+        "equipamiento": ["Ninguno"],
+        "instrucciones": [
+          "Realiza una flexión normal",
+          "Al subir, realizar un toque al hombro contrario de la mano",
+          "Regresa a la posición inicial",
+          "Mantén el core activo"
+        ],
+        "consejos": "Asegúrate de tener suficiente fuerza antes de intentar este ejercicio",
+        "dificultad": "medio",
+        "tiempoDescanso": 60,
+        "icono": "home",
+        "imagenUrl": "https://us.123rf.com/450wm/lioputra/lioputra2112/lioputra211200260/178828121-ejercicio-de-planchas-con-golpecitos-en-los-hombros-ilustraci%C3%B3n-de-vector-plano-aislado-sobre-fondo-.jpg"
+      },
+      {
+        "nombre": "Flexiones con Rotación de Hombros",
+        "descripcion": "Ejercicio para mejorar la movilidad y fuerza de los hombros",
+        "calorias": 90,
+        "series": 3,
+        "repeticiones": 10,
+        "musculos": ["Hombros", "Core", "Pecho"],
+        "equipamiento": ["Ninguno"],
+        "instrucciones": [
+          "Colócate en posición de plancha",
+          "Realiza una flexión",
+          "Al subir, rota los hombros en círculos",
+          "Regresa a la posición inicial"
+        ],
+        "consejos": "Mantén el core activo y los movimientos controlados",
+        "dificultad": "medio",
+        "tiempoDescanso": 45,
+        "icono": "fitness_center",
+        "imagenUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGOh6ueXyT-77AvwqVzQ7xRgjKt-fqkzczldoL4pzERCnjBM4GYI80YmXJYLA-yP0dhA4Sr0-vG9b9k9_kAfnj6eAt8OEa0FFnBKAOqNLOMchZsAMiPQU4XeMmgvuzQJujJGOZzl8YOIu0/s1600/Bonitadas-Posturas+Ejercicio-Plancha+a+rotacion-Womens+Health+Mag.jpg"
+      }
+    ]
+  },
+  {
+    "titulo": "Ejercicios de Pecho",
+    "descripcion": "Rutina completa para desarrollar y fortalecer los músculos del pecho",
+    "icono": "home",
+    "ejercicios": [
+      {
+        "nombre": "Flexiones de Pecho",
+        "descripcion": "Ejercicio clásico para el pecho",
+        "calorias": 120,
+        "series": 3,
+        "repeticiones": 12,
+        "musculos": ["Pecho", "Tríceps", "Hombros"],
+        "equipamiento": ["Ninguno"],
+        "instrucciones": [
+          "Colócate en posición de plancha",
+          "Mantén el cuerpo recto",
+          "arrodillado Baja el cuerpo doblando los codos",
+          "Empuja hacia arriba, si eres de mayor nivel",
+          "despliga las rodillas del suelo"
+        ],
+        "consejos": "Mantén los codos cerca del cuerpo y el core activo",
+        "dificultad": "medio",
+        "tiempoDescanso": 60,
+        "icono": "home",
+        "imagenUrl": "https://st5.depositphotos.com/80218270/66974/v/950/depositphotos_669742854-stock-illustration-man-doing-modified-knee-push.jpg"
+      },
+
+      {
+        "nombre": "Flexion Inclinada",
+        "descripcion": "Variación que enfatiza la parte superior del pecho",
+        "calorias": 100,
+        "series": 3,
+        "repeticiones": 12,
+        "musculos": ["Pecho Superior", "Hombros"],
+        "equipamiento": ["Silla o superficie elevada"],
+        "instrucciones": [
+          "Coloca los pies en una superficie elevada",
+          "Realiza flexiones normales",
+          "Mantén el cuerpo recto",
+          "Baja controladamente"
+        ],
+        "consejos": "Ajusta la altura de la superficie según tu nivel",
+        "dificultad": "medio",
+        "tiempoDescanso": 60,
+        "icono": "home",
+        "imagenUrl": "https://previews.123rf.com/images/lioputra/lioputra2112/lioputra211200255/180125474-chest-exercises-incline-push-up-flat-design-bodybuilder-character-push-up-on-a-bench.jpg"
+      },
+      {
+        "nombre": "Flexion Diamante",
+        "descripcion": "Variación que enfatiza la parte media del pecho",
+        "calorias": 110,
+        "series": 3,
+        "repeticiones": 10,
+        "musculos": ["Pecho Medio", "Tríceps"],
+        "equipamiento": ["Ninguno"],
+        "instrucciones": [
+          "Colócate en posición de plancha",
+          "Junta las manos formando un diamante",
+          "Baja el cuerpo manteniendo los codos cerca",
+          "Empuja hacia arriba"
+        ],
+        "consejos": "Mantén el core activo y los codos cerca del cuerpo",
+        "dificultad": "medio",
+        "tiempoDescanso": 60,
+        "icono": "home",
+        "imagenUrl": "https://previews.123rf.com/images/lioputra/lioputra2112/lioputra211200330/178974317-mujer-haciendo-ejercicios-de-flexiones-de-pir%C3%A1mide-de-diamante-ilustraci%C3%B3n-vectorial-plana-aislada-e.jpg"
+      },
+      {
+        "nombre": "Flexiones con Palmadas",
+        "descripcion": "Variación avanzada que mejora la potencia",
+        "calorias": 130,
+        "series": 3,
+        "repeticiones": 8,
+        "musculos": ["Pecho", "Tríceps", "Hombros"],
+        "equipamiento": ["Ninguno"],
+        "instrucciones": [
+          "Realiza una flexión normal",
+          "Al subir, empuja con fuerza para despegar las manos",
+          "Aplaude y regresa a la posición inicial",
+          "Mantén el control durante todo el movimiento"
+        ],
+        "consejos": "Asegúrate de tener suficiente fuerza antes de intentar este ejercicio",
+        "dificultad": "difícil",
+        "tiempoDescanso": 60,
+        "icono": "home",
+        "imagenUrl": "https://st5.depositphotos.com/80218270/66269/v/450/depositphotos_662692580-stock-illustration-sport-woman-doing-exercise-clapping.jpg"
+      },
+      {
+        "nombre": "Flexiones anchas",
+        "descripcion": "Variación que trabaja el core y mejora la estabilidad",
+        "calorias": 120,
+        "series": 3,
+        "repeticiones": 10,
+        "musculos": ["Pecho", "Core", "Hombros"],
+        "equipamiento": ["Ninguno"],
+        "instrucciones": [
+          "Realiza una flexión con las manos abiertas",
+          "Y una un poco delante de la otra",
+          "Al subir, cambia la posicion de la mano",
+          "Extiende el brazo hacia arriba",
+          "Regresa a la posición inicial"
+        ],
+        "consejos": "Mantén el core activo durante el cambio de mano",
+        "dificultad": "medio",
+        "tiempoDescanso": 60,
+        "icono": "home",
+        "imagenUrl": "https://previews.123rf.com/images/lioputra/lioputra2106/lioputra210600123/170509447-mujer-haciendo-ejercicios-de-flexiones-anchas-ilustraci%C3%B3n-de-vector-plano-aislado-sobre-fondo-blanco.jpg"
+      }
+    ]
+  },
+  {
+    "titulo": "Ejercicios de Pierna",
+    "descripcion": "Rutina completa para fortalecer y tonificar las piernas",
+    "icono": "home",
+    "ejercicios": [
+      {
+        "nombre": "Sentadillas",
+        "descripcion": "Ejercicio fundamental para las piernas",
+        "calorias": 150,
+        "series": 3,
+        "repeticiones": 15,
+        "musculos": ["Cuádriceps", "Glúteos", "Isquiotibiales"],
+        "equipamiento": ["Ninguno"],
+        "instrucciones": [
+          "Párate con los pies al ancho de los hombros",
+          "Baja como si te sentaras",
+          "Mantén el pecho arriba",
+          "Vuelve a la posición inicial"
+        ],
+        "consejos": "Mantén las rodillas alineadas con los pies",
+        "dificultad": "fácil",
+        "tiempoDescanso": 60,
+        "icono": "home",
+        "imagenUrl": "https://neuroft.com/wp-content/uploads/errores-sentadilla-kM0E-510x349@abc.jpg"
+      },
+      {
+        "nombre": "Zancadas",
+        "descripcion": "Ejercicio para trabajar cada pierna individualmente",
+        "calorias": 120,
+        "series": 3,
+        "repeticiones": 12,
+        "musculos": ["Cuádriceps", "Glúteos", "Isquiotibiales"],
+        "equipamiento": ["Ninguno"],
+        "instrucciones": [
+          "Da un paso adelante",
+          "Baja hasta que ambas rodillas formen 90 grados",
+          "Empuja hacia atrás",
+          "Alterna las piernas"
+        ],
+        "consejos": "Mantén el torso erguido y el paso lo suficientemente largo",
+        "dificultad": "medio",
+        "tiempoDescanso": 45,
+        "icono": "home",
+        "imagenUrl": "https://www.sportlife.es/uploads/static/sportlife/upload/images/paragrapharticle/13400/paragrapharticle--58adc280ab090.jpg"
+      },
+      {
+        "nombre": "Sentadilla Búlgara",
+        "descripcion": "Variación avanzada de sentadilla que mejora el equilibrio",
+        "calorias": 130,
+        "series": 3,
+        "repeticiones": 12,
+        "musculos": ["Cuádriceps", "Glúteos", "Isquiotibiales"],
+        "equipamiento": ["Silla o superficie elevada"],
+        "instrucciones": [
+          "Coloca un pie en una superficie elevada detrás de ti",
+          "Baja la rodilla trasera hacia el suelo",
+          "Mantén el torso erguido",
+          "Empuja hacia arriba"
+        ],
+        "consejos": "Mantén el peso en la pierna delantera",
+        "dificultad": "medio",
+        "tiempoDescanso": 45,
+        "icono": "home",
+        "imagenUrl": "https://runningvillarejo.es/wp-content/uploads/2023/11/beneficios-y-ejecucion-de-las-sentadillas-bulgaras.jpg"
+      },
+      {
+        "nombre": "Peso Muerto con una Pierna",
+        "descripcion": "Ejercicio para mejorar el equilibrio y la fuerza",
+        "calorias": 110,
+        "series": 3,
+        "repeticiones": 10,
+        "musculos": ["Isquiotibiales", "Glúteos", "Core"],
+        "equipamiento": ["Ninguno"],
+        "instrucciones": [
+          "Párate sobre una pierna",
+          "Inclina el torso hacia adelante",
+          "Extiende la pierna libre hacia atrás",
+          "Regresa a la posición inicial"
+        ],
+        "consejos": "Mantén la espalda recta y el core activo",
+        "dificultad": "medio",
+        "tiempoDescanso": 45,
+        "icono": "home",
+        "imagenUrl": "https://thumbs.dreamstime.com/b/mujer-haciendo-ejercicios-de-elevaci%C3%B3n-peso-muerto-en-una-sola-pierna-ilustraci%C3%B3n-vectorial-plana-aislada-fondo-blanco-250033110.jpg"
+      },
+      {
+        "nombre": "Sentadilla con Salto",
+        "descripcion": "Ejercicio pliométrico para mejorar la potencia",
+        "calorias": 140,
+        "series": 3,
+        "repeticiones": 10,
+        "musculos": ["Cuádriceps", "Glúteos", "Pantorrillas"],
+        "equipamiento": ["Ninguno"],
+        "instrucciones": [
+          "Realiza una sentadilla normal",
+          "Explota hacia arriba con un salto",
+          "Aterriza suavemente",
+          "Inmediatamente baja a la siguiente sentadilla"
+        ],
+        "consejos": "Aterriza suavemente y mantén el control",
+        "dificultad": "medio",
+        "tiempoDescanso": 60,
+        "icono": "home",
+        "imagenUrl": "https://previews.123rf.com/images/lioputra/lioputra2110/lioputra211000029/175735198-hombre-haciendo-ejercicio-de-sentadilla-con-salto-ilustraci%C3%B3n-de-vector-plano-aislado-sobre-fondo-bl.jpg"
+      }
+    ]
+  }
+]

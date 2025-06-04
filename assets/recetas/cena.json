@@ -1,0 +1,464 @@
+[
+  {
+    "titulo": "Lasaña de Berenjena con Queso y Tomate",
+    "descripcion": "Pastel salado con capas de berenjena, salsa de tomate y queso",
+    "calorias": 275,
+    "proteinas": 15,
+    "carbohidratos": 17,
+    "grasas": 16,
+    "ingredientes": [
+      { "nombre": "Berenjena", "cantidad": "1 grande, 280 g" },
+      { "nombre": "Cebolla", "cantidad": "1 mediana, 130 g" },
+      { "nombre": "Tomate", "cantidad": "1 grande, 170 g" },
+      { "nombre": "Ajo", "cantidad": "1 diente pequeño, 4 g" },
+      { "nombre": "Aceite", "cantidad": "1 cucharada colmada, 12 ml" },
+      { "nombre": "Queso Mozzarella", "cantidad": "2 rebanadas gruesas, 55 g" },
+      { "nombre": "Queso Rallado", "cantidad": "2 cucharadas generosas, 22 g" },
+      { "nombre": "Albahaca", "cantidad": "4 hojas frescas, 3 g" }
+    ],
+    "instrucciones": [
+      "Lava y corta la berenjena en rodajas de medio centímetro. Cocínalas en agua con sal por 10 minutos y escúrrelas bien.",
+      "Pica finamente la cebolla, el ajo y el tomate.",
+      "En una sartén, calienta el aceite y sofríe la cebolla y el ajo durante 5 minutos, hasta que estén dorados.",
+      "Agrega el tomate y las hojas de albahaca. Cocina a fuego medio por unos 6 minutos, removiendo ocasionalmente.",
+      "En una fuente para horno, coloca una capa de berenjenas, una de salsa y una de queso. Repite hasta terminar.",
+      "Lleva al horno precalentado a 180°C por 20 minutos, o cocínalo tapado a fuego bajo en sartén.",
+      "Sirve caliente. Puedes acompañarlo con una ensalada fresca."
+    ],
+    "infoNutricional": "Fuente vegetal de proteínas y calcio. Ideal para una cena ligera y nutritiva.",
+    "tiempoPreparacion": 30,
+    "imagenUrl": "https://storage.googleapis.com/fitia_public_images/recipes%2FAR-R-V-00000025_nqfe4xikoq6m8yuqs1hkq3h8_large.jpg",
+    "dificultad": "medio",
+    "tipoComida": "cena"
+  },
+  {
+    "titulo": "Cazuela de Verduras al Estilo Casero",
+    "descripcion": "Cazuela vegetal con berenjenas, zapallitos y tomate",
+    "calorias": 127,
+    "proteinas": 3.2,
+    "carbohidratos": 19,
+    "grasas": 5.5,
+    "ingredientes": [
+      { "nombre": "Berenjenas", "cantidad": "media taza (aprox. 50 g)" },
+      { "nombre": "Cebolla", "cantidad": "media cebolla mediana, 80 g" },
+      { "nombre": "Pimiento Rojo", "cantidad": "un cuarto de pimiento, 35 g" },
+      { "nombre": "Albahaca", "cantidad": "4 hojas frescas, 2.5 g" },
+      { "nombre": "Orégano", "cantidad": "una cucharadita rasa, 2.2 g" },
+      { "nombre": "Aceite", "cantidad": "media cucharada, 6 ml" },
+      { "nombre": "Caldo de Verduras", "cantidad": "un cuarto de taza, 65 ml" },
+      { "nombre": "Zapallitos", "cantidad": "1 unidad pequeña, 60 g" },
+      { "nombre": "Tomate", "cantidad": "medio tomate grande, 70 g" }
+    ],
+    "instrucciones": [
+      "Corta las berenjenas y los zapallitos en rodajas finas.",
+      "Pica la cebolla, el tomate y el pimiento rojo en cubitos pequeños.",
+      "En una sartén grande, calienta el aceite y saltea la cebolla y el pimiento durante 3 minutos.",
+      "Agrega la berenjena, el zapallito y el tomate. Mezcla bien.",
+      "Condimenta con orégano, albahaca fresca, sal y pimienta al gusto.",
+      "Vierte el caldo de verduras, tapa la sartén y cocina a fuego bajo por 15 minutos, o hasta que las verduras estén tiernas.",
+      "Sirve caliente. Acompaña con arroz integral o pan tostado si lo deseas."
+    ],
+    "infoNutricional": "Receta baja en calorías, rica en fibra y sabor. Perfecta para una cena liviana.",
+    "tiempoPreparacion": 25,
+    "imagenUrl": "https://storage.googleapis.com/fitia_public_images/recipes%2FAR-R-V-00000024_f1wsjuxxo3ze25dzpd27kkbp_large.jpg",
+    "dificultad": "fácil",
+    "tipoComida": "cena"
+  },
+  {
+    "titulo": "Milanesa de Berenjena al Horno con Queso",
+    "descripcion": "Milanesa vegetal al horno con queso y tomate",
+    "calorias": 335,
+    "proteinas": 15.5,
+    "carbohidratos": 47,
+    "grasas": 10,
+    "ingredientes": [
+      { "nombre": "Berenjenas", "cantidad": "media berenjena grande, 270 g" },
+      { "nombre": "Leche", "cantidad": "3 cucharadas, 48 ml" },
+      { "nombre": "Queso Mozzarella", "cantidad": "1 rebanada gruesa, 27 g" },
+      { "nombre": "Orégano", "cantidad": "una pizca generosa, 1.2 g" },
+      { "nombre": "Pan Rallado", "cantidad": "3 cucharadas bien colmadas, 45 g" },
+      { "nombre": "Tomate", "cantidad": "2 rodajas finas, 22 g" }
+    ],
+    "instrucciones": [
+      "Pincha la berenjena con un tenedor y hornéala a 200°C durante 30 minutos.",
+      "Déjala enfriar un poco, luego pélala, aplástala ligeramente y sazona con sal y pimienta.",
+      "Pásala por leche y luego cúbrela bien con pan rallado.",
+      "Llévala al horno o a la freidora de aire hasta que esté dorada por ambos lados.",
+      "Coloca encima el queso, las rodajas de tomate y espolvorea orégano. Cocina 2 minutos más hasta que el queso se derrita.",
+      "Sirve caliente. Ideal con una guarnición de arroz o ensalada fresca."
+    ],
+    "infoNutricional": "Receta vegetariana al horno con buen aporte de proteínas y fibra.",
+    "tiempoPreparacion": 35,
+    "imagenUrl": "https://storage.googleapis.com/fitia_public_images/recipes%2FAR-R-V-00000026_vyg087j7msoy4jipy9yurkoq_large.jpg",
+    "dificultad": "medio",
+    "tipoComida": "cena"
+  },
+  {
+    "titulo": "Berenjenas Cremosas con Salsa Blanca y Queso",
+    "descripcion": "Rodajas de berenjena con salsa blanca, queso y romero. Cocido al horno o sartén.",
+    "calorias": 335,
+    "proteinas": 16,
+    "carbohidratos": 18.5,
+    "grasas": 20,
+    "ingredientes": [
+      { "nombre": "Berenjena", "cantidad": "media taza, 48 g" },
+      { "nombre": "Leche", "cantidad": "media taza, 125 ml" },
+      { "nombre": "Queso Mozzarella", "cantidad": "2 rebanadas medianas, 52 g" },
+      { "nombre": "Romero", "cantidad": "media cucharadita, 1.1 g" },
+      { "nombre": "Mantequilla", "cantidad": "una cucharadita colmada, 11 g" },
+      { "nombre": "Maicena", "cantidad": "1 cucharada rasa, 11 g" }
+    ],
+    "instrucciones": [
+      "Corta la berenjena en rodajas y cocínalas en agua con sal por 10 minutos. Escúrrelas.",
+      "En una parte de la leche fría, disuelve la maicena.",
+      "Calienta el resto de la leche con el romero hasta que hierva.",
+      "Agrega la mezcla de maicena y remueve hasta que espese. Añade la mantequilla y un poco de sal.",
+      "En una fuente o sartén, arma capas alternadas de berenjena y salsa.",
+      "Cubre con las rebanadas de queso y cocina al horno por 20 minutos o en sartén tapada.",
+      "Sirve caliente. Puedes agregar nuez moscada a la salsa si te gusta."
+    ],
+    "infoNutricional": "Opción vegetariana rica en calcio y proteínas. Ideal para noches frescas.",
+    "tiempoPreparacion": 30,
+    "imagenUrl": "https://storage.googleapis.com/fitia_public_images/recipes%2FAR-R-V-00000027_p1i1vu219szr3qap9sido9ow_large.jpg",
+    "dificultad": "medio",
+    "tipoComida": "cena"
+  },
+  {
+    "titulo": "Pizza Rústica de Polenta al Horno",
+    "descripcion": "Base de polenta al horno con salsa de tomate y queso mozzarella.",
+    "calorias": 420,
+    "proteinas": 14.5,
+    "carbohidratos": 50,
+    "grasas": 19,
+    "ingredientes": [
+      { "nombre": "Polenta Instantánea", "cantidad": "un cuarto de taza, 66 g" },
+      { "nombre": "Salsa de Tomate", "cantidad": "un tercio de taza, 75 g" },
+      { "nombre": "Queso Mozzarella", "cantidad": "3 rebanadas delgadas, 42 g" },
+      { "nombre": "Albahaca", "cantidad": "2 hojas frescas, 1.2 g" },
+      { "nombre": "Aceite de Oliva", "cantidad": "una cucharadita rasa, 3.2 ml" }
+    ],
+    "instrucciones": [
+      "Prepara la polenta según el paquete, luego extiéndela en una bandeja con un poco de aceite formando una base circular.",
+      "Deja enfriar unos minutos para que tome firmeza.",
+      "Mezcla la salsa de tomate con sal, pimienta y orégano si deseas.",
+      "Distribuye la salsa sobre la base de polenta y coloca las rebanadas de queso encima.",
+      "Hornea a 180°C durante 12 minutos, hasta que el queso se derrita y los bordes estén crujientes.",
+      "Agrega la albahaca fresca antes de servir. Puedes espolvorear con un toque de ají molido si te gusta el picante."
+    ],
+    "infoNutricional": "Alternativa sin gluten, nutritiva y reconfortante. Ideal para una cena rápida.",
+    "tiempoPreparacion": 20,
+    "imagenUrl": "https://storage.googleapis.com/fitia_public_images/recipes%2FAR-R-V-00000031_iahci3lou5x6yysg125c0x1z_large.jpg",
+    "dificultad": "fácil",
+    "tipoComida": "cena"
+  },
+  {
+    "titulo": "Compota Agridulce de Berenjenas y Pimiento",
+    "descripcion": "Un acompañamiento agridulce delicioso, con berenjena caramelizada, pimiento y un toque picante. Perfecto para carnes o platos vegetarianos.",
+    "calorias": 242,
+    "proteinas": 2.3,
+    "carbohidratos": 34.2,
+    "grasas": 10.3,
+    "ingredientes": [
+      { "nombre": "Berenjenas", "cantidad": "1 taza y media en cubos, 95 g" },
+      { "nombre": "Cebolla", "cantidad": "1/4 unidad pequeña, 40 g" },
+      { "nombre": "Pimiento Rojo", "cantidad": "1/4 unidad mediana, 32 g" },
+      { "nombre": "Aceite de Oliva", "cantidad": "1 cucharada colmada, 11 ml" },
+      { "nombre": "Azúcar Moreno", "cantidad": "4 cucharaditas y media, 22 g" },
+      { "nombre": "Guindilla", "cantidad": "1 unidad pequeña sin semillas, 9 g" },
+      { "nombre": "Vinagre de Vino Tinto", "cantidad": "1 cucharada y media, 22 ml" }
+    ],
+    "instrucciones": [
+      "Lava y corta las berenjenas en cubos pequeños. Pica la cebolla en pluma fina y el pimiento en tiras delgadas.",
+      "En una cacerola, agrega todos los ingredientes: berenjenas, cebolla, pimiento, azúcar moreno, vinagre, guindilla picada, aceite y unas 2 cucharadas de agua.",
+      "Tapa y cocina a fuego bajo durante 30 minutos, removiendo cada tanto para evitar que se pegue.",
+      "Ajusta la sal al gusto. Sirve tibio o frío, ideal para acompañar carnes o platos vegetarianos."
+    ],
+    "infoNutricional": "Bajo en proteínas pero muy sabroso. Excelente como guarnición o topping.",
+    "tiempoPreparacion": 35,
+    "imagenUrl": "https://storage.googleapis.com/fitia_public_images/recipes%2FAR-R-V-00000060_gei6o1vzzxoy4sxmdpdyjz7b_large.jpg",
+    "dificultad": "fácil",
+    "tipoComida": "cena"
+  },
+  {
+    "titulo": "Pan Relleno (Jamón, Queso, Huevo)",
+    "descripcion": "Una opción contundente y sabrosa para una comida completa y deliciosa.",
+    "calorias": 499,
+    "proteinas": 22.9,
+    "carbohidratos": 52.9,
+    "grasas": 22.0,
+    "ingredientes": [
+      { "nombre": "Jamón", "cantidad": "1 rebanada y media 45 g" },
+      { "nombre": "Queso Blanco", "cantidad": "1 rebanada y media 37 g" },
+      { "nombre": "Azúcar", "cantidad": "1 cucharadita y media 7 g" },
+      { "nombre": "Mantequilla", "cantidad": "1 cucharada 20 g" },
+      { "nombre": "Aceite", "cantidad": "1 cucharada y media 15 ml" },
+      { "nombre": "Harina", "cantidad": "1 taza y un cuarto 150 g" },
+      { "nombre": "Levadura", "cantidad": "1 cucharada 14 g" },
+      { "nombre": "Huevo", "cantidad": "1 unidad y media 75 g" }
+    ],
+    "instrucciones": [
+      "Antes de comenzar, recuerda que necesitarás dejar reposar la masa por cerca de 1 hora.",
+      "Disuelve la levadura con el azúcar en un poco de agua tibia y déjala reposar hasta que burbujee.",
+      "En un recipiente amplio, mezcla la harina con sal, añade la mantequilla blanda y el aceite. Mezcla con las manos hasta integrar.",
+      "Agrega la mezcla de levadura y sigue amasando hasta obtener una masa uniforme. Ajusta con agua o harina si es necesario.",
+      "Tapa la masa con un paño y deja reposar en un lugar cálido hasta que doble su tamaño.",
+      "Hierve el huevo durante 8 minutos, luego enfría, pela y córtalo en trozos pequeños.",
+      "Divide la masa, estírala y coloca jamón, queso y el huevo duro troceado en el centro.",
+      "Enrolla formando un pan y sella bien los bordes.",
+      "Deja reposar nuevamente 30 minutos.",
+      "Lleva al horno precalentado a 220 °C durante 20 minutos o hasta que esté bien dorado."
+    ],
+    "infoNutricional": "Ideal para una comida completa con una buena combinación de macronutrientes.",
+    "tiempoPreparacion": 90,
+    "imagenUrl": "https://storage.googleapis.com/fitia_public_images/recipes%2FAR-R-V-00000071_n00j08smh8yhrpn0j6islowc_large.jpg",
+    "dificultad": "medio",
+    "tipoComida": "cena"
+  },
+  {
+    "titulo": "Pan Relleno de Jamón, Tomate y Huevo",
+    "descripcion": "Pan artesanal horneado con un sabroso interior de jamón cocido, huevo y tomate fresco. Perfecto para una cena casera.",
+    "calorias": 452,
+    "proteinas": 16.5,
+    "carbohidratos": 52.5,
+    "grasas": 17.3,
+    "ingredientes": [
+      { "nombre": "Jamón", "cantidad": "2 rebanadas medianas, 60 g" },
+      { "nombre": "Azúcar Blanco", "cantidad": "1 cucharada, 10 g" },
+      { "nombre": "Mantequilla", "cantidad": "1 cucharada rasa, 15 g" },
+      { "nombre": "Aceite", "cantidad": "1 cucharada, 10 ml" },
+      { "nombre": "Harina", "cantidad": "1 taza, 120 g" },
+      { "nombre": "Levadura", "cantidad": "1 cucharada, 7 g" },
+      { "nombre": "Huevo", "cantidad": "1 unidad mediana, 55 g" },
+      { "nombre": "Tomate", "cantidad": "1/2 unidad grande, 65 g" }
+    ],
+    "instrucciones": [
+      "Activa la levadura disolviéndola junto al azúcar en agua tibia. Deja reposar hasta que espume.",
+      "En un recipiente, mezcla la harina con una pizca de sal, la mantequilla y el aceite. Incorpora la levadura.",
+      "Amasa por unos minutos hasta que quede suave y elástica. Ajusta textura si es necesario.",
+      "Tapa la masa y deja levar por 1 hora en un lugar cálido.",
+      "Hierve el huevo, pélalo y pícalo. Trocea también el jamón y el tomate.",
+      "Divide la masa, estírala y rellénala con los ingredientes. Cierra bien.",
+      "Deja levar 30 minutos adicionales y hornea a 220 °C por 20 minutos o hasta que esté bien dorado."
+    ],
+    "infoNutricional": "Buena fuente de proteína con ingredientes simples y sabrosos. Ideal para una comida reconfortante.",
+    "tiempoPreparacion": 90,
+    "imagenUrl": "https://storage.googleapis.com/fitia_public_images/recipes%2FAR-R-V-00000072_mod2a15dujauhdgwtcy3ezmc_large.jpg",
+    "dificultad": "medio",
+    "tipoComida": "cena"
+  },
+  {
+    "titulo": "Provoleta al Horno con Anchoas y Orégano",
+    "descripcion": "Queso provolone fundido al horno con topping de anchoas y orégano seco. Sabroso, rápido y perfecto para compartir en la cena.",
+    "calorias": 641,
+    "proteinas": 49.8,
+    "carbohidratos": 4.0,
+    "grasas": 47.5,
+    "ingredientes": [
+      { "nombre": "Queso Provolone", "cantidad": "6 rebanadas y media, 170 g" },
+      { "nombre": "Orégano", "cantidad": "1 pizca generosa, 1 g" },
+      { "nombre": "Anchoas en aceite de oliva", "cantidad": "1/4 lata, 25 g" }
+    ],
+    "instrucciones": [
+      "Precalienta el horno a 200 ºC.",
+      "Coloca el queso en una cazuela apta para horno. Puedes usar una cazuelita de barro o fuente antiadherente.",
+      "Espolvorea orégano seco por encima y reparte las anchoas uniformemente.",
+      "Hornea durante 8 a 10 minutos hasta que el queso esté bien fundido y ligeramente dorado en los bordes.",
+      "Sirve caliente acompañado con pan tostado, grisines o galletas saladas."
+    ],
+    "infoNutricional": "Rico en proteínas y grasas saludables. Ideal como plato principal liviano o entrada compartida.",
+    "tiempoPreparacion": 20,
+    "imagenUrl": "/svg/logo/gr.svg",
+    "dificultad": "fácil",
+    "tipoComida": "cena"
+  },
+  {
+    "titulo": "Provoleta Dorada con Especias Aromáticas",
+    "descripcion": "Queso provolone fundido con orégano y pimentón, dorado en sartén y servido bien caliente. Ideal para una cena rápida o como entrada.",
+    "calorias": 624,
+    "proteinas": 43.2,
+    "carbohidratos": 3.8,
+    "grasas": 48.3,
+    "ingredientes": [
+      { "nombre": "Queso Provolone", "cantidad": "7 rebanadas y media, 180 g" },
+      { "nombre": "Aceite de Oliva", "cantidad": "1 cucharadita y media, 4 ml" },
+      { "nombre": "Orégano", "cantidad": "1 pizca generosa, 1 g" },
+      { "nombre": "Pimentón", "cantidad": "1 pizca pequeña, 1 g" }
+    ],
+    "instrucciones": [
+      "Calienta una sartén de hierro o provoletera a fuego alto.",
+      "Agrega el aceite de oliva y distribúyelo bien por la base.",
+      "Coloca el queso y cocina de 8 a 10 minutos, hasta que esté dorado por debajo y se despegue fácilmente.",
+      "Espolvorea con orégano y pimentón. Si te gusta, añade tomillo o romero para más aroma.",
+      "Sirve de inmediato con pan tostado o galletas saladas."
+    ],
+    "infoNutricional": "Cena rápida y rica en proteínas. Acompaña con pan o vegetales grillados para una comida completa.",
+    "tiempoPreparacion": 15,
+    "imagenUrl": "https://storage.googleapis.com/fitia_public_images/recipes%2FAR-R-V-00000079_c09a537dstx6ivfc4ax7jd73_large.jpg",
+    "dificultad": "fácil",
+    "tipoComida": "cena"
+  },
+  {
+    "titulo": "Provoleta con Jamón Crudo al Horno",
+    "descripcion": "Queso provolone fundido al horno con topping de jamón curado y orégano. Simple, sabroso y perfecto para la noche.",
+    "calorias": 652,
+    "proteinas": 51.0,
+    "carbohidratos": 3.7,
+    "grasas": 47.3,
+    "ingredientes": [
+      { "nombre": "Queso Provolone", "cantidad": "7 rebanadas y media, 180 g" },
+      { "nombre": "Orégano", "cantidad": "1 pizca, 1 g" },
+      { "nombre": "Jamón Crudo", "cantidad": "2 tajadas y media, 33 g" }
+    ],
+    "instrucciones": [
+      "Precalienta el horno a 200 °C.",
+      "Coloca las rebanadas de provolone en una cazuela para horno o sartén pequeña.",
+      "Espolvorea con orégano seco por encima.",
+      "Distribuye el jamón crudo sobre el queso.",
+      "Hornea durante 7 a 10 minutos o hasta que el queso esté burbujeante y dorado.",
+      "Sirve caliente con pan tostado o como acompañamiento de vegetales asados."
+    ],
+    "infoNutricional": "Alto en proteínas y grasas saludables. Una excelente opción para compartir en una cena ligera.",
+    "tiempoPreparacion": 20,
+    "imagenUrl": "https://storage.googleapis.com/fitia_public_images/recipes%2FAR-R-V-00000078_hzz91rjq17irt81beiacrcon_large.jpg",
+    "dificultad": "fácil",
+    "tipoComida": "cena"
+  },
+  {
+    "titulo": "Milhojas de Papa al Horno con Crema y Parmesano",
+    "descripcion": "Capas finas de papa horneadas con crema, huevo y queso parmesano. Doradas por fuera y suaves por dentro, ideales como guarnición o plato principal.",
+    "calorias": 538,
+    "proteinas": 17.0,
+    "carbohidratos": 37.2,
+    "grasas": 35.9,
+    "ingredientes": [
+      { "nombre": "Papa", "cantidad": "1 unidad y media mediana, 185 g" },
+      { "nombre": "Queso Parmesano", "cantidad": "5 cucharadas y media, 28 g" },
+      { "nombre": "Mantequilla", "cantidad": "1 cucharadita y media, 12 g" },
+      { "nombre": "Crema de Leche", "cantidad": "2 cucharadas y media, 33 ml" },
+      { "nombre": "Huevo", "cantidad": "1 unidad, 55 g" }
+    ],
+    "instrucciones": [
+      "Pela las papas y córtalas en láminas finas, del grosor de una moneda.",
+      "Unta una fuente para horno con mantequilla. Coloca una primera capa de papas, levemente encimadas.",
+      "En un bol, mezcla el huevo con la crema, sal, pimienta y, si deseas, orégano o tomillo.",
+      "Vierte un poco de la mezcla sobre las papas y espolvorea queso.",
+      "Repite en capas hasta terminar los ingredientes, terminando con crema y queso por encima.",
+      "Hornea a 180 °C durante 45 minutos o hasta que esté dorado y tierno.",
+      "Deja reposar 5 minutos antes de servir para que compacte mejor."
+    ],
+    "infoNutricional": "Plato vegetariano sabroso, perfecto como guarnición de carnes o como plato principal con ensalada fresca.",
+    "tiempoPreparacion": 55,
+    "imagenUrl": "https://storage.googleapis.com/fitia_public_images/recipes%2FAR-R-V-00000081_w5yzu9y9ttvvc4sup0h8nd4f_large.jpg",
+    "dificultad": "fácil",
+    "tipoComida": "cena"
+  },
+  {
+    "titulo": "Provoleta con Salsa de Tomate y Orégano",
+    "descripcion": "Queso provolone derretido en sartén con una capa de salsa de tomate aromatizada. Ideal para una cena ligera o como entrada caliente.",
+    "calorias": 652,
+    "proteinas": 43.5,
+    "carbohidratos": 10.1,
+    "grasas": 48.2,
+    "ingredientes": [
+      { "nombre": "Queso Provolone", "cantidad": "7 rebanadas y media, 180 g" },
+      { "nombre": "Aceite de Oliva", "cantidad": "1 cucharadita y media, 4 ml" },
+      { "nombre": "Orégano", "cantidad": "1 pizca, 1 g" },
+      { "nombre": "Salsa de Tomate", "cantidad": "2 cucharadas y media, 30 g" }
+    ],
+    "instrucciones": [
+      "Calienta una sartén de hierro o provoletera a fuego fuerte. Agrega el aceite de oliva.",
+      "Coloca las rebanadas de queso y cocina durante 8-10 minutos hasta dorar por debajo.",
+      "Con cuidado, voltea el queso. Agrega la salsa de tomate encima y espolvorea orégano.",
+      "Si te gusta, añade ají molido o albahaca fresca.",
+      "Retira cuando esté bien fundido y burbujeante. Sirve con pan tostado o grisines."
+    ],
+    "infoNutricional": "Alta en proteínas y grasas saludables. Una opción sabrosa para la noche, fácil y rápida.",
+    "tiempoPreparacion": 20,
+    "imagenUrl": "https://storage.googleapis.com/fitia_public_images/recipes%2FAR-R-V-00000080_qq2b0qrv5wk0hknvpwz43ijr_large.jpg",
+    "dificultad": "fácil",
+    "tipoComida": "cena"
+  },
+  {
+    "titulo": "Provoleta Horneada con Tomate y Orégano",
+    "descripcion": "Un queso fundido dorado al horno con tomate fresco y un toque de orégano. Ideal como entrada caliente o cena ligera.",
+    "calorias": 642,
+    "proteinas": 43.9,
+    "carbohidratos": 7.0,
+    "grasas": 49.0,
+    "ingredientes": [
+      { "nombre": "Queso Provolone", "cantidad": "7 rebanadas y media, 170 g" },
+      { "nombre": "Aceite de Oliva", "cantidad": "1 cucharadita, 3 ml" },
+      { "nombre": "Orégano", "cantidad": "1 cucharadita y media, 2 g" },
+      { "nombre": "Tomate", "cantidad": "1 unidad pequeña, 65 g" }
+    ],
+    "instrucciones": [
+      "Precalienta el horno a 180 °C.",
+      "Coloca las rebanadas de queso en una cazuela o recipiente para horno.",
+      "Corta el tomate en cubitos o rodajas finas y distribúyelo sobre el queso.",
+      "Agrega una pizca de sal, orégano y unas gotas de aceite de oliva.",
+      "Hornea por 10 minutos, hasta que el queso esté bien derretido y ligeramente dorado.",
+      "Sirve de inmediato con pan tostado, grisines o como topping sobre vegetales asados."
+    ],
+    "infoNutricional": "Rico en grasas y proteínas. Puedes acompañarlo con ensalada o usar queso bajo en grasa para una versión más ligera.",
+    "tiempoPreparacion": 15,
+    "imagenUrl": "https://storage.googleapis.com/fitia_public_images/recipes%2FAR-R-V-00000082_moo4jv3nbrcflqrbusoihs2y_large.jpg",
+    "dificultad": "fácil",
+    "tipoComida": "cena"
+  },
+  {
+    "titulo": "Tortilla Esponjosa de Vainitas y Pan Rallado",
+    "descripcion": "Tortilla ligera y aireada con vainitas cocidas, pan rallado y claras batidas. Perfecta para una cena saludable sin carne.",
+    "calorias": 190,
+    "proteinas": 10.1,
+    "carbohidratos": 13.7,
+    "grasas": 11.4,
+    "ingredientes": [
+      { "nombre": "Aceite", "cantidad": "1 cucharada pequeña y media, 6 ml" },
+      { "nombre": "Pan Rallado", "cantidad": "1 cucharada y media, 9 g" },
+      { "nombre": "Vainitas", "cantidad": "1 taza colmada, 105 g" },
+      { "nombre": "Huevo", "cantidad": "1 unidad y media, 82 g" }
+    ],
+    "instrucciones": [
+      "Hierve las vainitas en agua con sal por 7 minutos hasta que estén tiernas pero firmes. Luego escúrrelas bien.",
+      "Separa las claras de las yemas. Bate las claras a punto nieve hasta que estén firmes.",
+      "En un bol, mezcla las vainitas cocidas con las yemas, el pan rallado y una pizca de sal. Luego incorpora las claras batidas suavemente.",
+      "Calienta el aceite en una sartén pequeña. Vierte la mezcla y cocina a fuego medio por 4 minutos por cada lado, hasta que esté dorada y esponjosa.",
+      "Sirve caliente, sola o acompañada de ensalada o rodajas de tomate fresco."
+    ],
+    "infoNutricional": "Receta rica en proteína y fibra vegetal. Una excelente opción para cenas livianas y nutritivas.",
+    "tiempoPreparacion": 25,
+    "imagenUrl": "/svg/logo/gr.svg",
+    "dificultad": "fácil",
+    "tipoComida": "cena"
+  },
+  {
+    "titulo": "Machas al Horno con Parmesano y Toque de Vino",
+    "descripcion": "Conchas gratinadas con queso parmesano, mantequilla y un toque de vino blanco. Una entrada elegante y fácil para disfrutar caliente.",
+    "calorias": 64,
+    "proteinas": 6.3,
+    "carbohidratos": 2.1,
+    "grasas": 3.1,
+    "ingredientes": [
+      { "nombre": "Queso Parmesano", "cantidad": "9 cucharadas y media, 48 g" },
+      { "nombre": "Vino Blanco", "cantidad": "2 cucharadas y media, 25 ml" },
+      { "nombre": "Sal", "cantidad": "1/2 cucharadita, 3 g" },
+      { "nombre": "Mantequilla", "cantidad": "1/2 cucharada colmada, 14 g" },
+      { "nombre": "Perejil fresco", "cantidad": "1 cucharada y media picada, 5 g" },
+      { "nombre": "Conchas (machas)", "cantidad": "10 unidades limpias, 200 g" }
+    ],
+    "instrucciones": [
+      "Precalienta el horno a 230 °C.",
+      "Limpia las machas y separa una valva por unidad. Coloca la lengua sobre cada concha.",
+      "Distribuye las conchas sobre una bandeja para horno. Rocía con el vino blanco.",
+      "Añade un trocito de mantequilla sobre cada una y cubre con el queso parmesano rallado.",
+      "Espolvorea el perejil picado por encima.",
+      "Hornea por 6 minutos o hasta que el queso esté burbujeante y dorado.",
+      "Sirve caliente. Puedes acompañarlas con limón o pan tostado si deseas."
+    ],
+    "infoNutricional": "Aperitivo bajo en calorías, rico en proteína y muy sabroso. Ideal para compartir en una cena especial o como entrada ligera.",
+    "tiempoPreparacion": 25,
+    "imagenUrl": "/svg/logo/gr.svg",
+    "dificultad": "fácil",
+    "tipoComida": "cena"
+  }
+]

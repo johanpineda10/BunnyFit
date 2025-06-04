@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "541928718925",
+    "project_id": "myfitappteachers",
+    "storage_bucket": "myfitappteachers.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541928718925:android:02b8bb525c73336377d204",
+        "android_client_info": {
+          "package_name": "com.example.pruebas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj8lbfgUZIsQcWYlS5aeGhayN4tuNeVos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
